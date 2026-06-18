@@ -9,11 +9,11 @@ from PyQt5.QtWidgets import (
     QHBoxLayout,
     QLabel,
     QLineEdit,
-    QListWidget,
-    QListWidgetItem,
+    QSplitter,
+    QTreeWidget,
+    QTreeWidgetItem,
     QMessageBox,
     QPushButton,
-    QSplitter,
     QTextBrowser,
     QVBoxLayout,
     QWidget,
@@ -21,11 +21,12 @@ from PyQt5.QtWidgets import (
 
 
 class RuleSection:
-    def __init__(self, title: str, html: str, text: str, anchor: str):
+    def __init__(self, title: str, html: str, text: str, anchor: str, level: int = 1):
         self.title = title
         self.html = html
         self.text = text
         self.anchor = anchor
+        self.level = level
 
 
 class DaggerheartViewer(QWidget):
@@ -44,6 +45,10 @@ class DaggerheartViewer(QWidget):
         self.clear_button = QPushButton("Clear")
         self.clear_button.clicked.connect(self.clear_search)
 
+        self.back_button = QPushButton("Back")
+        self.back_button.clicked.connect(self.go_back)
+        self.back_button.setEnabled(False)
+
         self.home_button = QPushButton("Home")
         self.home_button.clicked.connect(self.go_home)
 
@@ -53,16 +58,19 @@ class DaggerheartViewer(QWidget):
         self.status_label = QLabel("Loading Daggerheart rules...")
         self.status_label.setWordWrap(True)
 
-        self.section_list = QListWidget()
+        self.section_list = QTreeWidget()
+        self.section_list.setHeaderHidden(True)
         self.section_list.currentItemChanged.connect(self.on_section_changed)
 
         self.browser = QTextBrowser()
         self.browser.setOpenExternalLinks(False)
         self.browser.anchorClicked.connect(self.on_anchor_clicked)
+        self.update_browser_link_style()
 
         controls_layout = QHBoxLayout()
         controls_layout.addWidget(self.search_input)
         controls_layout.addWidget(self.clear_button)
+        controls_layout.addWidget(self.back_button)
         controls_layout.addWidget(self.home_button)
         controls_layout.addWidget(self.theme_button)
 
@@ -77,12 +85,15 @@ class DaggerheartViewer(QWidget):
         splitter = QSplitter(Qt.Horizontal)
         splitter.addWidget(left_widget)
         splitter.addWidget(self.browser)
-        splitter.setStretchFactor(1, 2)
+        splitter.setStretchFactor(0, 1)
+        splitter.setStretchFactor(1, 3)
+        splitter.setSizes([280, 820])
 
         main_layout = QHBoxLayout(self)
         main_layout.addWidget(splitter)
 
         self.current_file_path = None
+        self.history = []
         self.dark_mode = True
         self.apply_theme()
 
@@ -107,14 +118,15 @@ class DaggerheartViewer(QWidget):
         current_lines = []
         current_title = "Introduction"
         current_anchor = "intro"
+        current_level = 1
 
         def push_section():
-            nonlocal current_lines, current_title, current_anchor
+            nonlocal current_lines, current_title, current_anchor, current_level
             if not current_lines:
                 return
             html = self.convert_markdown_to_html(current_lines)
             plain_text = self.strip_html(html)
-            sections.append(RuleSection(current_title, html, plain_text, current_anchor))
+            sections.append(RuleSection(current_title, html, plain_text, current_anchor, current_level))
             current_lines = []
 
         for line in lines:
@@ -122,6 +134,7 @@ class DaggerheartViewer(QWidget):
             if heading_match:
                 push_section()
                 hashes, title = heading_match.groups()
+                current_level = len(hashes)
                 current_title = title.strip()
                 current_anchor = re.sub(r"[^a-zA-Z0-9_-]", "-", current_title.lower()).strip("-")
                 current_lines.append(line)
@@ -179,7 +192,11 @@ class DaggerheartViewer(QWidget):
             label = match.group(1)
             target = match.group(2)
             href = self.build_link_href(target)
-            return f"<a href='{href}'>{label}</a>"
+            if href.startswith("file:") or target.endswith(".md") or ".md#" in target:
+                return f"<a href='{href}' style='color: #7fa8ff; text-decoration: underline;'>" \
+                       f"{label}</a>"
+            return f"<a href='{href}'>" \
+                   f"{label}</a>"
 
         text = re.sub(r"\[(.*?)\]\((.*?)\)", replace_link, text)
         return text
@@ -190,15 +207,59 @@ class DaggerheartViewer(QWidget):
 
     def populate_section_list(self, sections):
         self.section_list.clear()
+        stack = []
         for section in sections:
-            item = QListWidgetItem(section.title)
-            item.setData(Qt.UserRole, section)
-            self.section_list.addItem(item)
+            item = QTreeWidgetItem([section.title])
+            item.setData(0, Qt.UserRole, section)
+            item.setHidden(False)
+            while stack and section.level <= stack[-1][0]:
+                stack.pop()
+            if stack:
+                stack[-1][1].addChild(item)
+            else:
+                self.section_list.addTopLevelItem(item)
+                item.setExpanded(True)
+            stack.append((section.level, item))
 
-    def on_section_changed(self, current: QListWidgetItem, previous: QListWidgetItem):
+    def find_first_visible_item(self):
+        def recurse(item):
+            if not item.isHidden():
+                return item
+            for idx in range(item.childCount()):
+                found = recurse(item.child(idx))
+                if found is not None:
+                    return found
+            return None
+
+        for i in range(self.section_list.topLevelItemCount()):
+            item = self.section_list.topLevelItem(i)
+            found = recurse(item)
+            if found is not None:
+                return found
+        return None
+
+    def find_item_by_anchor(self, anchor: str):
+        def recurse(item):
+            section = item.data(0, Qt.UserRole)
+            if section and section.anchor == anchor:
+                return item
+            for idx in range(item.childCount()):
+                found = recurse(item.child(idx))
+                if found is not None:
+                    return found
+            return None
+
+        for i in range(self.section_list.topLevelItemCount()):
+            item = self.section_list.topLevelItem(i)
+            found = recurse(item)
+            if found is not None:
+                return found
+        return None
+
+    def on_section_changed(self, current: QTreeWidgetItem, previous: QTreeWidgetItem):
         if current is None:
             return
-        section = current.data(Qt.UserRole)
+        section = current.data(0, Qt.UserRole)
         if not section:
             return
         self.browser.setHtml(section.html)
@@ -208,22 +269,43 @@ class DaggerheartViewer(QWidget):
         self.current_query = query.strip()
         if not self.sections:
             return
-        filtered = []
+
         if self.current_query:
             query_lower = self.current_query.lower()
-            for section in self.sections:
-                if query_lower in section.text.lower() or query_lower in section.title.lower():
-                    filtered.append(section)
-            self.status_label.setText(f"{len(filtered)} matching section(s) found.")
-        else:
-            filtered = self.sections
-            self.status_label.setText("Showing all sections.")
+            match_count = 0
 
-        self.populate_section_list(filtered)
-        if filtered:
-            self.section_list.setCurrentRow(0)
+            def match_item(item):
+                section = item.data(0, Qt.UserRole)
+                section_match = section and (
+                    query_lower in section.text.lower() or query_lower in section.title.lower()
+                )
+                child_match = False
+                for idx in range(item.childCount()):
+                    if match_item(item.child(idx)):
+                        child_match = True
+                visible = section_match or child_match
+                item.setHidden(not visible)
+                item.setExpanded(child_match)
+                return visible
+
+            self.populate_section_list(self.sections)
+            for idx in range(self.section_list.topLevelItemCount()):
+                if match_item(self.section_list.topLevelItem(idx)):
+                    match_count += 1
+
+            self.status_label.setText(f"{match_count} matching section(s) found.")
+            first_item = self.find_first_visible_item()
+            if first_item is not None:
+                self.section_list.setCurrentItem(first_item)
+            else:
+                self.browser.clear()
         else:
-            self.browser.clear()
+            self.populate_section_list(self.sections)
+            self.status_label.setText("Showing all sections.")
+            if self.section_list.topLevelItemCount() > 0:
+                self.section_list.setCurrentItem(self.section_list.topLevelItem(0))
+            else:
+                self.browser.clear()
 
     def clear_search(self):
         self.search_input.clear()
@@ -237,21 +319,41 @@ class DaggerheartViewer(QWidget):
             self.theme_button.setText("Switch to Light Mode")
             self.setStyleSheet(
                 "QWidget { background-color: #2b2b2b; color: #f0f0f0; }"
-                "QLineEdit, QTextBrowser, QListWidget { background-color: #313131; color: #f0f0f0; }"
+                "QLineEdit, QTextBrowser, QTreeWidget { background-color: #313131; color: #f0f0f0; }"
+                "QTextBrowser { color: #f0f0f0; }"
+                "QTextBrowser a:link, QTextBrowser a:visited { color: #7fa8ff; }"
+                "QTextBrowser a:hover { color: #9cc2ff; }"
                 "QPushButton { background-color: #3c3f41; color: #f0f0f0; border: 1px solid #5a5a5a; }"
                 "QPushButton:hover { background-color: #4a4d4f; }"
                 "QLabel { color: #f0f0f0; }"
-                "QListWidget::item:selected { background-color: #5a7fbf; color: #ffffff; }"
+                "QTreeWidget::item:selected { background-color: #5a7fbf; color: #ffffff; }"
             )
+            self.update_browser_link_style("dark")
         else:
             self.theme_button.setText("Switch to Dark Mode")
             self.setStyleSheet(
                 "QWidget { background-color: #f2f2f2; color: #202020; }"
-                "QLineEdit, QTextBrowser, QListWidget { background-color: #ffffff; color: #202020; }"
+                "QLineEdit, QTextBrowser, QTreeWidget { background-color: #ffffff; color: #202020; }"
+                "QTextBrowser { color: #202020; }"
+                "QTextBrowser a:link, QTextBrowser a:visited { color: #4a79b8; }"
+                "QTextBrowser a:hover { color: #6c92cf; }"
                 "QPushButton { background-color: #e0e0e0; color: #202020; border: 1px solid #b0b0b0; }"
                 "QPushButton:hover { background-color: #d0d0d0; }"
                 "QLabel { color: #202020; }"
             )
+            self.update_browser_link_style("light")
+
+    def update_browser_link_style(self, theme: str = "dark"):
+        if theme == "dark":
+            link_color = "#7fa8ff"
+            hover_color = "#9cc2ff"
+        else:
+            link_color = "#4a79b8"
+            hover_color = "#6c92cf"
+        self.browser.document().setDefaultStyleSheet(
+            f"a {{ color: {link_color}; text-decoration: none; }}"
+            f"a:hover {{ color: {hover_color}; text-decoration: underline; }}"
+        )
 
     def on_anchor_clicked(self, url: QUrl):
         if url.isLocalFile():
@@ -264,12 +366,9 @@ class DaggerheartViewer(QWidget):
         target = url.toString()
         if target.startswith("#"):
             anchor = target[1:]
-            for row in range(self.section_list.count()):
-                item = self.section_list.item(row)
-                section = item.data(Qt.UserRole)
-                if section and section.anchor == anchor:
-                    self.section_list.setCurrentRow(row)
-                    break
+            item = self.find_item_by_anchor(anchor)
+            if item is not None:
+                self.section_list.setCurrentItem(item)
             return
 
         if url.scheme() in ("http", "https"):
@@ -321,8 +420,19 @@ class DaggerheartViewer(QWidget):
             target_path = (self.current_file_path.parent / target_path).resolve()
         return target_path
 
-    def load_markdown_file(self, file_path: Path, anchor: str = None):
-        self.current_file_path = file_path.resolve()
+    def load_markdown_file(self, file_path: Path, anchor: str = None, record_history: bool = True):
+        file_path = file_path.resolve()
+        if record_history and self.current_file_path is not None:
+            current_anchor = None
+            current_item = self.section_list.currentItem()
+            if current_item is not None:
+                current_section = current_item.data(0, Qt.UserRole)
+                if current_section is not None:
+                    current_anchor = current_section.anchor
+            self.history.append((self.current_file_path, current_anchor))
+            self.back_button.setEnabled(True)
+
+        self.current_file_path = file_path
         text = self.current_file_path.read_text(encoding="utf-8")
         self.sections = self.parse_markdown_sections(text)
         if not self.sections:
@@ -332,14 +442,13 @@ class DaggerheartViewer(QWidget):
 
         self.populate_section_list(self.sections)
         self.status_label.setText(f"Loaded {self.current_file_path.name}. Use search to filter sections.")
-        self.section_list.setCurrentRow(0)
+        first_item = self.find_first_visible_item()
+        if first_item is not None:
+            self.section_list.setCurrentItem(first_item)
         if anchor:
-            for row in range(self.section_list.count()):
-                item = self.section_list.item(row)
-                section = item.data(Qt.UserRole)
-                if section and section.anchor == anchor:
-                    self.section_list.setCurrentRow(row)
-                    break
+            item = self.find_item_by_anchor(anchor)
+            if item is not None:
+                self.section_list.setCurrentItem(item)
 
     def go_home(self):
         if self.current_file_path is None:
@@ -347,6 +456,13 @@ class DaggerheartViewer(QWidget):
         home_path = Path(__file__).resolve().parent.parent / "daggerheart-srd" / "README.md"
         if home_path.exists():
             self.load_markdown_file(home_path)
+
+    def go_back(self):
+        if not self.history:
+            return
+        file_path, anchor = self.history.pop()
+        self.back_button.setEnabled(bool(self.history))
+        self.load_markdown_file(file_path, anchor, record_history=False)
 
     def highlight_matches(self, section: RuleSection):
         if not self.current_query:
