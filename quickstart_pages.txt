@@ -1,0 +1,3591 @@
+pages 39
+
+===== PAGE 1 =====
+1
+Daggerheart © Darrington Press 2025
+QUICKSTART ADVENTURE
+INTRODUCTION
+Welcome to Daggerheart! In this quickstart adventure, 
+you'll find the tools you need to play your first session of the 
+game. This document does not contain every rule, so we highly 
+recommend having the core rulebook accessible.
+Before you begin, you’ll need 3-6 players. 2-5 of those 
+players will be PCs, or player characters. They will create a 
+character who will inhabit the world. One player will be the 
+game master, or GM, who is in charge of representing the 
+world at large, asking questions, adjudicating dice rolls, and 
+leading the narrative. In normal play, PCs would make their 
+own characters and the GM would build their own story. For 
+the quickstart adventure, both portions are already prepared. 
+We highly recommend the GM read through each page on 
+their own before players arrive. For more information about 
+the game, or to purchase the core rulebook, visit us at 
+www.daggerheart.com. 
+MATERIALS
+Along with a printed version of this Quickstart Adventure 
+packet, you’ll need:
+•	 A pencil for each player, and a pair of scissors.
+•	 A set of polyhedral dice: 4-sided (d4), 6-sided (d6), 
+8-sided (d8), 10-sided (d10), 12-sided (d12) and twenty-
+sided (d20). Ideally, one set per player.
+•	 A set of two d12s of different colors. Ideally, one set per 
+player.
+•	 A handful of character tokens, at least 7 for each player. 
+These can be anything small you have lying around that 
+won’t be confused for dice (buttons, pennies, chits, etc.).
+•	 12 Fear tokens for the GM. These can be anything small 
+you have lying around that won't be confused for dice.
+GETTING STARTED
+Start by having the GM read The Sablewood Messengers 
+section on the right side of this page aloud.
+THE SABLEWOOD MESSENGERS
+“Marlowe Fairwind, the right-hand sorcerer of King Emeris, 
+has gathered her most trusted allies to carry an important 
+package to Hush, a small village within the ancient forest of 
+Sablewood. The crate is large, heavy and sealed with magic,  
+addressed to the Whitefire Arcanist. You’ve been given a 
+map and a carriage, and the promise of reward upon your 
+arrival.”
+CHOOSING CHARACTERS
+There are five pre-generated characters to choose from in 
+this Quickstart Adventure. The GM should read the options 
+to the players and have them take the four page character 
+packet of the one they would like to play:
+Marlowe Fairwind, the Loreborne Elf Sorcerer 
+She is the personal mage to King Emeris, and is responsible 
+for bringing this group together. She appears calm, until she 
+isn’t. Marlowe must be played during this adventure.
+Barnacle, the Underborne Ribbet Rogue
+There is no danger he will not get into, and no situation he 
+cannot get out of. He fears water and will not swim.
+Garrick Reed, the Highborne Human Warrior 
+A defector from a distant military force, he approaches most 
+conflict with a “kill ‘em with kindness” attitude.
+Khari Nix, the Ridgeborne Giant Guardian 
+Loyal to the end, with a dry sense of humor, she will suffer no 
+fools. Khari was practically born with an axe in her hand.
+Varian Soto, the Wildborne Katari Ranger
+They take a “shoot first, ask questions later” approach. Any 
+problem that can’t be solved with a bow, isn’t a problem yet.
+Then give the game master their GM packet to continue.
+
+===== END PAGE 1 =====
+
+===== PAGE 2 =====
+Daggerheart © Darrington Press 2025
+Marlowe fairwind
+LOREBORNE ELF SORCERER
+Character Overview
+Marlowe Fairwind is the personal mage 
+to King Emeris, and is responsible 
+for bringing this group together. She 
+appears calm, until she isn’t.
+BREAKDOWN
+Community: Marlowe is part of the 
+Loreborne community, meaning 
+she grew up in a place that values 
+knowledge and learning.
+Ancestry: She is an elf, giving her 
+long pointed ears and acutely attuned 
+senses.
+Class & Subclass: As a Primal Origin 
+Sorcerer, she can shape and change the 
+magic she casts in unique ways.
+Experience: Marlowe has the 
+experiences “Royal Mage” and “Not On 
+My Watch.” She will be able to utilize 
+these in play when they apply.
+Weapon: She wields a dualstaff that 
+can hit targets in Far range and when 
+successful, deals 1d6+3 magic damage.
+Question: Why do you think King 
+Emeris trusts you more than anyone 
+else to deliver this package?
+The Basics
+Duality Dice: Two d12 dice of different 
+colors. Choose one to represent Hope 
+and one to represent Fear.
+Action Rolls: Most rolls you make will 
+be action rolls. They use the Duality 
+Dice. Roll them together, add any 
+modifiers that apply, and tell the GM 
+the total, as well as what die rolled 
+higher. 
+“I rolled a 10 on the Fear die, a 5 on the 
+Hope die, and I have a 2 in Instinct, so 
+that’s a 17 with Fear!”
+Hope & Fear: When you roll with Hope, 
+mark a Hope on your character sheet. 
+You’ll be able to spend any Hope you 
+have to aid future rolls for you and your 
+allies. When you roll with Fear, the GM 
+gains a Fear. They can spend Fear to 
+instigate or escalate challenges in the 
+scene.
+Attack Rolls: When you make an 
+attack on a target, it works just like an 
+action roll, but you’ll use the character 
+trait the weapon or spell calls for as 
+your modifier. On a success, you’ll 
+usually make a damage roll.
+Damage Rolls: Roll your damage dice 
+and add their values together. Then tell 
+the GM the value and type of damage 
+you’re doing.
+“I rolled a 5 plus 3, that’s 8 points of 
+magic damage.”
+These mechanics and more will be 
+covered during the coming adventure!
+ 
+Character Sheet & Cards
+On the next page, you’ll find the 
+character sheet for Marlowe. To finish 
+off the build, mark 2 Hope and a 
+handful of gold. The third page will 
+provide you with a guide for your 
+character sheet. The fourth page is 
+your starting loadout of cards, as well 
+as some guidance on how to use them.
+Character Standee
+Cut out the standee below for Marlowe 
+and fold the paper in half so that she 
+can stand on her own on the table. 
+Keep this next to you for now, you’ll 
+need it once you get into battle.
+Answer
+2
+CONNECTIONS
+Create connections with your party before beginning play.  
+Assign at least one of these relationships to a character.
+	
+	
+	
+  	
+I trust you with my life.
+	
+	
+	
+  	
+I once considered you close.
+	
+	
+	
+	
+I owe you a favor.
+Character
+Character
+Character
+
+===== END PAGE 2 =====
+
+===== PAGE 3 =====
+strength
+agility
+FINESSE
+Instinct
+knowledge
+presence
+Sprint
+Leap
+Maneuver
+Lift
+Smash
+Grapple
+Control
+Hide
+Tinker
+Perceive
+Sense
+Navigate
+Charm
+Perform
+Deceive
+Recall
+Analyze
+Comprehend
+hope
+experience
+active armor
+DAMAGE & HEALTH
+class feature
+Daggerheart © Darrington Press 2025
+BAGS
+HANDFULS
+CHEST
+gold
+INVENTORY
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+inventory weapon
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+inventory weapon
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+PRIMARY
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+secondary
+NAME
+FEATURE
+BASE THRESHOLDS
+BASE SCORE
+Mark 1 HP
+Mark 2 HP
+Mark 3 HP
+STRESS
+hp
+MINOR
+Damage
+major
+Damage
+severe
+Damage
+Spend a Hope to use an experience or help an ally.
+name
+heritage
+pronouns
+Subclass
+armor
+evasion
+level
+PROFICIENCY
+active weapons
+Add your current level to your damage thresholds.
+PRIMARY
+SECONDARY
+PRIMARY
+SECONDARY
+Start at 10
+ARCANE SENSE 
+You can sense the presence of magical people and objects within 
+Close range.
+MINOR ILLUSION
+Make a Spellcast Roll (10). On a success, you create a minor visual 
+illusion no larger than yourself within Close range. This illusion is 
+convincing to anyone at Close range or farther.
+CHANNEL RAW POWER
+Once per long rest, you can place a domain card from your loadout 
+into your vault and choose to either:
+• Gain Hope equal to the level of the card.
+• Enhance a spell that deals damage, gaining a bonus to your 
+damage roll equal to twice the level of the card.
+SORCERER
+ARCANA & Midnight
+Volatile Magic: Spend 3 Hope to reroll any number of
+your damage dice on an attack that deals magic damage.
+Marlowe Fairwind
+She/Her
+1
+0
+-1
++1
++2
++1
+0
+10
+7
+14
++2
++2
+3
+Royal Mage
+Dualstaff
+Leather Armor
+Minor Stamina Potion (clear 1d4 stress)
+3
+6/13
+Instinct Far
+1d6+3 mag
+Not On My Watch
+Primal Origin
+Loreborne Elf
+
+===== END PAGE 3 =====
+
+===== PAGE 4 =====
+4
+Daggerheart © Darrington Press 2025
+This section denotes your class. Each class is made up 
+of two domains. Yours are Arcana & Midnight. You’ll 
+choose the majority of your abilities and spells from 
+these domains.
+This section gives you a place to record your name, 
+pronouns, heritage (the combination of your community 
+and ancestry), and subclass. There is also a space to 
+record your level. 
+This is where you record your Hope. You spend Hope to 
+use an Experience (details below), Help an Ally, use a 
+Hope Feature, or initiate a Tag Team Roll. When you 
+Help an Ally, you explain how you’re aiding them and roll 
+a d6 advantage die they add to their action roll total. 
+You start with 2 Hope marked.
+Your class’s unique Hope Feature is in this section as well.
+This is where you keep track of your gold during a 
+campaign. If you should mark your tenth handful, you 
+instead mark a bag and erase all your handfuls. If you 
+should mark your tenth bag, you instead mark a chest. 
+You start with one handful marked.
+Inventory is where you will store all of your items and 
+consumables. Your potion is a consumable, so if you use 
+it, make sure to cross it out here.
+Every class starts with a unique Class Feature that set 
+them apart from other classes. Make sure to read through 
+them before you begin playing.
+This is where you would store any weapons you want 
+to carry, but not have active. While in your inventory, 
+Features from these weapons are not useable or 
+applicable.
+Experience represents the particular specializations 
+your character has. These are narrative tags that you 
+create to reflect what your character is skilled in. When 
+they apply to the scene, you can spend Hope before the 
+action roll to add their value as a modifier. You will earn 
+more of these throughout a campaign, but you start with 
+“Royal Mage” and “Not On My Watch.”
+This is the section for your armor. Along with a name, 
+armor has base thresholds that contribute to your 
+damage thresholds, and a base score that contributes 
+to your Armor Score. The armor’s feature describes its 
+special abilities or the requirements to use it.
+Evasion represents your ability to avoid an attack. Yours 
+is 10. The GM rolls against this number when determining 
+if an adversary hits you. If you do get hit, you can choose 
+to mark an Armor Slot (the small empty shields to the 
+right of the large “Armor” shield) to reduce the severity 
+of the incoming damage by one threshold. You have a 
+number of available slots equal to your Armor Score (the 
+number in the large “Armor” shield). Yours is 3.
+This area contains your six character traits. These are 
+what you will use as your primary modifiers on action 
+rolls. They have descriptions beneath each to remind you 
+how to use them.
+The two smaller boxes are your damage thresholds. 
+These come from your armor, and you always add your 
+level to their value. When you take damage, compare it to 
+the numbers here. If the incoming damage is Minor, you 
+mark a Hit Point. If it is Major, you mark 2 Hit Points. If 
+it is Severe, you mark 3 Hit Points. If you ever need to 
+mark Stress and can’t, mark a Hit Point. If you ever mark 
+your last Hit Point, you must make a death move.
+This is the section for your active weapons. Along with a 
+name, weapons have an associated trait that you will roll 
+when using them for an attack. They also have a range 
+(Melee, Very Close, Close, Far, or Very Far). The GM will tell 
+you what range a target is in. Damage dice are what kind 
+of dice you’re rolling when you make a successful attack, 
+and the type is either physical or magic. Proficiency 
+tells you how many damage dice you roll. The Feature on 
+a weapon gives you any special ability or requirement it 
+has. 
+Weapons are either one-handed or two-handed. You'll 
+see the appropriate amount of hands are already filled for 
+the weapon you've taken.
+Marlowe carries a Dualstaff that deals 1d6+3 magic 
+damage to any adversaries you succeed against.
+SLIDE THIS SIDE OUT TO THE RIGHT 
+OF YOUR CHARACTER SHEET.
+SLIDE THIS SIDE OUT TO THE LEFT 
+OF YOUR CHARACTER SHEET.
+
+===== END PAGE 4 =====
+
+===== PAGE 5 =====
+community
+domain
+ancestry
+domain
+subclass
+1
+1
+Spell
+Rain of Blades
+Spend a Hope to make a Spellcast Roll and conjure 
+throwing blades that strike out at all targets within 
+Very Close range. Targets you succeed against take 
+d8+2 magic damage using your Proficiency. 
+If a target you hit is Vulnerable, they take an extra 
+1d8 damage.
+Linda Lithén
+Daggerheart © Darrington Press 2025
+DH Core 188/270  |
+1
+1
+Spell
+Unleash Chaos
+At the beginning of a session, place a number of 
+tokens equal to your Spellcast trait on this card. 
+Make a Spellcast Roll against a target within Far 
+range and spend any number of tokens to channel 
+raw energy from within yourself to unleash against 
+them. On a success, roll a number of d10s equal 
+to the tokens you spent and deal that much magic 
+damage to the target. Mark a Stress to replenish 
+this card with tokens (up to your Spellcast trait). 
+At the end of each session, clear all unspent tokens.
+Ernanda Souza
+Daggerheart © Darrington Press 2025
+DH Core 083/270  |
+C O M M U N I T Y
+Loreborne
+Being part of a loreborne community means you’re 
+from a society that favors strong academic or 
+political prowess. 
+Well‑Read: You have advantage on rolls that 
+involve the history, culture, or politics of a 
+prominent person or place.
+Daggerheart © Darrington Press 2025
+Juan Gutierrez
+DH Core 074/270  |
+A N C E S T R Y
+Elf
+Elves are typically tall humanoids with pointed ears 
+and acutely attuned senses.
+Quick Reactions: Mark a Stress to gain advantage 
+on a reaction roll.
+Celestial Trance: During a rest, you can drop into a 
+trance to choose an additional downtime move.
+DH Core 059/270  | Daggerheart © Darrington Press 2025
+Mat Wilma
+Laura Galli
+Daggerheart © Darrington Press 2025
+Primal Origin
+Foundation
+SPELLCAST TRAIT: INSTINCT
+Manipulate Magic: Your primal origin allows you to 
+modify the essence of magic itself. After you cast a 
+spell or make an attack using a weapon that deals 
+magic damage, you can mark a Stress to do one of 
+the following:
+• Extend the spell or attack’s reach by one range
+• Gain a +2 bonus to the action roll’s result
+• Double a damage die of your choice
+• Hit an additional target within range
+DH Core 040/270  |
+Daggerheart © Darrington Press 2025
+5
+Type of Domain Card
+Recall Cost 
+When cards are in your Vault, this is how 
+much Stress they cost to swap into your 
+loadout. You don't need to worry about 
+this at Level 1!
+Level & Domain
+Spellcast Trait is on this card. It’s 
+the trait you’ll use when making a 
+Spellcast Roll.
+Spellcast Roll uses your Spellcast Trait, 
+which can be found on your subclass 
+card. Yours is Instinct.
+Vulnerable is a condition in the game. 
+If a creature is Vulnerable, a roll against 
+them has advantage. This means you roll 
+a d6 and add its value as a bonus to your 
+action roll.
+All passive bonuses have 
+already been applied to your 
+character sheet.
+When you see a move like this that gives you a die 
+value "using your Proficiency" you use an amount of 
+dice equal to your Proficiency (yours is 1).
+Marlowe fairwind
+LEVEL 1 LOADOUT
+
+===== END PAGE 5 =====
+
+===== PAGE 6 =====
+Daggerheart © Darrington Press 2025
+barnacle
+UNDERBORNE RIBBET ROGUE
+Character Overview
+There is no danger he will not get into, 
+and no situation he cannot get out of. 
+He fears water and will not swim.
+BREAKDOWN
+Community: Barnacle is part of the 
+Underborne community, meaning he 
+is from one of the cavern societies 
+burrowed deep underground.
+Ancestry: He is a ribbet, giving him 
+protruding eyes and webbed digits.
+Class & Subclass: As a Nightwalker 
+Rogue, he can move from shadow to 
+shadow.
+Experience: Barnacle has the 
+experiences “They Don’t See Me 
+Coming!” and “Strike a Deal.” He will be 
+able to utilize these in play when they 
+apply.
+Weapon: He wields a dagger that 
+can hit a target in Melee range and 
+when successful, deals 1d8+1 physical 
+damage.
+Question: What strange or interesting 
+rumor have you heard about the 
+Sablewood?
+The Basics
+Duality Dice: Two d12 dice of different 
+colors. Choose one to represent Hope 
+and one to represent Fear.
+Action Rolls: Most rolls you make will 
+be action rolls. They use the Duality 
+Dice. Roll them together, add any 
+modifiers that apply, and tell the GM 
+the total, as well as what die rolled 
+higher. 
+“I rolled a 10 on the Fear die, a 5 on the 
+Hope die, and I have a 2 in Finesse, so 
+that’s a 17 with Fear!”
+Hope & Fear: When you roll with Hope, 
+mark a Hope on your character sheet. 
+You’ll be able to spend any Hope you 
+have to aid future rolls for you and your 
+allies. When you roll with Fear, the GM 
+gains a Fear. They can spend Fear to 
+instigate or escalate challenges in the 
+scene.
+Attack Rolls: When you make an 
+attack on a target, it works just like an 
+action roll, but you’ll use the character 
+trait the weapon or spell calls for as 
+your modifier. On a success, you’ll 
+usually make a damage roll.
+Damage Rolls: Roll your damage dice 
+and add their values together. Then tell 
+the GM the value and type of damage 
+you’re doing.
+“I rolled a 7 plus 1, that’s 8 points of 
+physical damage.”
+These mechanics and more will be 
+covered during the coming adventure!
+ 
+Character Sheet & Cards
+On the next page, you’ll find the 
+character sheet for Barnacle. To finish 
+off the build, mark two Hope and a 
+handful of gold. The third page will 
+provide you with a guide for your 
+character sheet. The fourth page is 
+your starting loadout of cards, as well 
+as some guidance on how to use them.
+Character Standee
+Cut out the standee below for Barnacle 
+and fold the paper in half so that he can 
+stand on his own on the table. Keep this 
+next to you for now, you’ll need it once 
+you get into battle. 
+Answer
+6
+Character
+Character
+Character
+CONNECTIONS
+Create connections with your party before beginning play. 
+Assign at least one of these relationships to a character.
+	
+	
+	
+  	
+I’d follow you anywhere.
+	
+	
+	
+  	
+We get in too much trouble.	
+	
+	
+	
+   	
+I’m intimidated by you.
+
+===== END PAGE 6 =====
+
+===== PAGE 7 =====
+strength
+agility
+FINESSE
+Instinct
+knowledge
+presence
+Sprint
+Leap
+Maneuver
+Lift
+Smash
+Grapple
+Control
+Hide
+Tinker
+Perceive
+Sense
+Navigate
+Charm
+Perform
+Deceive
+Recall
+Analyze
+Comprehend
+hope
+experience
+active armor
+DAMAGE & HEALTH
+class feature
+Daggerheart © Darrington Press 2025
+BAGS
+HANDFULS
+CHEST
+gold
+INVENTORY
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+inventory weapon
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+inventory weapon
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+PRIMARY
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+secondary
+NAME
+FEATURE
+BASE THRESHOLDS
+BASE SCORE
+Mark 1 HP
+Mark 2 HP
+Mark 3 HP
+STRESS
+hp
+MINOR
+Damage
+major
+Damage
+severe
+Damage
+Spend a Hope to use an experience or help an ally.
+name
+heritage
+pronouns
+Subclass
+armor
+evasion
+level
+PROFICIENCY
+active weapons
+Add your current level to your damage thresholds.
+PRIMARY
+SECONDARY
+PRIMARY
+SECONDARY
+Start at 12
+CLOAKED 
+Any time you would be Hidden, you are instead Cloaked. In addition 
+to the beneﬁ ts of the Hidden condition, while Cloaked you remain 
+unseen if you are stationary when an adversary moves to where 
+they would normally see you. After you make an attack or end a 
+move within line of sight of an adversary, you are no longer Cloaked.
+SNEAK ATTACK
+When you succeed on an attack while Cloaked or while an ally is 
+within Melee range of your target, add a number of d6s equal to 
+your tier to your damage roll. 
+Level 1 is Tier 1
+Levels 2–4 are Tier 2 
+Levels 5–7 are Tier 3
+Levels 8–10 are Tier 4
+ROGUE
+midnight & grace
+Rogue’s Dodge: Spend 3 Hope to gain a +2 bonus to your 
+Evasion until the next time an attack succeeds against you. 
+Otherwise, this bonus lasts until your next rest.
+Barnacle
+He/Him
+1
++1
+-1
++2
+0
++1
+0
+13
+12
+6
++2
++2
+3
+They don’t see me coming!
+Dagger
+Gambeson Armor
+Minor Stamina Potion (clear 1d4 stress)
+3
+5/11
+Finesse Melee
+1d8+1 phy
+Strike a deal
+Nightwalker
+Underborne Ribbet
+Flexible: +1 to Evasion
+
+===== END PAGE 7 =====
+
+===== PAGE 8 =====
+8
+Daggerheart © Darrington Press 2025
+This section denotes your class. Each class is made up of 
+two domains. Yours are Midnight & Grace. You’ll choose 
+the majority of your abilities and spells from these 
+domains.
+This section gives you a place to record your name, 
+pronouns, heritage (the combination of your community 
+and ancestry), and subclass. There is also a space to 
+record your level. 
+This is where you record your Hope. You spend Hope to 
+use an Experience (details below), Help an Ally, use a 
+Hope Feature, or initiate a Tag Team Roll. When you 
+Help an Ally, you explain how you’re aiding them and roll 
+a d6 advantage die they add to their action roll total. 
+You start with 2 Hope marked.
+Your class’s unique Hope Feature is in this section as well.
+This is where you keep track of your gold during a 
+campaign. If you should mark your tenth handful, you 
+instead mark a bag and erase all your handfuls. If you 
+should mark your tenth bag, you instead mark a chest. 
+You start with one handful marked.
+Inventory is where you will store all of your items and 
+consumables. Your potion is a consumable, so if you use 
+it, make sure to cross it out here.
+Every class starts with a unique Class Feature that sets 
+them apart from other classes. Make sure to read through 
+them before you begin playing.
+This is where you would store any weapons you want 
+to carry, but not have active. While in your inventory, 
+Features from these weapons are not useable or 
+applicable.
+Experience represents the particular specializations 
+your character has. These are narrative tags that you 
+create to reflect what your character is skilled in. When 
+they apply to the scene, you can spend Hope before the 
+action roll to add their value as a modifier. You will earn 
+more of these throughout a campaign, but you start with 
+“They Don’t See Me Coming!” and “Strike a Deal.”
+This is the section for your armor. Along with a name, 
+armor has base thresholds that contribute to your 
+damage thresholds, and a base score that contributes 
+to your Armor Score. The armor’s feature describes its 
+special abilities or the requirements to use it.
+Evasion represents your ability to avoid an attack. Yours 
+is 13. The GM rolls against this number when determining 
+if an adversary hits you. If you do get hit, you can choose 
+to mark an Armor Slot (the small empty shields to the 
+right of the large “Armor” shield) to reduce the severity 
+of the incoming damage by one threshold. You have a 
+number of available slots equal to your Armor Score (the 
+number in the large “Armor” shield). Yours is 3.
+This area contains your six character traits. These are 
+what you will use as your primary modifiers on action 
+rolls. They have descriptions beneath each to remind you 
+how to use them.
+The two smaller boxes are your damage thresholds. 
+These come from your armor, and you always add your 
+level to their value. When you take damage, compare it to 
+the numbers here. If the incoming damage is Minor, you 
+mark a Hit Point. If it is Major, you mark 2 Hit Points. If 
+it is Severe, you mark 3 Hit Points. If you ever need to 
+mark Stress and can’t, mark a Hit Point. If you ever mark 
+your last Hit Point, you must make a death move.
+This is the section for your active weapons. Along with a 
+name, weapons have an associated trait that you will roll 
+when using them for an attack. They also have a range 
+(Melee, Very Close, Close, Far, or Very Far). The GM will tell 
+you what range a target is in. Damage dice are what kind 
+of dice you’re rolling when you make a successful attack, 
+and the type is either physical or magic. Proficiency 
+tells you how many damage dice you roll. The Feature on 
+a weapon gives you any special ability or requirement it 
+has.  
+Weapons are either one-handed or two-handed. You'll 
+see the appropriate amount of hands are already filled for 
+the weapon you've taken.
+Barnacle carries a Dagger that deals 1d8+1 physical 
+damage to any adversaries you succeed against.
+SLIDE THIS SIDE OUT TO THE RIGHT 
+OF YOUR CHARACTER SHEET.
+SLIDE THIS SIDE OUT TO THE LEFT 
+OF YOUR CHARACTER SHEET.
+
+===== END PAGE 8 =====
+
+===== PAGE 9 =====
+community
+ancestry
+subclass
+domain
+domain
+1
+0
+Ability
+Pick and Pull
+You have advantage on action rolls to pick 
+nonmagical locks, disarm nonmagical traps, or steal 
+items from a target (either through stealth or by 
+force).
+Benjamin Ee
+Daggerheart © Darrington Press 2025
+DH Core 187/270  |
+1
+1
+Ability
+Inspirational Words
+Your speech is imbued with power. After a long 
+rest, place a number of tokens on this card equal 
+to your Presence. When you speak with an ally, you 
+can spend a token from this card to give them one 
+benefit from the following options:
+• Your ally clears a Stress.
+• Your ally clears a Hit Point.
+• Your ally gains a Hope.
+When you take a long rest, clear all unspent tokens.
+Mat Wilma
+Daggerheart © Darrington Press 2025
+DH Core 168/270  |
+Juan Salvador Almencion
+Daggerheart © Darrington Press 2025
+Nightwalker
+Foundation
+SPELLCAST TRAIT: FINESSE
+Shadow Stepper: You can move from shadow to 
+shadow. When you move into an area of darkness 
+or a shadow cast by another creature or object, 
+you can mark a Stress to disappear from where 
+you are and reappear inside another shadow within 
+Far range. When you reappear, you are Cloaked.
+DH Core 025/270  |
+A N C E S T R Y
+Ribbet
+Ribbets resemble anthropomorphic frogs with 
+protruding eyes and webbed hands and feet.
+Amphibious: You can breathe and move naturally 
+underwater.
+Long Tongue: You can use your long tongue to grab 
+onto things within Close range. Mark a Stress to 
+use your tongue as a Finesse Close weapon that 
+deals d12 physical damage using your Proficiency. 
+DH Core 072/270  | Daggerheart © Darrington Press 2025
+Leesha Hannigan
+C O M M U N I T Y
+Underborne
+Being part of an underborne community means 
+you’re from a subterranean society.
+Low‑Light Living: When you’re in an area with low 
+light or heavy shadow, you have advantage on rolls 
+to hide, investigate, or perceive details within that 
+area.
+Daggerheart © Darrington Press 2025
+Irina Nordsol
+DH Core 079/270  |
+Daggerheart © Darrington Press 2025
+9
+When you see a move like this that gives you a die 
+value "using your Proficiency" you use an amount of 
+dice equal to your Proficiency (yours is 1).
+barnacle
+LEVEL 1 LOADOUT
+Recall Cost 
+When cards are in your Vault, this is how 
+much Stress they cost to swap into your 
+loadout. You don't need to worry about 
+this at Level 1!
+Level & Domain
+Spellcast Trait is on this card. It’s 
+the trait you’ll use when making a 
+Spellcast Roll.
+Type of Domain Card
+All passive bonuses have 
+already been applied to your 
+character sheet.
+
+===== END PAGE 9 =====
+
+===== PAGE 10 =====
+Daggerheart © Darrington Press 2025
+Garrick Reed
+HIGHBORNE HUMAN WARRIOR
+Character Overview
+A defector from a distant military force, 
+he approaches most conflict with a “kill 
+‘em with kindness” attitude.
+BREAKDOWN
+Community: Garrick is part of the 
+Highborne community, meaning he was 
+born into a life of elegance, opulence, 
+and prestige.
+Ancestry: He is a human, giving him 
+rounded ears and a natural endurance.
+Class & Subclass: As a Call of the 
+Brave Warrior, he can steel himself 
+before battle to gain a tactical 
+advantage.
+Experience: Garrick has the 
+experiences “Affable” and “Hit Them 
+Hard.” He will be able to utilize these in 
+play when they apply.
+Weapon: He wields a longsword that 
+can hit targets in Melee range and 
+when successful, deals 1d8+3 physical 
+damage.
+Question: What has Marlowe asked of 
+you previously that made this mission 
+difficult to say yes to?
+The Basics
+Duality Dice: Two d12 dice of different 
+colors. Choose one to represent Hope 
+and one to represent Fear.
+Action Rolls: Most rolls you make will 
+be action rolls. They use the Duality 
+Dice. Roll them together, add any 
+modifiers that apply, and tell the GM 
+the total, as well as what die rolled 
+higher. 
+“I rolled a 10 on the Fear die, a 5 on the 
+Hope die, and I have a 2 in Agility, so 
+that’s a 17 with Fear!”
+Hope & Fear: When you roll with Hope, 
+mark a Hope on your character sheet. 
+You’ll be able to spend any Hope you 
+have to aid future rolls for you and your 
+allies. When you roll with Fear, the GM 
+gains a Fear. They can spend Fear to 
+instigate or escalate challenges in the 
+scene.
+Attack Rolls: When you make an 
+attack on a target, it works just like an 
+action roll, but you’ll use the character 
+trait the weapon or spell calls for as 
+your modifier. On a success, you’ll 
+usually make a damage roll.
+Damage Rolls: Roll your damage dice 
+and add their values together. Then tell 
+the GM the value and type of damage 
+you’re doing.
+“I rolled a 6 plus 3, so that’s 9 points of 
+physical damage.”
+These mechanics and more will be 
+covered during the coming adventure!
+ 
+Character Sheet & Cards
+On the next page, you’ll find the 
+character sheet for Garrick Reed. To 
+finish off the build, mark two Hope 
+and a handful of gold. The third page 
+will provide you with a guide for your 
+character sheet. The fourth page is 
+your starting loadout of cards, as well 
+as some guidance on how to use them.
+Character Standee
+Cut out the standee below for Garrick 
+and fold the paper in half so that he can 
+stand on his own on the table. Keep this 
+next to you for now, you’ll need it once 
+you get into battle. 
+Answer
+10
+Character
+Character
+Character
+CONNECTIONS
+Create connections with your party before beginning play. 
+Assign at least one of these relationships to a character.
+I’ll keep your secret.
+I see you trying your best.
+We need to put our feelings aside.
+
+===== END PAGE 10 =====
+
+===== PAGE 11 =====
+strength
+agility
+FINESSE
+Instinct
+knowledge
+presence
+Sprint
+Leap
+Maneuver
+Lift
+Smash
+Grapple
+Control
+Hide
+Tinker
+Perceive
+Sense
+Navigate
+Charm
+Perform
+Deceive
+Recall
+Analyze
+Comprehend
+hope
+experience
+active armor
+DAMAGE & HEALTH
+class feature
+Daggerheart © Darrington Press 2025
+BAGS
+HANDFULS
+CHEST
+gold
+INVENTORY
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+inventory weapon
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+inventory weapon
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+PRIMARY
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+secondary
+NAME
+FEATURE
+BASE THRESHOLDS
+BASE SCORE
+Mark 1 HP
+Mark 2 HP
+Mark 3 HP
+STRESS
+hp
+MINOR
+Damage
+major
+Damage
+severe
+Damage
+Spend a Hope to use an experience or help an ally.
+name
+heritage
+pronouns
+Subclass
+armor
+evasion
+level
+PROFICIENCY
+active weapons
+Add your current level to your damage thresholds.
+PRIMARY
+SECONDARY
+PRIMARY
+SECONDARY
+Start at 11
+ATTACK OF OPPORTUNITY
+When an adversary within Melee range attempts to leave that 
+range, make a reaction roll using a trait of your choice against their 
+Diffi  culty. Choose one eff ect on a success, or two if you critically 
+succeed:
+• They can’t move from where they are.
+• You deal damage to them equal to your primary weapon’s 
+damage.
+• You move with them.
+COMBAT TRAINING
+You ignore burden when equipping weapons. When you deal 
+physical damage, you gain a bonus to your damage roll equal to 
+your level.
+WARRIOR
+blade & bone
+No Mercy: Spend 3 Hope to gain a +1 bonus
+to your attack rolls until your next rest. 
+Garrick Reed
+He/Him
+Call of the Brave
+Highborne Human
+1
++2
++1
++1
+0
+-1
+0
+11
+14
+7
++2
++2
+3
+Affable
+Longsword
+Leather Armor
+Minor Health Potion (clear 1d4 Hit Points)
+3
+6/13
+Agility Melee
+1d8+3 phy
+Hit Them Hard
+
+===== END PAGE 11 =====
+
+===== PAGE 12 =====
+12
+Daggerheart © Darrington Press 2025
+This section denotes your class. Each class is made up of 
+two domains. Yours are Blade & Bone. You’ll choose the 
+majority of your abilities and spells from these domains.
+This section gives you a place to record your name, 
+pronouns, heritage (the combination of your community 
+and ancestry), and subclass. There is also a space to 
+record your level. 
+This is where you record your Hope. You spend Hope to 
+use an Experience (details below), Help an Ally, use a 
+Hope Feature, or initiate a Tag Team Roll. When you 
+Help an Ally, you explain how you’re aiding them and roll 
+a d6 advantage die they add to their action roll total. 
+You start with 2 Hope marked.
+Your class’s unique Hope Feature is in this section as well.
+This is where you keep track of your gold during a 
+campaign. If you should mark your tenth handful, you 
+instead mark a bag and erase all your handfuls. If you 
+should mark your tenth bag, you instead mark a chest. 
+You start with one handful marked.
+Inventory is where you will store all of your items and 
+consumables. Your potion is a consumable, so if you use 
+it, make sure to cross it out here.
+Every class starts with a unique Class Feature that sets 
+them apart from other classes. Make sure to read through 
+them before you begin playing.
+This is where you would store any weapons you want 
+to carry, but not have active. While in your inventory, 
+Features from these weapons are not useable or 
+applicable.
+Experience represents the particular specializations 
+your character has. These are narrative tags that you 
+create to reflect what your character is skilled in. When 
+they apply to the scene, you can spend Hope before the 
+action roll to add their value as a modifier. You will earn 
+more of these throughout a campaign, but you start with 
+“Affable” and “Hit Them Hard.”
+This is the section for your armor. Along with a name, 
+armor has base thresholds that contribute to your 
+damage thresholds, and a base score that contributes 
+to your Armor Score. The armor’s feature describes its 
+special abilities or the requirements to use it.
+Evasion represents your ability to avoid an attack. Yours 
+is 11. The GM rolls against this number when determining 
+if an adversary hits you. If you do get hit, you can choose 
+to mark an Armor Slot (the small empty shields to the 
+right of the large “Armor” shield) to reduce the severity 
+of the incoming damage by one threshold. You have a 
+number of available slots equal to your Armor Score (the 
+number in the large “Armor” shield). Yours is 3. 
+This area contains your six character traits. These are 
+what you will use as your primary modifiers on action 
+rolls. They have descriptions beneath each to remind you 
+how to use them.
+The two smaller boxes are your damage thresholds. 
+These come from your armor, and you always add your 
+level to their value. When you take damage, compare it to 
+the numbers here. If the incoming damage is Minor, you 
+mark a Hit Point. If it is Major, you mark 2 Hit Points. If 
+it is Severe, you mark 3 Hit Points. If you ever need to 
+mark Stress and can’t, mark a Hit Point. If you ever mark 
+your last Hit Point, you must make a death move.
+This is the section for your active weapons. Along with a 
+name, weapons have an associated trait that you will roll 
+when using them for an attack. They also have a range 
+(Melee, Very Close, Close, Far, or Very Far). The GM will tell 
+you what range a target is in. Damage dice are what kind 
+of dice you’re rolling when you make a successful attack, 
+and the type is either physical or magic. Proficiency 
+tells you how many damage dice you roll. The Feature on 
+a weapon gives you any special ability or requirement it 
+has. 
+Weapons are either one-handed or two-handed. You'll 
+see the appropriate amount of hands are already filled for 
+the weapon you've taken.
+Garrick carries a Longsword that deals 1d8+3 physical 
+damage to any adversaries you succeed against.
+SLIDE THIS SIDE OUT TO THE RIGHT 
+OF YOUR CHARACTER SHEET.
+SLIDE THIS SIDE OUT TO THE LEFT 
+OF YOUR CHARACTER SHEET.
+
+===== END PAGE 12 =====
+
+===== PAGE 13 =====
+community
+domain
+ancestry
+domain
+subclass
+Mat Wilma
+Daggerheart © Darrington Press 2025
+call of the BRAVE
+Foundation
+Courage: When you fail a roll with Fear, you gain a 
+Hope.
+Battle Ritual: Once per long rest, before you 
+attempt something incredibly dangerous or face 
+off against a foe who clearly outmatches you, 
+describe what ritual you perform or preparations 
+you make. When you do, clear 2 Stress and gain 2 
+Hope. 
+DH Core 043/270  |
+A N C E S T R Y
+Human
+Humans are most easily recognized by their 
+dexterous hands, rounded ears, and bodies built for 
+endurance.
+High Stamina: Gain an additional Stress slot at 
+character creation.
+Adaptability: When you fail a roll that utilized  
+one of your Experiences, you can mark a Stress 
+to reroll. 
+DH Core 068/270  | Daggerheart © Darrington Press 2025
+Fernanda Suarez
+C O M M U N I T Y
+Highborne
+Being part of a highborne community means you’re 
+accustomed to a life of elegance, opulence, and 
+prestige within the upper echelons of society.
+Privilege: You have advantage on rolls to consort 
+with nobles, negotiate prices, or leverage your 
+reputation to get what you want. 
+Daggerheart © Darrington Press 2025
+Julia Metzger
+DH Core 073/270  |
+1
+1
+Ability
+Not Good Enough
+When you roll your damage dice, you can reroll any 
+1s or 2s.
+Juan Salvador Almencion
+Daggerheart © Darrington Press 2025
+DH Core 104/270  |
+Daggerheart © Darrington Press 2025
+13
+Recall Cost 
+When cards are in your Vault, this is how 
+much Stress they cost to swap into your 
+loadout. You don't need to worry about 
+this at Level 1!
+Feature
+This feature let's you gain a d4 bonus 
+to your Evasion against an attack 
+beyond Melee range. Once the attack is 
+completed (whether it succeeds or fails), 
+your Evasion returns to normal.
+Level & Domain
+Type of Domain Card
+All passive bonuses have 
+already been applied to your 
+character sheet.
+garrick reed
+LEVEL 1 LOADOUT
+
+===== END PAGE 13 =====
+
+===== PAGE 14 =====
+Daggerheart © Darrington Press 2025
+Khari Nix
+RIDGEBORNE GIANT GUARDIAN
+Character Overview
+Loyal to the end, with a dry sense of 
+humor, she will suffer no fools. Khari 
+was practically born with an axe in her 
+hand.
+BREAKDOWN
+Community: Khari is part of the 
+Ridgeborne community, meaning 
+she was raised in a mountainous 
+environment.
+Ancestry: She is a giant, meaning she 
+is very tall with broad stature and long 
+reach.
+Class & Subclass: As a Stalwart 
+Guardian, she is excellent at tanking 
+physical damage in battle.
+Experience: Khari has the experiences 
+“I’ve Got Your Back” and “Not Afraid 
+of Anything.” She will be able to utilize 
+these in play when they apply.
+Weapon: She wields a battleaxe that 
+can hit targets in Very Close range and 
+when successful, deals 1d10+3 physical 
+damage.
+Question: Your community called the 
+Sablewood something else. What was 
+their name for it, and why?
+The Basics
+Duality Dice: Two d12 dice of different 
+colors. Choose one to represent Hope 
+and one to represent Fear.
+Action Rolls: Most rolls you make will 
+be action rolls. They use the Duality 
+Dice. Roll them together, add any 
+modifiers that apply, and tell the GM 
+the total, as well as what die rolled 
+higher. 
+“I rolled a 10 on the Fear die, a 5 on the 
+Hope die, and I have a 2 in Strength, so 
+that’s a 17 with Fear!”
+Hope & Fear: When you roll with Hope, 
+mark a Hope on your character sheet. 
+You’ll be able to spend any Hope you 
+have to aid future rolls for you and your 
+allies. When you roll with Fear, the GM 
+gains a Fear. They can spend Fear to 
+instigate or escalate challenges in the 
+scene.
+Attack Rolls: When you make an 
+attack on a target, it works just like an 
+action roll, but you’ll use the character 
+trait the weapon or spell calls for as 
+your modifier. On a success, you’ll 
+usually make a damage roll.
+Damage Rolls: Roll your damage dice 
+and add their values together. Then tell 
+the GM the value and type of damage 
+you’re doing.
+“I rolled a 7 plus 3, that’s 10 points of 
+physical damage.”
+These mechanics and more will be 
+covered during the coming adventure!
+ 
+Character Sheet & Cards
+On the next page, you’ll find the 
+character sheet for Khari Nix. To 
+finish off the build, mark two Hope 
+and a handful of gold. The third page 
+will provide you with a guide for your 
+character sheet. The fourth page is 
+your starting loadout of cards, as well 
+as some guidance on how to use them.
+Character Standee
+Cut out the standee below for Khari and 
+fold the paper in half so that she can 
+stand on her own on the table. Keep 
+this next to you for now, you’ll need it 
+once you get into battle. 
+Answer
+14
+Character
+Character
+Character
+CONNECTIONS
+Create connections with your party before beginning play. 
+Assign at least one of these relationships to a character.
+We both want the same thing.
+I’m trying to impress you.
+You are my childhood friend.
+
+===== END PAGE 14 =====
+
+===== PAGE 15 =====
+strength
+agility
+FINESSE
+Instinct
+knowledge
+presence
+Sprint
+Leap
+Maneuver
+Lift
+Smash
+Grapple
+Control
+Hide
+Tinker
+Perceive
+Sense
+Navigate
+Charm
+Perform
+Deceive
+Recall
+Analyze
+Comprehend
+hope
+experience
+active armor
+DAMAGE & HEALTH
+class feature
+Daggerheart © Darrington Press 2025
+BAGS
+HANDFULS
+CHEST
+gold
+INVENTORY
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+inventory weapon
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+inventory weapon
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+PRIMARY
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+secondary
+NAME
+FEATURE
+BASE THRESHOLDS
+BASE SCORE
+Mark 1 HP
+Mark 2 HP
+Mark 3 HP
+STRESS
+hp
+MINOR
+Damage
+major
+Damage
+severe
+Damage
+Spend a Hope to use an experience or help an ally.
+name
+heritage
+pronouns
+Subclass
+armor
+evasion
+level
+PROFICIENCY
+active weapons
+Add your current level to your damage thresholds.
+PRIMARY
+SECONDARY
+PRIMARY
+SECONDARY
+Start at 9
+Frontline Tank: Spend 3 Hope to clear 2 Armor Slots.
+UNSTOPPABLE 
+Once per long rest, you can become Unstoppable. 
+You gain an Unstoppable Die. At level 1, your 
+Unstoppable Die is a d4. Place it on this sheet 
+in the space provided, starting with the 1 value 
+facing up. After you make a damage roll that 
+deals 1 or more Hit Points to a target, increase the 
+Unstoppable Die value by one. When the die’s value 
+would exceed its maximum value or when the scene 
+ends, remove the die and drop out of Unstoppable. At 
+level 5, your Unstoppable Die increases to a d6. 
+ While Unstoppable, you gain the following beneﬁ ts:
+• You reduce the severity of physical damage by one threshold 
+(Severe to Major, Major to Minor, Minor to None).
+• You add the current value of the Unstoppable Die to your 
+damage roll.
+• You can’t be Restrained or Vulnerable.
+GUARDIAN
+valor & blade
+Khari Nix
+She/Her
+Stalwart
+Ridgeborne Giant
+1
+0
++2
+-1
++1
+0
++1
+8
+17
+9
++2
++2
+4
+I’ve got your back
+Battleaxe
+Chainmail Armor
+Heavy: -1 to Evasion
+Minor Health Potion (clear 1d4 Hit Points)
+4
+7/15
+Strength Very Close
+1d10+3 phy
+Not afraid of anything
+
+===== END PAGE 15 =====
+
+===== PAGE 16 =====
+16
+Daggerheart © Darrington Press 2025
+This section denotes your class. Each class is made up of 
+two domains. Yours are Valor & Blade. You’ll choose the 
+majority of your abilities and spells from these domains.
+This section gives you a place to record your name, 
+pronouns, heritage (the combination of your community 
+and ancestry), and subclass. There is also a space to 
+record your level. 
+This is where you record your Hope. You spend Hope to 
+use an Experience (details below), Help an Ally, use a 
+Hope Feature, or initiate a Tag Team Roll. When you 
+Help an Ally, you explain how you’re aiding them and roll 
+a d6 advantage die they add to their action roll total. 
+You start with 2 Hope marked.
+Your class’s unique Hope Feature is in this section as well.
+This is where you keep track of your gold during a 
+campaign. If you should mark your tenth handful, you 
+instead mark a bag and erase all your handfuls. If you 
+should mark your tenth bag, you instead mark a chest. 
+You start with one handful marked.
+Inventory is where you will store all of your items and 
+consumables. Your potion is a consumable, so if you use 
+it, make sure to cross it out here.
+Every class starts with a unique Class Feature that sets 
+them apart from other classes. Make sure to read through 
+them before you begin playing.
+This is where you would store any weapons you want 
+to carry, but not have active. While in your inventory, 
+Features from these weapons are not useable or 
+applicable.
+Experience represents the particular specializations 
+your character has. These are narrative tags that you 
+create to reflect what your character is skilled in. When 
+they apply to the scene, you can spend Hope before the 
+action roll to add their value as a modifier. You will earn 
+more of these throughout a campaign, but you start with 
+“I’ve Got Your Back” and “Not Afraid of Anything.”
+This is the section for your armor. Along with a name, 
+armor has base thresholds that contribute to your 
+damage thresholds, and a base score that contributes 
+to your Armor Score. The armor’s feature describes its 
+special abilities or the requirements to use it.
+Evasion represents your ability to avoid an attack. Yours 
+is 8. The GM rolls against this number when determining 
+if an adversary hits you. If you do get hit, you can choose 
+to mark an Armor Slot (the small empty shields to the 
+right of the large “Armor” shield) to reduce the severity 
+of the incoming damage by one threshold. You have a 
+number of available slots equal to your Armor Score (the 
+number in the large “Armor” shield). Yours is 4.
+This area contains your six character traits. These are 
+what you will use as your primary modifiers on action 
+rolls. They have descriptions beneath each to remind you 
+how to use them.
+The two smaller boxes are your damage thresholds. 
+These come from your armor, and you always add your 
+level to their value. When you take damage, compare it to 
+the numbers here. If the incoming damage is Minor, you 
+mark a Hit Point. If it is Major, you mark 2 Hit Points. If 
+it is Severe, you mark 3 Hit Points. If you ever need to 
+mark Stress and can’t, mark a Hit Point. If you ever mark 
+your last Hit Point, you must make a death move.
+This is the section for your active weapons. Along with a 
+name, weapons have an associated trait that you will roll 
+when using them for an attack. They also have a range 
+(Melee, Very Close, Close, Far, or Very Far). The GM will tell 
+you what range a target is in. Damage dice are what kind 
+of dice you’re rolling when you make a successful attack, 
+and the type is either physical or magic. Proficiency 
+tells you how many damage dice you roll. The Feature on 
+a weapon gives you any special ability or requirement it 
+has. 
+Weapons are either one-handed or two-handed. You'll 
+see the appropriate amount of hands are already filled for 
+the weapon you've taken.
+Khari carries a Battleaxe that deals 1d10+3 physical 
+damage to any adversaries you succeed against.
+SLIDE THIS SIDE OUT TO THE RIGHT 
+OF YOUR CHARACTER SHEET.
+SLIDE THIS SIDE OUT TO THE LEFT 
+OF YOUR CHARACTER SHEET.
+
+===== END PAGE 16 =====
+
+===== PAGE 17 =====
+community
+domain
+ancestry
+domain
+subclass
+Reiko Murakami
+Daggerheart © Darrington Press 2025
+stalwart
+Foundation
+Unwavering: Gain a permanent +1 bonus to your 
+damage thresholds.
+Iron Will: When you take physical damage, you can 
+mark an additional Armor Slot to reduce the 
+severity.
+DH Core 013/270  |
+A N C E S T R Y
+giant
+Giants are towering humanoids with broad 
+shoulders, long arms, and one to three eyes.
+Endurance: Gain an additional Hit Point slot at 
+character creation.
+Reach: Treat any weapon, ability, spell, or other 
+feature that has a Melee range as though it has a 
+Very Close range instead.
+DH Core 065/270  | Daggerheart © Darrington Press 2025
+Juan Salvador Almencion
+C O M M U N I T Y
+Ridgeborne
+Being part of a ridgeborne community means 
+you’ve called the rocky peaks and sharp cliffs of the 
+mountainside home. 
+Steady: You have advantage on rolls to traverse 
+dangerous cliffs and ledges, navigate harsh 
+environments, and use your survival knowledge.
+Daggerheart © Darrington Press 2025
+Daarken
+DH Core 076/270  |
+1
+0
+Ability
+Whirlwind
+When you make a successful attack against a target 
+within Very Close range, you can spend a Hope to 
+use the attack against all other targets within Very 
+Close range. All additional adversaries you succeed 
+against with this ability take half damage.
+Mike Pape
+Daggerheart © Darrington Press 2025
+DH Core 105/270  |
+1
+1
+Ability
+I Am Your Shield
+When an ally within Very Close range would take 
+damage, you can mark a Stress to stand in the way 
+and make yourself the target of the attack instead. 
+When you take damage from this attack, you can 
+mark any number of Armor Slots.
+Juan Salvador Almencion
+Daggerheart © Darrington Press 2025
+DH Core 252/270  |
+Daggerheart © Darrington Press 2025
+17
+Recall Cost 
+When cards are in your Vault, this is how 
+much Stress they cost to swap into your 
+loadout. You don't need to worry about 
+this at Level 1!
+Level & Domain
+Type of Domain Card
+This domain card lets you potentially hit multiple targets with 
+an attack! For example, when you make an attack using your 
+battleaxe, you can spend a Hope to also have a chance to hit any 
+other adversaries in Very Close range as well.
+All passive bonuses have 
+already been applied to your 
+character sheet.
+khari nix
+LEVEL 1 LOADOUT
+
+===== END PAGE 17 =====
+
+===== PAGE 18 =====
+Daggerheart © Darrington Press 2025
+VARIAN SOTO
+WILDBORNE KATARI RANGER
+Character Overview
+They take a “shoot first, ask questions 
+later” approach. Any problem that can’t 
+be solved with a bow, isn’t a problem 
+yet.
+BREAKDOWN
+Community: Varian is part of the 
+Wildborne community, meaning they 
+were raised by a clan hidden deep 
+within the forest.
+Ancestry: They are a katari, giving 
+them soft fur, triangular ears, and a tail.
+Class & Subclass: As a Wayfinder 
+Ranger, they can often identify the 
+shortest, most direct path to a place 
+they’ve visted before.
+Experience: Varian has the 
+experiences “Deadly Aim” and “Nature’s 
+Friend.” They will be able to utilize these 
+in play when they apply.
+Weapon: They wield a shortbow that 
+can hit targets in Far range and when 
+successful, deals 1d6+3 physical 
+damage.
+Question: What hybrid animal have 
+you been hunting for years that you’re 
+hoping to see while in the Sablewood?
+The Basics
+Duality Dice: Two d12 dice of different 
+colors. Choose one to represent Hope 
+and one to represent Fear.
+Action Rolls: Most rolls you make will 
+be action rolls. They use the Duality 
+Dice. Roll them together, add any 
+modifiers that apply, and tell the GM 
+the total, as well as what die rolled 
+higher. 
+“I rolled a 10 on the Fear die, a 5 on the 
+Hope die, and I have a 2 in Agility, so 
+that’s a 17 with Fear!”
+Hope & Fear: When you roll with Hope, 
+mark a Hope on your character sheet. 
+You’ll be able to spend any Hope you 
+have to aid future rolls for you and your 
+allies. When you roll with Fear, the GM 
+gains a Fear. They can spend Fear to 
+instigate or escalate challenges in the 
+scene.
+Attack Rolls: When you make an 
+attack on a target, it works just like an 
+action roll, but you’ll use the character 
+trait the weapon or spell calls for as 
+your modifier. On a success, you’ll 
+usually make a damage roll.
+Damage Rolls: Roll your damage dice 
+and add their values together. Then tell 
+the GM the value and type of damage 
+you’re doing.
+“I rolled a 5 plus 3, that’s 8 points of 
+physical damage.”
+These mechanics and more will be 
+covered during the coming adventure!
+ 
+Character Sheet & Cards
+On the next page, you’ll find the 
+character sheet for Varian Soto. To 
+finish off the build, mark two Hope 
+and a handful of gold. The third page 
+will provide you with a guide for your 
+character sheet. The fourth page is 
+your starting loadout of cards, as well 
+as some guidance on how to use them.
+Character Standee
+Cut out the standee below for Varian 
+and fold the paper in half so that they 
+can stand on their own on the table. 
+Keep this next to you for now, you’ll 
+need it once you get into battle. 
+Answer
+18
+Character
+Character
+Character
+CONNECTIONS
+Create connections with your party before beginning play. 
+Assign at least one of these relationships to a character.
+ I want to be more like you.
+I’m worried you’re better than me.
+We tell each other everything.
+
+===== END PAGE 18 =====
+
+===== PAGE 19 =====
+strength
+agility
+FINESSE
+Instinct
+knowledge
+presence
+Sprint
+Leap
+Maneuver
+Lift
+Smash
+Grapple
+Control
+Hide
+Tinker
+Perceive
+Sense
+Navigate
+Charm
+Perform
+Deceive
+Recall
+Analyze
+Comprehend
+hope
+experience
+active armor
+DAMAGE & HEALTH
+class feature
+Daggerheart © Darrington Press 2025
+BAGS
+HANDFULS
+CHEST
+gold
+INVENTORY
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+inventory weapon
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+inventory weapon
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+PRIMARY
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+secondary
+NAME
+FEATURE
+BASE THRESHOLDS
+BASE SCORE
+Mark 1 HP
+Mark 2 HP
+Mark 3 HP
+STRESS
+hp
+MINOR
+Damage
+major
+Damage
+severe
+Damage
+Spend a Hope to use an experience or help an ally.
+name
+heritage
+pronouns
+Subclass
+armor
+evasion
+level
+PROFICIENCY
+active weapons
+Add your current level to your damage thresholds.
+PRIMARY
+SECONDARY
+PRIMARY
+SECONDARY
+Start at 12
+RANGER’S FOCUS 
+Spend a Hope and make an attack against a target. On a 
+success, deal your attack’s normal damage and temporarily 
+make the attack’s target your Focus. Until this feature ends or 
+you make a diff erent creature your Focus, you gain the following 
+beneﬁ ts against your Focus:
+• You know precisely what direction they are in.
+• When you deal damage to them, they must mark a Stress.
+• When you fail an attack against them, you can end your 
+Ranger’s Focus feature to reroll your Duality Dice. 
+ 
+RANGER
+bone & sage
+Hold Them Off: Spend 3 Hope when you succeed on an attack 
+with a weapon to use that same roll against two additional 
+adversaries within range of the attack.
+Varian Soto
+They/Them
+Wayfinder
+Wildborne Katari
+1
++2
+0
++1
++1
+-1
+0
+13
+14
+7
++2
++2
+3
+Deadly Aim
+Shortbow
+Leather Armor
+Minor Stamina Potion (clear 1d4 stress)
+3
+6/13
+Agility Far
+1d6+3 phy
+Nature’s Friend
+
+===== END PAGE 19 =====
+
+===== PAGE 20 =====
+20
+Daggerheart © Darrington Press 2025
+This section denotes your class. Each class is made up of 
+two domains. Yours are Bone & Sage. You’ll choose the 
+majority of your abilities and spells from these domains.
+This section gives you a place to record your name, 
+pronouns, heritage (the combination of your community 
+and ancestry), and subclass. There is also a space to 
+record your level. 
+This is where you record your Hope. You spend Hope to 
+use an Experience (details below), Help an Ally, use a 
+Hope Feature, or initiate a Tag Team Roll. When you 
+Help an Ally, you explain how you’re aiding them and roll 
+a d6 advantage die they add to their action roll total. 
+You start with 2 Hope marked.
+Your class’s unique Hope Feature is in this section as well.
+This is where you keep track of your gold during a 
+campaign. If you should mark your tenth handful, you 
+instead mark a bag and erase all your handfuls. If you 
+should mark your tenth bag, you instead mark a chest. 
+You start with one handful marked.
+Inventory is where you will store all of your items and 
+consumables. Your potion is a consumable, so if you use 
+it, make sure to cross it out here.
+Every class starts with a unique Class Feature that sets 
+them apart from other classes. Make sure to read through 
+them before you begin playing.
+This is where you would store any weapons you want 
+to carry, but not have active. While in your inventory, 
+Features from these weapons are not useable or 
+applicable.
+Experience represents the particular specializations 
+your character has. These are narrative tags that you 
+create to reflect what your character is skilled in. When 
+they apply to the scene, you can spend Hope before the 
+action roll to add their value as a modifier. You will earn 
+more of these throughout a campaign, but you start with 
+“Deadly Aim” and “Nature’s Friend.”
+This is the section for your armor. Along with a name, 
+armor has base thresholds that contribute to your 
+damage thresholds, and a base score that contributes 
+to your Armor Score. The armor’s feature describes its 
+special abilities or the requirements to use it. The armor’s 
+feature describes its special abilities or the requirements 
+to use it.
+Evasion represents your ability to avoid an attack. Yours 
+is 13. The GM rolls against this number when determining 
+if an adversary hits you. If you do get hit, you can choose 
+to mark an Armor Slot (the small empty shields to the 
+right of the large “Armor” shield) to reduce the severity 
+of the incoming damage by one threshold. You have a 
+number of available slots equal to your Armor Score (the 
+number in the large “Armor” shield). Yours is 3.
+The two smaller boxes are your damage thresholds. 
+These come from your armor, and you always add your 
+level to their value. When you take damage, compare it to 
+the numbers here. If the incoming damage is Minor, you 
+mark a Hit Point. If it is Major, you mark 2 Hit Points. If 
+it is Severe, you mark 3 Hit Points. If you ever need to 
+mark Stress and can’t, mark a Hit Point. If you ever mark 
+your last Hit Point, you must make a death move.
+This is the section for your active weapons. Along with a 
+name, weapons have an associated trait that you will roll 
+when using them for an attack. They also have a range 
+(Melee, Very Close, Close, Far, or Very Far). The GM will tell 
+you what range a target is in. Damage dice are what kind 
+of dice you’re rolling when you make a successful attack, 
+and the type is either physical or magic. Proficiency 
+tells you how many damage dice you roll. The Feature on 
+a weapon gives you any special ability or requirement it 
+has. 
+Weapons are either one-handed or two-handed. You'll 
+see the appropriate amount of hands are already filled for 
+the weapon you've taken.
+Varian carries a Shortbow that deals 1d6+3 physical 
+damage to any enemies it hits.
+This area contains your six character traits. These are 
+what you will use as your primary modifiers on action 
+rolls. They have descriptions beneath each to remind you 
+how to use them.
+SLIDE THIS SIDE OUT TO THE RIGHT 
+OF YOUR CHARACTER SHEET.
+SLIDE THIS SIDE OUT TO THE LEFT 
+OF YOUR CHARACTER SHEET.
+
+===== END PAGE 20 =====
+
+===== PAGE 21 =====
+community
+domain
+ancestry
+domain
+subclass
+1
+1
+Spell
+Vicious Entangle
+Make a Spellcast Roll against a target within Far 
+range. On a success, roots and vines reach out from 
+the ground, dealing 1d8+1 physical damage and 
+temporarily Restraining the target.
+Additionally on a success, you can spend a Hope to 
+temporarily Restrain another adversary within Very 
+Close range of your target.
+Leesha Hannigan
+Daggerheart © Darrington Press 2025
+DH Core 210/270  |
+C O M M U N I T Y
+Wildborne
+Being part of a wildborne community means you 
+lived deep within the forest.
+Lightfoot: Your movement is naturally silent. You 
+have advantage on rolls to move without being 
+heard. 
+Daggerheart © Darrington Press 2025
+Andreas Rocha
+DH Core 081/270  |
+A N C E S T R Y
+Katari
+Katari are feline humanoids with retractable claws, 
+vertically slit pupils, and high, triangular ears. 
+Feline Instincts: When you make an Agility Roll, you 
+can spend 2 Hope to reroll your Hope Die. 
+Retracting Claws: Make an Agility Roll to scratch 
+a target within Melee range. On a success, they 
+become temporarily Vulnerable.
+DH Core 070/270  | Daggerheart © Darrington Press 2025
+Hendry Iwanaga
+Simon Pape
+Daggerheart © Darrington Press 2025
+wayfinder
+Foundation
+SPELLCAST TRAIT: AGILITY
+Ruthless Predator: When you make a damage roll, 
+you can mark a Stress to gain a +1 bonus to your 
+Proficiency. Additionally, when you deal Severe 
+damage to an adversary, they must mark a Stress.
+Path Forward: When you’re traveling to a place 
+you’ve previously visited or you carry an object 
+that has been at the location before, you can 
+identify the shortest, most direct path to your 
+destination.
+DH Core 022/270  |
+Daggerheart © Darrington Press 2025
+21
+Type of Domain Card
+Recall Cost 
+When cards are in your Vault, this is how 
+much Stress they cost to swap into your 
+loadout. You don't need to worry about 
+this at Level 1!
+Level & Domain
+Spellcast Trait is on this card. It’s 
+the trait you’ll use when making a 
+Spellcast Roll.
+Spellcast Roll uses your Spellcast Trait, 
+which can be found on your subclass 
+card. Yours is Instinct.
+Restrained is a condition that means 
+the target can't move. Because it's 
+temporary, the GM can only end it on 
+their move.
+All passive bonuses have 
+already been applied to your 
+character sheet.
+varian soto
+LEVEL 1 LOADOUT
+Vulnerable is a condition in the game. 
+If a creature is Vulnerable, a roll against 
+them has advantage. This means you roll 
+a d6 and add its value as a bonus to your 
+action roll.
+
+===== END PAGE 21 =====
+
+===== PAGE 22 =====
+22
+Daggerheart © Darrington Press 2025
+THE GAME MASTER
+INTRODUCTION
+Welcome to the Game Master’s section of the Quickstart 
+Adventure Guide! If you’re here, you’re probably about to run 
+the Sablewood Messengers quickstart adventure for your 
+players. Whether you’ve run numerous TTRPGs in the past 
+or this is your first time taking on the GM role, we’ll lead you 
+through everything you need to know to have a successful 
+first session of Daggerheart. It is recommended you read 
+through this entire guide before beginning. You’ll also want to 
+cut out all the Sablewood Messengers standees at the back 
+of this guide and gather 12 tokens you can utilize to represent 
+Fear during the game.
+CHARACTER PACKET
+After they receive their character packet, ensure your players 
+read through the first page. It will give them the background 
+information on their character. 
+At the end of the Breakdown section, there will be a question 
+for them to answer. Go around the table sharing the 
+responses to each question. Then, ask the players to assign 
+their Connections to other characters in the party. They may 
+choose one, two, or all three. Encourage them to talk about 
+why they’ve given these connections to each other, and 
+build their relationships together. Take notes on anything 
+that might be useful from their conversation to work into the 
+adventure.
+Then ask them to cut out their character standee, fold it, and 
+place it next to them. They’ll need it during combat.
+FIELDING QUESTIONS
+Your players may have questions about how aspects of 
+their character sheet, cards, or the game works. If they 
+ask something you don’t know yet, that’s okay! Remind 
+them that this adventure is designed to teach everyone as 
+you play together.
+THE SABLEWOOD
+As your players look over the first page of their character 
+packet, take a moment to read through the Sablewood 
+summary below to familiarize yourself with the setting of this 
+adventure. 
+The Sablewood is a downloadable location designed for level 
+one characters, so when you finish this adventure, you can 
+easily continue the story by exploring additional areas of the 
+forest. For more about the Sablewood, visit 
+www.daggerheart.com/downloads
+SUMMARY
+The Sablewood is a seemingly-endless forest of dark trees 
+that reach hundreds of feet towards the sky—some say they 
+have been here since the time before the Forgotten Gods. 
+It’s famous for its unique hybrid animals, like the lemur-toads 
+and tiger-elk, as well as its well-worn trade routes populated 
+by traveling merchants. 
+The hybrid animals in this place range from completely docile 
+to extremely vicious. A cat-squirrel might come feed gently 
+from your hand, while an eeligator would launch itself out of 
+the nearby river to snap you up as an easy meal.
+Within the Sablewood there is a small, friendly village known 
+as Hush, the PCs' destination during this adventure. There 
+are no inns within Hush. Any travelers passing through are 
+treated as honored guests and invited to stay in the home of 
+a member of the community. 
+Many of the people of Hush (and the Sablewood at large) 
+still worship the Forgotten Gods, despite having no names 
+by which to call them. The Whitefire Arcanist is the leader 
+of Hush’s primary religious order and maintains the magic of 
+the wards that protect the village.
+ADVENTURE GUIDE
+
+===== END PAGE 22 =====
+
+===== PAGE 23 =====
+23
+Daggerheart © Darrington Press 2025
+teaching the game
+GUIDING PLAYERS
+MECHANICAL OVERVIEW
+This section will cover the very basic mechanical elements of 
+Daggerheart. Read the boxed sections aloud. As you do, ask 
+the players to follow along.
+We’re going to quickly cover the basics of what you 
+need to know to start playing. First off, Daggerheart is a 
+collaborative, narrative-focused roleplaying game. That 
+means we'll all be working together to tell a story using the 
+mechanics of the game as our foundation. You will each 
+make choices for your characters during the adventure, and 
+I will describe the rest of the world reacting around them. 
+Sometimes I might ask you a question—what your character 
+knows about a place or has heard about a person. I'll do my 
+best to integrate your answers into the story we're telling, 
+so that we're building this world together! 
+Okay, let's turn to your Character Sheet. You’ll find an 
+additional page underneath that we’ll call the “Sidecar.” 
+Slide it out to the left until you reach the dotted line.
+Character Sheets
+You have a character sheet and an explainer sheet on pages 
+25 and 26 to use as well. Use them to walk your players 
+through their own character sheet, starting on the left side of 
+the sidecar. Moving around the table, have each player read a 
+section aloud. Then, slide the sidecar out to the right side and 
+do this again. Once you’re finished, come back here.
+Rolling Dice
+Before reading the next section, ask players to grab their dice 
+and roll them with you.
+ACTION ROLLS
+Now that we’ve looked at our character sheets, let’s talk 
+about how we roll the dice in Daggerheart. I’ll give you the 
+basics and we’ll learn more as we go! First, grab your 2d12 
+dice, called your Duality Dice. Decide which represents 
+Hope and which represents Fear. 
+When you have your character do something in the story 
+that is dangerous or could result in consequences, I'll 
+probably ask you to make an action roll. You’ll roll both of 
+those d12 dice, and add the applicable character trait to 
+the result. I’ll usually tell you which one it is, but sometimes 
+I might ask you. If you want to, you may use some of the 
+tokens you have to represent the modifier for a roll. 
+Let’s say you are making an Agility roll and you have a +2 
+in that trait—you’ll take 2 tokens into your hand and roll 
+them along with your dice. Then, you’ll count everything up 
+and tell me the result, along with which die rolled higher. 
+For example, if you rolled a 6 on the Hope die and a 10 on 
+the Fear die, that would be 16, plus the 2 tokens you rolled, 
+bringing it to a total of 18. Because the Fear die rolled 
+higher, you would tell me that you got an "18 with Fear."
+If you roll with Hope, you mark a Hope on your sheet. If 
+you roll with Fear, I gain a Fear and can make a GM move. 
+This means I get to impact the flow of the narrative, usually 
+to add some kind of complication to the scene. I start the 
+game with a number of Fear equal to the number of players.
+Take that number of Fear tokens to illustrate this.
+Sometimes, you might have an Experience that applies to a 
+roll. Maybe you have “Expert Climber” and are attempting 
+to scale a wall, or “Eagle Eye” and you’re trying to spot 
+tracks in the dirt. You can spend a Hope before the roll to 
+describe how that Experience helps you and add its value to 
+your roll.
+Lastly, let’s talk about Spellcast rolls. Those are action rolls 
+using your Spellcast trait, which will be on your Subclass's 
+Foundation card if you are a spellcaster. For example, 
+Marlowe’s Spellcast Trait is Instinct.
+4
+Daggerheart © Darrington Press 2025
+This section denotes your class. Each class is made up 
+of two domains. Yours are Arcana & Midnight. You’ll 
+choose the majority of your abilities and spells from 
+these domains.
+This section gives you a place to record your name, 
+pronouns, heritage (the combination of your community 
+and ancestry), and subclass. There is also a space to 
+record your level. 
+This is where you record your Hope. You spend Hope to 
+use an Experience (details below), Help an Ally, use a 
+Hope Feature, or initiate a Tag Team Roll. When you 
+Help an Ally, you explain how you’re aiding them and roll 
+a d6 advantage die they add to their action roll total. 
+You start with 2 Hope marked.
+Your class’s unique Hope Feature is in this section as well.
+This is where you keep track of your gold during a 
+campaign. If you should mark your tenth handful, you 
+instead mark a bag and erase all your handfuls. If you 
+should mark your tenth bag, you instead mark a chest. 
+You start with one handful marked.
+Inventory is where you will store all of your items and 
+consumables. Your potion is a consumable, so if you use 
+it, make sure to cross it out here.
+Every class starts with a unique Class Feature that set 
+them apart from other classes. Make sure to read through 
+them before you begin playing.
+This is where you would store any weapons you want 
+to carry, but not have active. While in your inventory, 
+Features from these weapons are not useable or 
+applicable.
+Experience represents the particular specializations 
+your character has. These are narrative tags that you 
+create to reflect what your character is skilled in. When 
+they apply to the scene, you can spend Hope before the 
+action roll to add their value as a modifier. You will earn 
+more of these throughout a campaign, but you start with 
+“Royal Mage” and “Not On My Watch.”
+This is the section for your armor. Along with a name, 
+armor has base thresholds that contribute to your 
+damage thresholds, and a base score that contributes 
+to your Armor Score. The armor’s feature describes its 
+special abilities or the requirements to use it.
+Evasion represents your ability to avoid an attack. Yours 
+is 10. The GM rolls against this number when determining 
+if an adversary hits you. If you do get hit, you can choose 
+to mark an Armor Slot (the small empty shields to the 
+right of the large “Armor” shield) to reduce the severity 
+of the incoming damage by one threshold. You have a 
+number of available slots equal to your Armor Score (the 
+number in the large “Armor” shield). Yours is 3.
+This area contains your six character traits. These are 
+what you will use as your primary modifiers on action 
+rolls. They have descriptions beneath each to remind you 
+how to use them.
+The two smaller boxes are your damage thresholds. 
+These come from your armor, and you always add your 
+level to their value. When you take damage, compare it to 
+the numbers here. If the incoming damage is Minor, you 
+mark a Hit Point. If it is Major, you mark 2 Hit Points. If 
+it is Severe, you mark 3 Hit Points. If you ever need to 
+mark Stress and can’t, mark a Hit Point. If you ever mark 
+your last Hit Point, you must make a death move.
+This is the section for your active weapons. Along with a 
+name, weapons have an associated trait that you will roll 
+when using them for an attack. They also have a range 
+(melee, very close, close, far, or very far). The GM will tell 
+you what range a target is in. Damage dice are what kind 
+of dice you’re rolling when you make a successful attack, 
+and the type is either physical or magic. Proficiency 
+tells you how many damage dice you roll. The Feature on 
+a weapon gives you any special ability or requirement it 
+has. 
+Weapons are either one-handed or two-handed. You'll 
+see the appropriate amount of hands are already filled for 
+the weapon you've taken.
+Marlowe carries a Dualstaff that deals 1d6+3 magic 
+damage to any adversaries you succeed against.
+SLIDE THIS SIDE OUT TO THE RIGHT 
+OF YOUR CHARACTER SHEET.
+SLIDE THIS SIDE OUT TO THE LEFT 
+OF YOUR CHARACTER SHEET.
+strength
+agility
+FINESSE
+Instinct
+knowledge
+presence
+Sprint
+Leap
+Maneuver
+Lift
+Smash
+Grapple
+Control
+Hide
+Tinker
+Perceive
+Sense
+Navigate
+Charm
+Perform
+Deceive
+Recall
+Analyze
+Comprehend
+hope
+experience
+active armor
+DAMAGE & HEALTH
+class feature
+Daggerheart © Darrington Press 2025
+BAGS
+HANDFULS
+CHE
+===== END PAGE 23 =====
+
+===== PAGE 24 =====
+24
+Daggerheart © Darrington Press 2025
+HOW DICE ROLLS AFFECT THE STORY
+Alright, we’ve talked about how we roll dice, let’s talk about 
+what they do in the story! Usually, I’ll set a difficulty for the 
+roll based on the situation, like 6 or 14 or 25, and your goal 
+is to meet or beat that number. If an ability or spell has a 
+number on it, like Spellcast Roll (13), that’s the difficulty of 
+the roll.  If you succeed, you get what you wanted! If you 
+don’t, you fail and something new happens in the story 
+because of it. Hope and Fear also play a part in this: 
+If you get a success with Hope, that means you accomplish 
+your goal and all is well. You can continue to pass the scene 
+around the table to the other players as you’d like. 
+A success with Fear means you do it, but there is a 
+consequence or a complication, so I gain a Fear and can 
+make what we call a “GM move.” This just means I’ll change 
+the story in some way. You might have to mark a Stress, 
+adversaries might attack, the environment might change, 
+or you might only get part of what you wanted. The move I 
+make will always aim to push the story we’re telling forward 
+in an exciting way. 
+If you roll a failure with Hope, you don’t get what you 
+wanted, but things don’t go as badly as they could. I’ll make 
+a move that matches the narrative, and then I’ll turn things 
+back to the rest of the table. 
+If you roll a failure with Fear, the situation goes very badly. 
+I’ll gain a Fear and make a move that raises the stakes to 
+highlight the consequences.
+Saving the best for last, if you ever roll two of the same 
+number, no matter what that number is, that is a critical 
+success in Daggerheart. You get what you wanted and a 
+little extra. You get to mark a Hope and you can also clear 
+a Stress, if you have one. If it is an attack roll, you add the 
+maximum your damage dice could roll as a modifier to your 
+damage roll. For example, if you deal 1d8+4 damage, you’d 
+add an additional 8 to the roll.
+COMBAT
+Next, put some character and terrain standees on the table 
+to simulate a battle map, and continue reading aloud.
+Finally, we’re going to talk about combat. Sometimes when 
+a fight breaks out, I'll put a map of some kind on the table to 
+show where everybody is. When you want to attack a target, 
+you’ll ask me if it is in range of your weapon. If it is, you can 
+make an action roll with that weapon, using the trait it calls 
+for. This is called an attack roll. If you succeed against the 
+target, you’ll then make a damage roll. Look at the damage 
+dice section of your weapon and roll the specified dice, then 
+tell me the total and whether the damage is physical or 
+magic. 
+If any of your action rolls during combat are with Fear or are 
+a failure, I will often use my GM move to put the spotlight on 
+an adversary who is attacking you or doing something else 
+important in the scene as the consequence. Additionally, 
+I have the opportunity to spend Fear after that happens 
+to shift the spotlight to an additional adversary or make 
+another GM move. In most cases, I can't have the same 
+enemy take the spotlight more than once in a GM turn, so 
+after I'm out of adversaries to spotlight or I've spent as 
+much Fear as I want to, I'll pass play back to you all to figure 
+out what happens next. 
+Combat functions just the same as the rest of the game, 
+meaning there is no turn order you must go in. You all get to 
+do what you'd like in the order you want to do it, and I get to 
+make GM moves in response. Because of this, you shouldn't 
+feel locked into only making an attack on the enemy once 
+the fight breaks out. Remember to think about the scene 
+and situation as a whole narrative moment, and consider 
+what you could do to make the best story.
+
+===== END PAGE 24 =====
+
+===== PAGE 25 =====
+strength
+agility
+FINESSE
+Instinct
+knowledge
+presence
+Sprint
+Leap
+Maneuver
+Lift
+Smash
+Grapple
+Control
+Hide
+Tinker
+Perceive
+Sense
+Navigate
+Charm
+Perform
+Deceive
+Recall
+Analyze
+Comprehend
+hope
+experience
+active armor
+DAMAGE & HEALTH
+class feature
+Daggerheart © Darrington Press 2025
+BAGS
+HANDFULS
+CHEST
+gold
+INVENTORY
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+inventory weapon
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+inventory weapon
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+PRIMARY
+NAME
+FEATURE
+TRAIT & RANGE
+DAMAGE DICE & TYPE
+secondary
+NAME
+FEATURE
+BASE THRESHOLDS
+BASE SCORE
+Mark 1 HP
+Mark 2 HP
+Mark 3 HP
+STRESS
+hp
+MINOR
+Damage
+major
+Damage
+severe
+Damage
+Spend a Hope to use an experience or help an ally.
+name
+heritage
+pronouns
+Subclass
+armor
+evasion
+level
+PROFICIENCY
+active weapons
+Add your current level to your damage thresholds.
+PRIMARY
+SECONDARY
+PRIMARY
+SECONDARY
+Start at 10
+ARCANE SENSE 
+You can sense the presence of magical people and objects within 
+Close range.
+MINOR ILLUSION
+Make a Spellcast Roll (10). On a success, you create a minor visual 
+illusion no larger than yourself within Close range. This illusion is 
+convincing to anyone at Close range or farther.
+CHANNEL RAW POWER
+Once per long rest, you can place a domain card from your loadout 
+into your vault and choose to either:
+• Gain Hope equal to the level of the card.
+• Enhance a spell that deals damage, gaining a bonus to your 
+damage roll equal to twice the level of the card.
+SORCERER
+ARCANA & Midnight
+Volatile Magic: Spend 3 Hope to reroll any number of
+your damage dice on an attack that deals magic damage.
+Marlowe Fairwind
+She/Her
+1
+0
+-1
++1
++2
++1
+0
+10
+7
+14
++2
++2
+3
+Royal Mage
+Dualstaff
+Leather Armor
+Minor Stamina Potion (clear 1d4 stress)
+3
+6/13
+Instinct Far
+1d6+3 mag
+Not On My Watch
+Primal Origin
+Loreborne Elf
+
+===== END PAGE 25 =====
+
+===== PAGE 26 =====
+26
+Daggerheart © Darrington Press 2025
+This section denotes your class. Each class is made up 
+of two domains. Yours are Arcana & Midnight. You’ll 
+choose the majority of your abilities and spells from 
+these domains.
+This section gives you a place to record your name, 
+pronouns, heritage (the combination of your community 
+and ancestry), and subclass. There is also a space to 
+record your level. 
+This is where you record your Hope. You spend Hope to 
+use an Experience (details below), Help an Ally, use a 
+Hope Feature, or initiate a Tag Team Roll. When you 
+Help an Ally, you explain how you’re aiding them and roll 
+a d6 advantage die they add to their action roll total. 
+You start with 2 Hope marked.
+Your class’s unique Hope Feature is in this section as well.
+This is where you keep track of your gold during a 
+campaign. If you should mark your tenth handful, you 
+instead mark a bag and erase all your handfuls. If you 
+should mark your tenth bag, you instead mark a chest. 
+You start with one handful marked.
+Inventory is where you will store all of your items and 
+consumables. Your potion is a consumable, so if you use 
+it, make sure to cross it out here.
+Every class starts with a unique Class Feature that set 
+them apart from other classes. Make sure to read through 
+them before you begin playing.
+This is where you would store any weapons you want 
+to carry, but not have active. While in your inventory, 
+Features from these weapons are not useable or 
+applicable.
+Experience represents the particular specializations 
+your character has. These are narrative tags that you 
+create to reflect what your character is skilled in. When 
+they apply to the scene, you can spend Hope before the 
+action roll to add their value as a modifier. You will earn 
+more of these throughout a campaign, but you start with 
+“Royal Mage” and “Not On My Watch.”
+This is the section for your armor. Along with a name, 
+armor has base thresholds that contribute to your 
+damage thresholds, and a base score that contributes 
+to your Armor Score. The armor’s feature describes its 
+special abilities or the requirements to use it.
+Evasion represents your ability to avoid an attack. Yours 
+is 10. The GM rolls against this number when determining 
+if an adversary hits you. If you do get hit, you can choose 
+to mark an Armor Slot (the small empty shields to the 
+right of the large “Armor” shield) to reduce the severity 
+of the incoming damage by one threshold. You have a 
+number of available slots equal to your Armor Score (the 
+number in the large “Armor” shield). Yours is 3.
+This area contains your six character traits. These are 
+what you will use as your primary modifiers on action 
+rolls. They have descriptions beneath each to remind you 
+how to use them.
+The two smaller boxes are your damage thresholds. 
+These come from your armor, and you always add your 
+level to their value. When you take damage, compare it to 
+the numbers here. If the incoming damage is Minor, you 
+mark a Hit Point. If it is Major, you mark 2 Hit Points. If 
+it is Severe, you mark 3 Hit Points. If you ever need to 
+mark Stress and can’t, mark a Hit Point. If you ever mark 
+your last Hit Point, you must make a death move.
+This is the section for your active weapons. Along with a 
+name, weapons have an associated trait that you will roll 
+when using them for an attack. They also have a range 
+(Melee, Very Close, Close, Far, or Very Far). The GM will tell 
+you what range a target is in. Damage dice are what kind 
+of dice you’re rolling when you make a successful attack, 
+and the type is either physical or magic. Proficiency 
+tells you how many damage dice you roll. The Feature on 
+a weapon gives you any special ability or requirement it 
+has. 
+Weapons are either one-handed or two-handed. You'll 
+see the appropriate amount of hands are already filled for 
+the weapon you've taken.
+Marlowe carries a Dualstaff that deals 1d6+3 magic 
+damage to any adversaries you succeed against.
+SLIDE THIS SIDE OUT TO THE RIGHT 
+OF YOUR CHARACTER SHEET.
+SLIDE THIS SIDE OUT TO THE LEFT 
+OF YOUR CHARACTER SHEET.
+
+===== END PAGE 26 =====
+
+===== PAGE 27 =====
+27
+Daggerheart © Darrington Press 2025
+teaching the game cont'd
+GM'S GUIDE
+Review the mechanics and narrative on this page and the one 
+following it. The quickstart adventure will lead you through what 
+you need to know, but it will help to have a primer before you 
+jump in.
+MECHANICAL OVERVIEW
+You always set a difficulty before an action roll. Sometimes 
+the difficulty will be noted by an adversary, other times you’ll 
+have to make it up. Use the information below as guidance:
+10 - Easy | 15 - Medium | 20 - Hard
+Remember that when PCs roll with Hope, they gain a Hope, 
+and when PCs roll with Fear, you gain a Fear.
+You can always give advantage or disadvantage to a PC 
+on a roll, if it makes sense in the situation. If a player has 
+advantage, have them roll a d6 and add the value to their roll. 
+If they have disadvantage, they instead subtract that value. 
+When you have advantage as a GM, you roll an additional d20 
+and take the higher result. When you have disadvantage, roll 
+an additional d20 and take the lower one.
+You can always make a GM move when the players roll 
+a failure or with Fear, the narrative provides a golden 
+opportunity, or the table looks to you for what happens next. 
+Additionally, you can always spend a Fear to make a GM move 
+when you normally wouldn't.
+When you make a GM move, you should create a 
+complication, signal that a new threat is on its way, reveal 
+a new danger, spotlight an adversary, have the PC mark a 
+Stress, or anything else that seems narratively relevant in the 
+scene. 
+During combat, you'll often use your GM move to spotlight 
+an adversary. This means it is their turn to act, usually to 
+move and/or attack a target in range of their weapon, or 
+do something else important in the scene. Remember that 
+you can always spend a Fear after spotlighting an adversary 
+to shift the spotlight to another adversary, or make an 
+additional GM move of your choice. You can typically only 
+spotlight each adversary once per GM turn.
+When an adversary attacks a PC, you’ll make an attack 
+roll. Roll a d20 and add the adversary’s attack modifier, then 
+ask if the total meets or beats the Evasion value on the PC’s 
+character sheet. If it does, you’ll roll the damage dice and tell 
+the PC what the value and type is. “That’s a 5 and a 3, so that’s 
+8 points of physical damage.”
+While in battle, keep an eye on quieter players or those who 
+are more hesitant to jump in on their own, and if needed, 
+shift the spotlight their direction by asking them what they 
+are doing in the scene.
+Ranges in the game are abstracted to common language and 
+at your discretion, but if you’re playing with maps and minis, 
+the list below is a good place to start:
+•	
+Melee is when two creatures are next to one another. 
+•	
+Very Close is 5-10 feet, or anywhere on the map within 
+the length of the short side of a playing card (about 3 
+inches).
+•	
+Close is 10-30 feet, or anywhere on the map within the 
+length of a standard pencil (about 6 inches).
+•	
+Far is 30-100 feet, or anywhere within a letter-sized 
+piece of paper’s longest length (about 12 inches).
+•	
+Very Far is anywhere beyond that, while still in the scene.
+Movement during a player’s turn is only restricted if there 
+is danger present in the scene. During combat, PCs can 
+move anywhere within close range when they are making an 
+action roll. If they want to move as their only action, or get 
+somewhere beyond close range while danger is present, they 
+should make an Agility roll to see if they get there safely.
+Adversaries can move within close range and act (make an 
+attack, etc.), or spend their spotlight moving anywhere else.
+Below is a stat block for an adversary in this adventure.
+Thistlefolk Thief
+Tier 1 Leader
+Serrated Blade: Melee - 2d4+3 (phy)
+ATK: +3
+Difficulty: 14
+Thresholds: 7/14
+HP: O O O O
+Stress: O O
+FEATURES
+Back Off - Action: Spend a Fear to make an attack roll against all targets 
+within melee range. Any they succeed against are blasted backwards, 
+dealing 2d6+3 magic damage and pushing them into far range. 
+On the left side are their standard weapon attack, attack 
+modifier, and the difficulty to hit the thief. On the right 
+are their damage thresholds, hit points, and stress. On the 
+bottom are their features, special moves they can make. 
+Actions are moves the adversary can make that while in the 
+spotlight, and Reactions tell you when to use them but often 
+happen when an adversary is not already in the spotlight. 
+Some features also require spending Fear.
+Fear Guide
+•	
+Spend a Fear to interrupt the scene with a GM move.
+•	
+Spend a Fear to make an additional move during a GM 
+turn.
+•	
+Spend a Fear to use an adversary's or environment's 
+Fear move.
+
+===== END PAGE 27 =====
+
+===== PAGE 28 =====
+28
+Daggerheart © Darrington Press 2025
+NARRATIVE OVERVIEW
+Act One: 
+the merchant cart
+On their way to Hush, the PCs run across an overturned 
+merchant cart blocking their path. A strixwolf is feeding on 
+the driver, who is dead.
+Act Two: 
+thicket thieves
+The PCs are ambushed by Thistlefolk who try to steal the 
+carriage holding the delivery. 
+Act Three: 
+seeking an arcanist
+When the PCs arrive in Hush safely, they must track down the 
+Whitefire Arcanist by talking to the townspeople. 
+Act Four: 
+the treehouse
+Upon opening the crate, the package is revealed to be the 
+keystone from the city gate’s main archway. King Emeris 
+sent the stone to the Arcanist to repair the ward placed upon 
+it that protects the city. The Arcanist asks for the PCs’ help 
+holding off danger while she completes the ritual needed to 
+repair its magic. 
+Act Five: 
+the ward renewal
+The PCs take the stone to the ritual site and, while the 
+Arcanist works her magic, fight off the magical creatures that 
+begin to invade. 
+ABOUT THE THISTLEFOLK
+The Thistlefolk take up residence in the place where 
+nobody else dares—within the thickest, thorniest bramble 
+of the Sablewood. Because the only Thistlefolk who 
+emerge from the seclusion of their hidden villages are 
+often thieves coming out to steal goods from unwitting 
+travelers or sleeping merchants, they have received a 
+reputation for being a syndicate of criminals. In actuality, 
+most of the Thistlefolk are quite docile and vulnerable, 
+choosing to live within the safety of the bramble for their 
+own protection from the large predator species who stalk 
+the woods looking for an easy meal.  
+
+===== END PAGE 28 =====
+
+===== PAGE 29 =====
+29
+Daggerheart © Darrington Press 2025
+the merchant cart
+ACT ONE
+The Beginning
+Read the following aloud to your players:
+This evening, your party finally made it to the Sablewood, 
+a sprawling forest of colossal trees some say are even 
+older than the Forgotten Gods. It’s a place renowned for 
+two things—its sunken pathways that provide the trade 
+routes for many traveling merchants, and its unique hybrid 
+animals. Even now, from within your carriage, you can hear 
+strange sounds: the low calls of the lark-moths, the croak of 
+the lemur-toads, the scittering of a family of fox-bats in the 
+underbrush. One of you is driving the carriage. Who is it?
+When a player volunteers their character as the carriage 
+driver, you can ask them a question like: 
+You’ve noticed something unique about the look of trees 
+here in the Sablewood. What is it?
+Describe the trees the party passes, specifically including 
+details from their answer. This is utilizing one of the GM 
+Principles in Daggerheart, “Ask Questions and Incorporate 
+the Answers.” Then, read the following aloud:
+As your steeds pull the carriage around a tight corner, 
+one wheel coming off the ground for just a moment, you 
+see an overturned merchant’s cart laying sideways in the 
+path before you, blocking your way. A scattering of fruits 
+and vegetables litter the trail. From around the side of the 
+carriage steps a strixwolf; a large creature with the body of 
+a wolf, the face of an owl, and large wings adorning its back. 
+It finishes chewing its meal, the hand of the dead merchant, 
+as it stares at you, curious, trying to judge whether you’re 
+friend or foe. Then you see, following clumsily behind, two 
+small pups watching their mother cautiously. 
+From within, the rest of you feel your carriage come to a 
+stop. What would you like to do?
+Allow the PCs to roleplay for a little bit if they’d like. When 
+somebody approaches the merchant cart, that will trigger the 
+first action roll. 
+The First Action Roll
+Read the following aloud:
+The strixwolf is wary of your movement. Let’s make our first 
+roll to see how she reacts! This will be using your Presence 
+trait, so grab your Duality Dice and roll them, then add your 
+Presence. You can also spend a Hope before the roll to add 
+an Experience, if it applies. Then tell me the total and which 
+die rolled higher!
+SUCCESS
+If they rolled a 10 or higher, it is a success! Describe the 
+strixwolf calmly trying to keep her pups out of danger. 
+If the roll was with Hope, tell the player to gain a Hope.
+If the roll was with Fear, gain a Fear. This is also your 
+chance to introduce a consequence to the scene. It 
+should not undermine the success, but rather forward the 
+narrative in an exciting way. You might say:
+The mother hoot-howls, as if calling to another strixwolf 
+among the trees. You know you might not be alone for long.
+FAILURE
+If they rolled a 9 or below, it is a failure. Describe the 
+strixwolf snarling and snapping, angry that the PC is 
+approaching.
+If the roll was with Hope, tell the player to gain a Hope. You 
+still get to make a GM move, but because it’s with Hope, it 
+shouldn’t be as bad as it could be. You might say:
+With one last snarl, she leans down to have her pups 
+clamber onto her back before taking off into the air, landing 
+on a nearby branch. She is watching your every move.
+If the roll was with Fear, things go badly. Gain a Fear and 
+describe the strixwolf snarling at the PC, causing them to 
+mark a Stress.
+CRITICAL SUCCESS
+If both dice roll the same number, it’s a critical success! Tell 
+the PC to mark a Hope. They can also clear a Stress, if they 
+have one. Then, describe the strixwolf moving towards the 
+PC, head down, tail wagging. It sits in front of them.
+
+===== END PAGE 29 =====
+
+===== PAGE 30 =====
+30
+Daggerheart © Darrington Press 2025
+thicket thieves
+ACT TWO // PART ONE
+The Fallout
+Let the events of the previous act play out, allowing the 
+players to roleplay and take other actions. Use the scenarios 
+below for guidance.
+SCENARIOS
+If they search the merchant cart, you can talk about the 
+cart being stripped of all valuables and showcase the dead 
+driver with a mangled arm, picked over by the strixwolf 
+family for food. If the PCs inspect the body further, they 
+might find that the driver had his neck slit. 
+If they attack the strixwolf, have them make an attack 
+roll against it at a difficulty of 10. On a success, they deal 
+damage using their weapon. The pups will flee.
+If they fail any rolls to interact with the strixwolf, it 
+will pull its pups onto its back and fly into a nearby tree, 
+watching the adventurers from above.
+If they try to find signs of something strange, they see 
+the remnants of thorny bramble tangled around the wheel 
+of the carriage and strewn across on the road.
+If they want to move the merchant cart out of the way, 
+are taking steps to get their carriage moving again, or 
+are trying to leave the trail, jump to "Ambushed!"
+Strixwolf Mother
+Tier 1 Standard
+Bite - Melee - 1d6+3 phy
+Attack Modifier: +1
+Difficulty: 10
+Major 4 | Severe 8
+HP: O O O 
+Stress: O O O
+The Ambush
+When the moment feels right, or one of the above scenarios 
+triggers it, ask a PC who seems like they are paying 
+attention to their surroundings to make an Instinct Roll with 
+a difficulty of 14. 
+On a success, they notice eyes watching them from the 
+darkness beyond the trail. If it was with Fear, gain a Fear 
+and have the PC mark a Stress. Use the “See Them Coming” 
+prompts.
+On a failure, they are immediately ambushed. If it was with 
+Fear, gain a Fear and have the PC also mark a Stress. Use the 
+“Ambushed!” prompts.
+See Them Coming
+Read the following aloud:
+You hear the sounds of a branch snapping and turn to 
+see four Thistlefolk sneaking through the underbrush, 
+attempting to get the jump on your party. The overturned 
+cart was a distraction, but their plan didn’t work. I’m going 
+to set up a map!
+Ambushed!
+Read the following aloud:
+In a whirlwind of cracking branches and unsheathed 
+blades, a group of four Thistlefolk jump out from the brush 
+alongside the road. The overturned cart was an ambush! 
+They stand before you, weapons drawn, blocking the road. 
+They'll go first. I’m going to set up a battle map!
+SETTING UP THE BATTLE MAP
+Take the forest terrain you’ve cut out and ask for your 
+players to help you spread it across the table to build a map. 
+You may also encourage them to grab other items from 
+around the room to add terrain to the map. Build out the 
+playspace together.
+Then, place the overturned merchant’s cart on the table and 
+ask the players to put their miniatures nearby, where they 
+think they would be in the scene, along with their carriage. 
+Finally, take the Thistlefolk Ambusher standees and the 
+Thistlefolk Thief, and put them in Close range of the PCs. 
+BEGINNING THE ENCOUNTER
+On the next page, you’ll find the stat blocks for the 
+Ambushers and Thief. You’ll use those stat blocks to run 
+the remainder of this encounter. Remember to make the 
+battle your own. Decide what the Thistlefolk look like in 
+detail, describe the scene as if the players were watching 
+a movie or reading a book, and if you’re comfortable with 
+it, ask them to participate in building out the scene as well. 
+This can be as easy as asking them to describe their attack 
+or their evasion in detail, but you might also involve them 
+further—ask them what unique clothing item the Ambushers 
+are all wearing, or the interesting fighting style they seem 
+to employ.  You might also ask what level of violence the 
+players are comfortable with. Are they looking to kill the 
+enemies? Incapacitate them? Knock them out?
+
+===== END PAGE 30 =====
+
+===== PAGE 31 =====
+31
+Daggerheart © Darrington Press 2025
+thicket thieves
+ACT TWO // PART TWO
+The First Encounter
+AMBUSHED!
+If the players were ambushed, the Thistlefolk act first. We 
+can see this reflected in their feature, “Ambush.” Read the 
+following aloud:
+Having the upper hand, the three Thistlefolk Ambushers 
+rush you! Because of their Ambush feature, they get to 
+make an attack immediately. This only happens when they 
+enter the scene, so it won’t be like this every time. But right 
+now, they are slashing at you with daggers, protected by 
+armor made of polished stones.
+Move the ambushers into melee with the PC closest to them. 
+Then follow the attack guide below for each Ambusher.
+SEE THEM COMING
+If the players spotted the Ambushers coming, they get to act 
+first. Read the following aloud:
+You stand at the ready, having spotted the Thistlefolk before 
+they could ambush you! You all get to act first, who wants to 
+start us off?
+Thistlefolk Ambusher (Reference)
+Tier 1 Standard
+Dagger: Melee - 1d8+5 phy
+ATK: +1
+Difficulty: 13
+Thresholds: 6/12
+HP: 3
+Stress: 2
+FEATURES
+Ambush - Reaction: When the Ambusher enters the scene without being 
+spotted first, they can immediately move into Melee with a target and 
+make an attack against them. On a success, they strike with their dagger 
+for 2d4+8 physical damage.
+Thistlefolk Ambusher #1
+HP: O O O
+Stress: O O
+Thistlefolk Ambusher #2
+HP: O O O
+Stress: O O
+Thistlefolk Ambusher #3
+HP: O O O
+Stress: O O
+THE THISTLEFOLK’S GOAL
+Use the Ambushers to keep the party’s attention while the 
+thief attempts to steal their carriage.
+USING REFERENCE STAT BLOCKS
+On the Thistlefolk Ambusher, you’ll notice the stat block 
+is listed as "Reference" with three other smaller stat 
+blocks below it. This is how Daggerheart represents three 
+adversaries that all have the same stats. Instead of repeating 
+all of the information three times, it is in one centralized area.
+AMBUSHER ATTACK GUIDE
+When you make an attack against a PC, roll a d20 and add its 
+attack modifier (+1), then compare it to the PC’s Evasion. If it 
+hits, make a damage roll using 1d8+5. Ask them to compare 
+the total to their damage thresholds, use armor if they'd like, 
+and mark their hit point(s). 
+THIEF ATTACK GUIDE
+When you make an attack against a PC, roll a d20 and add its 
+attack modifier (+3), then compare it to the PC’s Evasion. If it 
+hits, make a damage roll using 2d4+3. Ask them to compare 
+the total to their damage thresholds, use armor if they'd 
+like, and mark their hit points. If they’re using Back Off, on 
+a success deal the damage and move the PC’s standee a 
+direction of your choice in far range of where they previously 
+were.
+AMBUSHER/THIEF DEFENSE GUIDE
+When an adversary is hit with damage, compare the amount 
+to their thresholds, then mark the appropriate hit points. 
+When you mark their last hit point, they are defeated.
+Thistlefolk Thief
+Tier 1 Leader
+Serrated Blade: Melee - 2d4+3 (phy)
+ATK: +3
+Difficulty: 14
+Thresholds: 7/14
+HP: O O O O
+Stress: O O
+FEATURES
+Back Off - Action: Spend a Fear to make an attack roll against all targets 
+within Melee range. Any they succeed against are blasted backwards, 
+dealing 2d6+3 magic damage and pushing them into Far range. 
+THE ENCOUNTER'S END
+The encounter ends when all adversaries are defeated. 
+Clean up the map, then encourage the PCs to describe a 
+montage of the remaining travel time to Hush.
+
+===== END PAGE 31 =====
+
+===== PAGE 32 =====
+32
+Daggerheart © Darrington Press 2025
+seeking an arcanist
+ACT THREE
+Arrival in Hush
+Read the following aloud:
+The path leads you further into the forest until you spot a 
+large stone pillar, carved top to bottom in ancient dwarven 
+symbols. This denotes one corner of the peaceful village of 
+Hush. When you pass beyond the stone marker, you feel a 
+small sensation like the pop of a bubble, then the sounds of 
+friendly chatter become louder. 
+Though the trees of the Sablewood are unchanged here, 
+there is a distinctive safe and comforting air. A few smiling 
+faces turn to you as your carriage rolls in, waving or 
+casting a warm greeting toward the party. There is lively 
+music drifting your direction from the tavern at the center 
+of town.
+You know you need to find the Whitefire Arcanist to deliver 
+the package from the King. What would you like to do?
+If the players would like to talk to an NPC, you can choose 
+one of the options below.
+Fidget - Wildborne Human - (they/them)
+A young child who will not stop wiggling—it’s clear how they earned 
+their name. They are often busy scurrying up the trees in town, lighting 
+the lanterns that hang from the branches. They know the fastest ways 
+through the village. If the PCs approach, they are curious what life is like 
+outside of Hush.
+Lausa Standworth - Wildborne Dwarf - (she/her)
+An older woman with a thick beard carrying a barrel of ale. She is happy 
+to stand and talk to the party (she will keep the barrel on her shoulder 
+the entire time). If the PCs approach, she wants to know the name of 
+every member of the party’s weapons and the date they were forged.
+Halython Fives - Loreborne Clank - (he/him)
+A soft-spoken clank (a humanoid robot) of indeterminate age. He bears 
+a number of small scratches across his metallic shoulder where an alert 
+but friendly fox-bat rests. He is playing an unknown game that uses 
+cards and acorns. If the PCs approach, he is curious about the Thistlefolk 
+and asks if you encountered any on your way.
+
+During their discussion, choose an additional NPC from the 
+list above. The second will be a friend that has knowledge of 
+where the Whitefire Arcanist lives. They last saw this person 
+at the tavern and send you in its direction. 
+For example, your PCs might meet Fidget in town. After 
+some conversation and coaxing, Fidget points the party to 
+the tavern to meet Lausa. 
+The Clover Tavern
+Read the following aloud:
+The Clover Tavern is a sight to behold, with six curving 
+stories climbing the trunk of an ancient tree. This is the 
+heart of the community, always crowded with music 
+and good-natured conversation. Newcomers to the bar 
+must take off their shoes and hang them over a line that 
+stretches across the bar’s ground floor. Inevitably, by the 
+time visitors leave, their shoes will be shined and filled with 
+small trinkets. As you enter, what would you like to do?
+Let the players roleplay here for a bit, introduce them to 
+a barkeep or a friendly local who asks them to hang their 
+shoes on the line. Let them explore the different levels of 
+the tavern, and if you feel comfortable, ask some of your 
+players to participate in describing details about it. 
+How does the second floor of this tavern look so wildly 
+different than the first? What smell permeates the air 
+throughout this place? What unique custom do the locals 
+seem to participate in every time you walk in the room?
+OPTIONAL - THE FIRSTMOSS FESTIVAL
+If they ask around, the PCs will find out the people of 
+Hush are currently celebrating the Firstmoss Festival—the 
+time when the new crops in the Sunless Farms have the 
+first layer of moss growing upon them, meaning they’re 
+beginning to ripen for the season. It’s a celebration of 
+the arrival of spring, and of the abundance of fresh fruits 
+and vegetables the town will soon have. There is a good-
+natured arm wrestling competition, a stone-painting 
+class, and a small marketplace full of homemade trinkets. 
+When you’re ready, guide the players in finding an NPC who 
+will help them. If they bypassed asking someone in town, 
+just use one of the NPCs from the list here instead. After a 
+few exchanges, you can have the NPC say something like:
+The Arcanist is quite busy, but if you’ve traveled so far, 
+I’m sure she’ll be more than hospitable. We would be lost 
+without her. She keeps this whole place protected by a 
+powerful ward so that no dangers from the Sablewood can 
+pass into town. You’ll find her house to the south, through 
+the farmland. It’s hanging from one of the old Sablewood 
+trees, you can’t miss it. 
+When the PCs are ready, set them off towards the Arcanist.
+
+===== END PAGE 32 =====
+
+===== PAGE 33 =====
+33
+Daggerheart © Darrington Press 2025
+the treehouse
+ACT FOUR
+The Whitefire Arcanist
+Read the following aloud:
+Making your way past the homes of the village, then 
+through the farmlands of Hush, you see a variety of crops 
+that have begun to cultivate a thin layer of glowing blue 
+moss over the top of their fruits and vegetables. They pulse 
+softly like a heartbeat as you pass.
+Among the thriving groves, you notice that the Sablewood 
+trees in this area have hundreds of unique faces carved into 
+all sides, the eyes peering in every direction. 
+One tree, taller than the rest, bears the Arcanist’s home, 
+like an overripe fruit. It hangs from a braid of rope, as wide 
+around as a giant’s forearm, tied to a massive branch and 
+counterweighted by a cabin-sized bolder lying at the base 
+of the tree. The stone is marked with a collection of symbols 
+and the cabin windows flash with a soft, yellow-green light. 
+What would you all like to do?
+Give the players the option to roleplay and problem solve. 
+Use the section below as guidance, or create your own.
+•	 If they try to call to the Arcanist from below, there is 
+no response, but the light within still flickers.
+•	 If they try to cut the counterweight rope, it will 
+immediately blast them backwards a few feet, dealing a 
+point of Stress.
+•	 If they try to climb the tree, its an Agility Roll with a 
+difficulty of 13. On a failure, a limb of the tree grabs them, 
+gently sets them down on the forest floor, then resumes 
+its original form.
+When they finally do something to successfully get the 
+Arcanist’s attention, use the following to describe her as 
+she emerges from her cabin to greet them.
+A seven-foot mix of humanoid and firefly, the Arcanist is 
+a faerie that moves in a combination of both very slow 
+and suddenly jerky motions. Though her expressions are 
+difficult to read, her emotions are very clear in her voice. 
+She is old but spry, and she eyes the group mischieviously. 
+“Are you the group Emeris sent from the capital? Oh my, 
+you’re rather late aren’t you. Come in, come in.”
+As the Arcanist lowers her home and invites you inside, 
+you’ll notice the treehouse is surprisingly spacious. The 
+main room is a crowd of potion bottles, spellbooks, runes, 
+plants, and small creatures of all kinds. But, no one could 
+classify this place as messy. It’s clear that if anyone moved 
+a single item even an inch, the old faerie would notice.
+The Package
+Let the players roleplay with the Arcanist. Make her curious 
+about their journey, the NPC who directed them towards her 
+house, and how each of them have imagined they might die 
+one day. 
+Once she’s had enough conversation, the Arcanist will ask 
+about the package from King Emeris. In order to inspect it 
+in safety, she will magically unfold her home as if it were a 
+blossoming flower. She’ll hurry the players to get the crate 
+inside before closing the cabin back up, now just a bit bigger. 
+When she opens the delivery, read the section below aloud:
+Inside King Emeris’ package lies a massive stone with a 
+lion’s face carved into it. Marlowe, you recognize this as 
+the keystone of the capital city gate’s main archway. The 
+Arcanist nods sagely as soon as she sees it, saying: “Of 
+course the King would keep this delivery secret. If anyone 
+knew your city was no longer warded, you would be 
+conquered before sunrise.” With this ominous warning, she 
+starts to unfurl her treehouse yet again. “We must travel 
+to the Open Vale to revitalize the ward. But such an effort 
+of magic will attract dangerous creatures from the darkest 
+reaches of the Sablewood. I’ll need your help.”
+If the players seem enthusiastic about helping, you should 
+cut straight to the Open Vale, transitioning into Act Five. 
+Otherwise, you can encourage the players to describe their 
+time traveling with the eccentric Whitefire Arcanist.
+
+===== END PAGE 33 =====
+
+===== PAGE 34 =====
+34
+Daggerheart © Darrington Press 2025
+THE WARD RENEWAL
+ACT FIVE // PART ONE
+The Open Vale
+Read the following aloud:
+On direction from the Arcanist, your carriage pulls into a 
+mysterious clearing in the shape of a perfect circle, the only 
+area of the Sablewood you’ve seen without trees to block 
+out the sky. This is the Open Vale.
+Speak to the players as the Arcanist, describing the Open 
+Vale as a place used for strong ritual magic. It’s where she 
+first forged the ward pillars that reside on all four corners of 
+Hush, keeping the village safe. She almost died in that ritual, 
+but is reluctant to say more for fear of angering the Forgotten 
+Gods. Engage the PCs in conversation, then when you’re 
+ready, read the following:
+The Arcanist’s antennae perk up in a disconcerting way. 
+“This is good. Stop, stop. Yes, here. Now come help me, I’m 
+old.” This time, she unfolds the carriage as she did with her 
+home and stands over the crate, humming. Her body starts 
+to glow brighter, flickering in the night. 
+“I will need an hour of time to prepare. You all, enjoy the 
+night air while you can. We’ll be very busy soon.”
+A Short Rest 
+Tell the PCs that they will now take a short rest.
+During a short rest, a PC may choose up to two of the 
+following options. They may choose the same option twice.
+TEND TO WOUNDS
+Describe how you patch yourself up and clear 1d4+1 hit 
+points. You may also tend to an ally instead.
+CLEAR STRESS
+Describe how you blow off steam or pull yourself together, 
+and clear 1d4+1 Stress.
+REPAIR ARMOR
+Describe how you spend time quickly repairing your armor 
+and clear 1d4+1 marked Armor Slots. You may also repair 
+an ally’s armor instead. 
+PREPARE
+Describe how you prepare yourself for the path ahead and 
+gain a Hope. If you choose to Prepare with one or more 
+members of your party, you may each take two Hope.
+GM PREP DURING REST
+While the PCs are resting, take 1d4 Fear as your downtime 
+benefit, then review the stat blocks for adversaries located 
+below and on the next page. These will be used in the final 
+battle.
+Ancient Skeleton (Reference)
+Tier 1 Standard
+Rusted Sword: Melee - 1d6+1 phy
+ATK: +0
+Difficulty: 12
+Thresholds: 7/none
+HP: 2
+Stress: 1
+FEATURES
+Group Attack - Action: Spend a Fear to choose a target and spotlight all 
+Ancient Skeletons within Close range of them. Those creatures move into 
+Melee range of the target and make one shared attack roll. On a success, 
+they deal 4 physical damage each. Combine this damage.
+Ancient Skeleton #1
+HP: O O
+Stress: O
+Ancient Skeleton #2
+HP: O O
+Stress: O
+Ancient Skeleton #3
+HP: O O
+Stress: O
+Ancient Skeleton #4
+HP: O O
+Stress: O
+ANCIENT SKELETON BATTLE GUIDE
+Because the skeletons have no attack modifier, roll a d20 
+and ask if it hits the target’s Evasion. On a success, deal 1d6+1 
+physical damage. 
+If the ancient skeletons take 6 or less damage, they mark one 
+hit point. Otherwise, they are defeated. 
+Their Group Attack Feature allows you to activate several 
+skeletons at once to make a powerful attack. When you 
+use this action as your GM move, you must spend a Fear to 
+activate the group attack, then move all skeletons in close 
+range of a target into melee with them. Make one attack roll 
+with a +0 modifier against the PC's Evasion. On a success, 
+deal 4 phy damage per skeleton. Add all of this damage up 
+before dealing it to the PC.
+
+===== END PAGE 34 =====
+
+===== PAGE 35 =====
+35
+Daggerheart © Darrington Press 2025
+THE WARD RENEWAL
+ACT FIVE // PART TWO
+The Ritual Begins
+Read the following aloud:
+The Arcanist lets out a shrill cry, “The keystone has finally 
+responded! Quickly, surround me, the ritual must begin 
+or I’ll lose the pathway! Hurry!” Her body begins glowing 
+brighter and brighter still as her eyes roll backwards into 
+her head and the entire carriage lifts a foot off the ground. 
+A collection of unearthly screeches echo from the woods as 
+nearby creatures are alerted to the arcane energy.
+Then place the Whitefire Arcanist standee at the center of 
+the table. Ask the players to also place their standees in 
+the scene. Finally, place four Ancient Skeletons within close 
+range of the Arcanist and two Forest Wraiths within far range, 
+then read the following aloud.
+You feel a rumble as four ancient skeletons emerge from 
+the ground, rusted swords in hand, disturbed by the forces 
+of magic being used by the Arcanist. In the distance, two 
+Forest Wraiths float ominously towards you. I’m going to 
+start a countdown die for the ritual, your goal is to hold off 
+the enemies until her work is completed. 
+Grab a d8 and set it on the table with the 8 facing up. This is 
+a countdown die. It will tick down one number every time an 
+adversary is defeated. It will tick up every time the Whitefire 
+Arcanist is hit with an attack. When the countdown reaches 0, 
+the ritual is complete and the fight will end. 
+ENVIRONMENT FEATURE
+Environments can have their own features that let you 
+utilize them in a unique way. For this encounter, you have an 
+environment feature called Vengeance of the Vale.
+The Open Vale
+Tier: 1
+Type: Exploration
+FEATURES
+Vengeance of the Vale - Action: Spend a Fear to summon two additional 
+ancient skeletons from the ground within very close range of a PC.
+ENCOUNTER GM GUIDANCE
+The countdown progresses every time an adversary 
+is defeated, so if it's not moving quickly enough, use 
+Vengeance of the Vale to spawn more skeletons, as they're 
+easy to take down. Have adversaries target the Whitefire 
+Arcanist if no other PCs are within attack range. Her difficulty 
+is 11. She doesn't mark Hit Points or Stress, any damage done 
+to her should be purely narrative.
+FOREST WRAITH BATTLE GUIDE
+Forest Wraiths can attack from far range with a +3 attack 
+modifier. On a success, they deal 2d6+8 magic damage. They 
+have resistance to physical damage, meaning any incoming 
+physical damage is cut in half (rounded up).
+Their Memory Delve move makes the target Vulnerable, 
+which means all rolls you make against them are at 
+advantage (roll an additional d20 and take the highest 
+result). This condition doesn’t stack.
+Pass-Through should be used sparingly to avoid 
+incapacitating the whole party at once. Because this move 
+knocks a PC out of their body and stops them from acting 
+until an adversary is taken down, using the Vengeance of the 
+Vale Encounter Move can be a useful way to generate new, 
+easily defeatable adversaries to avoid this from happening.
+Forest Wraith (Reference)
+Tier 1 Bruisers
+Lifedrain - Far - 2d6+8 mag
+Attack Modifier: +3
+Difficulty: 13
+Major 7 | Severe 14
+HP: 6
+Stress: 3
+FEATURES
+Spectral Body - Passive: The Forest Wraith has resistance to physical 
+damage.
+Memory Delve - Action: Make an attack roll against a close target. On a 
+success, the Forest Wraith flies into Melee and places their hand upon the 
+target’s cheek. Ask the player to describe a terrifying moment from their 
+character’s childhood. Then deal 3d4+9 magic damage and make them 
+Vulnerable until their next rest.
+Pass-Through - Action: Spend a Fear and make an attack roll against 
+a target in Melee. On a success, the Forest Wraith passes through the 
+target, pushing their soul from their body momentarily, making them 
+Untethered. They cannot act again until the Ritual Countdown ticks down, 
+clearing this condition. 
+If the entire party becomes Untethered at the same time, they all mark 2 
+Hit Points and their souls return, clearing the condition.
+Forest Wraith #1
+HP: O O O O O O
+Stress: O O O
+Forest Wraith #2
+HP: O O O O O O
+Stress: O O O
+DEATH MOVE
+If a PC ever marks their last hit point, they make a death 
+move. For the purposes of the Quickstart Adventure, they fall 
+unconscious until they are healed or the danger passes.
+The Ritual Ends
+When the Ritual Die ticks down to 0, move to the Epilogue.
+
+===== END PAGE 35 =====
+
+===== PAGE 36 =====
+36
+Daggerheart © Darrington Press 2025
+beyond the vale
+EPILOGUE
+The Keystone Ward
+Read the following aloud:
+As you deliver a powerful blow, the ritual ends! The carriage 
+comes falling to the ground as the keystone vibrates with 
+arcane energy. Then, all at once, a soundless explosion 
+erupts from the Whitefire Arcanist, dissipating any last 
+enemies who might remain. The clearing is quiet once 
+again.
+Back inside the treehouse, not but an hour later, the 
+keystone sits suspended carefully above a rumbling fire in 
+the hearth.
+The Arcanist, who looks even older now than she did before, 
+sits cross-legged in an over-stuffed chair. There is an 
+exhaustion in her voice as she speaks.
+“You fought hard. I’m not surprised, of course. The King 
+keeps good company. I’m very glad you were there.”
+Give the PCs the chance to wrap up their story with the 
+Arcanist. When conversation stalls or the PCs ask about the 
+keystone, you might say something like:
+“The keystone will need a week, maybe more, to allow the 
+magic to settle. I’ll need to watch it carefully to ensure 
+nothing cracks or becomes sentient or anything of the like. 
+You know how it is. And in the meantime, after you rest and 
+gather yourselves, have a nice hot meal and warm bath, I 
+have one more thing to ask of you.”
+We pull out of the Arcanist’s home, out of the forest itself, 
+to view the verdant expanse from above, and see twisting 
+stone spires breaking through the treeline, each with 
+a flame flickering within the tower like a beacon. She 
+continues:
+“There’s a Spire, just west of here, maybe a few hours walk. 
+I felt it on the way to the ritual. Its power was... strange. The 
+light felt weaker than it should be. I think something might 
+be terribly wrong with the Spirekeeper, and I fear what will 
+happen if its fire is extinguished altogether. When you’re 
+ready, come back, and I’ll give you my map so you can make 
+it there safely. It’s good to have heroes in the Sablewood 
+again.”
+And that’s where we’re going to end today’s session.
+Beyond the Adventure
+Congratulations, you’ve completed the Daggerheart 
+quickstart adventure! For more, visit www.daggerheart.com 
+to purchase the full game and join our community.
+The Sablewood Messengers Credits
+Lead Designer: Spenser Starke
+Additional Designers: Rowan Hall & Mike Underwood
+Senior Games Producer: Elise Rezendes
+Junior Games Producers: Madigan Hunt & Alex Teplitz
+Artists: Shaun Ellis & Pao Yong
+Layout: Matt Paquette & Co
+Archivist: Dani Gage
+Head of Darrington Press: Ivan Van Norman
+Creative Director: Travis Willingham
+The Sablewood Messengers Inspiration
+TTRPGs
+Dungeons and Dragons by Wizards of the Coast
+Pathfinder by Paizo
+For The Queen by Alex Roberts
+Lady Blackbird by John Harper
+The Wildsea by Felix Isaacs
+Books
+The Edge Chronicles by Paul Stewart & Chris Riddell
+The Lord of the Rings series by J.R.R. Tolkien
+TV & Film
+Avatar: The Last Airbender created by Michael Dante 
+DiMartino & Bryan Konietzko
+The Legend of Vox Machina created by Critical Role 
+Productions
+For a full list of credits and inspirations for Daggerheart, see the 
+core rulebook.
+
+===== END PAGE 36 =====
+
+===== PAGE 37 =====
+37
+Daggerheart © Darrington Press 2025
+Strixwolf Mother
+Strixwolf Mother
+Thistlefolk Ambusher #1
+Thistlefolk Ambusher #1
+Carriage
+Carriage
+Thistlefolk Ambusher #3
+Thistlefolk Ambusher #3
+Thistlefolk Thief
+Thistlefolk Thief
+Thistlefolk Ambusher #2
+Thistlefolk Ambusher #2
+Forest Terrain
+Forest Terrain
+Merchant Cart
+Merchant Cart
+sablewood messengers
+STANDEES & TERRAIN
+
+===== END PAGE 37 =====
+
+===== PAGE 38 =====
+38
+Daggerheart © Darrington Press 2025
+Forest Terrain
+Forest Terrain
+Forest Terrain
+Forest Terrain
+Forest Terrain
+Forest Terrain
+Forest Terrain
+Forest Terrain
+Forest Terrain
+Forest Terrain
+sablewood messengers
+STANDEES & TERRAIN
+
+===== END PAGE 38 =====
+
+===== PAGE 39 =====
+39
+Daggerheart © Darrington Press 2025
+Ancient Skeleton #1
+Ancient Skeleton #1
+Ancient Skeleton #2
+Ancient Skeleton #2
+Ancient Skeleton #3
+Ancient Skeleton #3
+Ancient Skeleton #4
+Ancient Skeleton #4
+Forest Wraith #2
+Forest Wraith #2
+Forest Wraith #1
+Forest Wraith #1
+Whitefire Arcanist
+Whitefire Arcanist
+sablewood messengers
+STANDEES & TERRAIN
+Forest Terrain
+Forest Terrain
+
+===== END PAGE 39 =====

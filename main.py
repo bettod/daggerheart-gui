@@ -19,6 +19,8 @@ from PyQt5.QtWidgets import (
     QWidget,
 )
 
+from daggerheart_api import build_catalog
+
 
 class RuleSection:
     def __init__(self, title: str, html: str, text: str, anchor: str, level: int = 1):
@@ -100,17 +102,67 @@ class DaggerheartViewer(QWidget):
         self.load_rules()
 
     def load_rules(self):
-        readme_path = Path(__file__).resolve().parent.parent / "daggerheart-srd" / "README.md"
-        if not readme_path.exists():
+        try:
+            catalog = build_catalog()
+        except FileNotFoundError:
             QMessageBox.critical(
                 self,
                 "File Not Found",
-                f"Could not find README at {readme_path}.\nPlease place the daggerheart-srd repository adjacent to this project.",
+                "Could not find the Daggerheart SRD markdown repository.\nPlease place daggerheart-srd adjacent to this project or set DAGGERHEART_SRD_PATH.",
             )
-            self.status_label.setText("README.md not found.")
+            self.status_label.setText("Daggerheart SRD not found.")
             return
 
-        self.load_markdown_file(readme_path)
+        self.catalog = catalog
+        self.section_list.clear()
+
+        for category_name in sorted(catalog["categories"].keys()):
+            category = catalog["categories"][category_name]
+            category_item = QTreeWidgetItem([f"{category['label']} ({category['count']})"])
+            category_item.setExpanded(True)
+            category_item.setData(0, Qt.UserRole, {"type": "category", "name": category_name, "data": category})
+
+            for entry in category["entries"]:
+                child = QTreeWidgetItem([entry["name"]])
+                child.setData(0, Qt.UserRole, {"type": "entry", "category": category_name, "entry": entry})
+                category_item.addChild(child)
+
+            self.section_list.addTopLevelItem(category_item)
+
+        self.status_label.setText(f"Loaded {catalog['total_documents']} Daggerheart documents across {len(catalog['categories'])} categories.")
+        if self.section_list.topLevelItemCount() > 0:
+            self.section_list.setCurrentItem(self.section_list.topLevelItem(0).child(0) if self.section_list.topLevelItem(0).childCount() > 0 else self.section_list.topLevelItem(0))
+
+    def render_entry_html(self, category_name: str, entry: dict):
+        summary = entry.get("summary") or "No summary available."
+        markdown = entry.get("markdown")
+
+        if category_name == "characters" and "class_name" in entry:
+            lines = [
+                f"<h1>{entry['name']}</h1>",
+                f"<p><strong>Class:</strong> {entry['class_name']} ({entry['subclass']})</p>",
+                f"<p><strong>Heritage:</strong> {entry['heritage']}</p>",
+                f"<p><strong>Pronouns:</strong> {entry['pronouns']}</p>",
+                f"<p><strong>Story:</strong> {entry.get('story', '')}</p>",
+                f"<p><strong>Experiences:</strong> {', '.join(entry.get('experiences', []))}</p>",
+                f"<p><strong>Question:</strong> {entry.get('question', '')}</p>",
+            ]
+            if entry.get("settings"):
+                settings = entry["settings"]
+                armor = settings.get("armor", {})
+                weapon = settings.get("weapon", {})
+                lines.extend([
+                    f"<p><strong>Armor:</strong> {armor.get('name', 'Unknown')} (Score {armor.get('base_score', '')})</p>",
+                    f"<p><strong>Weapon:</strong> {weapon.get('name', 'Unknown')} ({weapon.get('damage', '')})</p>",
+                    f"<p><strong>Hope:</strong> {settings.get('hope', '')} &nbsp; <strong>Evasion:</strong> {settings.get('evasion', '')}</p>",
+                    f"<p><strong>Hit Points:</strong> {settings.get('hit_points', '')} &nbsp; <strong>Stress:</strong> {settings.get('stress', '')}</p>",
+                ])
+            return "\n".join(lines)
+
+        if markdown:
+            return self.convert_markdown_to_html(markdown.splitlines())
+
+        return f"<h1>{entry['name']}</h1><p>{summary}</p>"
 
     def parse_markdown_sections(self, markdown_text: str):
         lines = markdown_text.splitlines()
@@ -259,51 +311,97 @@ class DaggerheartViewer(QWidget):
     def on_section_changed(self, current: QTreeWidgetItem, previous: QTreeWidgetItem):
         if current is None:
             return
-        section = current.data(0, Qt.UserRole)
-        if not section:
+
+        payload = current.data(0, Qt.UserRole)
+        if not payload:
             return
-        self.browser.setHtml(section.html)
-        self.highlight_matches(section)
+
+        if payload.get("type") == "entry":
+            entry = payload["entry"]
+            html = self.render_entry_html(payload["category"], entry)
+            self.browser.setHtml(html)
+            self.current_query = self.search_input.text().strip()
+            if self.current_query:
+                self.highlight_matches_from_doc(self.current_query)
+            return
+
+        if payload.get("type") == "category":
+            self.browser.setHtml(f"<h1>{payload['data']['label']}</h1><p>{payload['data']['count']} entries</p>")
+            return
+
+        section = payload
+        if hasattr(section, "html"):
+            self.browser.setHtml(section.html)
+            self.highlight_matches(section)
+
+    def highlight_matches_from_doc(self, query: str):
+        if not query:
+            self.browser.setExtraSelections([])
+            return
+
+        extra_selections = []
+        cursor = self.browser.textCursor()
+        cursor.movePosition(QTextCursor.Start)
+        while True:
+            cursor = self.browser.document().find(query, cursor)
+            if cursor.isNull():
+                break
+            selection = QTextBrowser.ExtraSelection()
+            selection.cursor = cursor
+            selection.format = QTextCharFormat()
+            selection.format.setBackground(QColor("#fff59d"))
+            extra_selections.append(selection)
+
+        self.browser.setExtraSelections(extra_selections)
 
     def on_search_changed(self, query: str):
         self.current_query = query.strip()
-        if not self.sections:
+
+        if not self.section_list.topLevelItemCount():
             return
 
         if self.current_query:
             query_lower = self.current_query.lower()
             match_count = 0
 
-            def match_item(item):
-                section = item.data(0, Qt.UserRole)
-                section_match = section and (
-                    query_lower in section.text.lower() or query_lower in section.title.lower()
-                )
-                child_match = False
-                for idx in range(item.childCount()):
-                    if match_item(item.child(idx)):
-                        child_match = True
-                visible = section_match or child_match
-                item.setHidden(not visible)
-                item.setExpanded(child_match)
-                return visible
-
-            self.populate_section_list(self.sections)
             for idx in range(self.section_list.topLevelItemCount()):
-                if match_item(self.section_list.topLevelItem(idx)):
-                    match_count += 1
+                category_item = self.section_list.topLevelItem(idx)
+                category_visible = False
+                for child_idx in range(category_item.childCount()):
+                    child = category_item.child(child_idx)
+                    payload = child.data(0, Qt.UserRole) or {}
+                    entry = payload.get("entry", {})
+                    needles = [
+                        child.text(0),
+                        entry.get("name", ""),
+                        entry.get("summary", ""),
+                        entry.get("slug", ""),
+                        payload.get("category", ""),
+                    ]
+                    is_match = any(query_lower in str(value).lower() for value in needles if value)
+                    child.setHidden(not is_match)
+                    if is_match:
+                        category_visible = True
+                        match_count += 1
+                        child.setExpanded(True)
+                category_item.setHidden(not category_visible)
 
-            self.status_label.setText(f"{match_count} matching section(s) found.")
-            first_item = self.find_first_visible_item()
-            if first_item is not None:
-                self.section_list.setCurrentItem(first_item)
+            self.status_label.setText(f"{match_count} matching entry(s) found.")
+            first_visible = self.find_first_visible_item()
+            if first_visible is not None:
+                self.section_list.setCurrentItem(first_visible)
             else:
                 self.browser.clear()
         else:
-            self.populate_section_list(self.sections)
-            self.status_label.setText("Showing all sections.")
+            for idx in range(self.section_list.topLevelItemCount()):
+                top = self.section_list.topLevelItem(idx)
+                top.setHidden(False)
+                for child_idx in range(top.childCount()):
+                    top.child(child_idx).setHidden(False)
+            self.status_label.setText("Showing all categories and entries.")
             if self.section_list.topLevelItemCount() > 0:
-                self.section_list.setCurrentItem(self.section_list.topLevelItem(0))
+                first = self.section_list.topLevelItem(0).child(0) if self.section_list.topLevelItem(0).childCount() > 0 else self.section_list.topLevelItem(0)
+                self.section_list.setCurrentItem(first)
             else:
                 self.browser.clear()
 
