@@ -62,6 +62,8 @@ class DaggerheartViewer(QWidget):
 
         self.section_list = QTreeWidget()
         self.section_list.setHeaderHidden(True)
+        self.section_list.setUniformRowHeights(True)
+        self.section_list.setExpandsOnDoubleClick(False)
         self.section_list.currentItemChanged.connect(self.on_section_changed)
 
         self.browser = QTextBrowser()
@@ -119,19 +121,38 @@ class DaggerheartViewer(QWidget):
         for category_name in sorted(catalog["categories"].keys()):
             category = catalog["categories"][category_name]
             category_item = QTreeWidgetItem([f"{category['label']} ({category['count']})"])
-            category_item.setExpanded(True)
+            category_item.setExpanded(False)
             category_item.setData(0, Qt.UserRole, {"type": "category", "name": category_name, "data": category})
 
             for entry in category["entries"]:
-                child = QTreeWidgetItem([entry["name"]])
-                child.setData(0, Qt.UserRole, {"type": "entry", "category": category_name, "entry": entry})
-                category_item.addChild(child)
+                entry_name = entry.get("name") or entry.get("slug") or "Unnamed"
+                entry_item = QTreeWidgetItem([entry_name])
+                entry_item.setData(0, Qt.UserRole, {"type": "entry", "category": category_name, "entry": entry})
+
+                markdown = entry.get("markdown") or ""
+                sub_sections = self.parse_markdown_sections(markdown)
+                if len(sub_sections) > 1:
+                    for section in sub_sections:
+                        section_item = QTreeWidgetItem([section.title])
+                        section_item.setData(0, Qt.UserRole, {"type": "section", "section": section})
+                        entry_item.addChild(section_item)
+                else:
+                    summary_item = QTreeWidgetItem(["Summary"])
+                    summary_item.setData(0, Qt.UserRole, {"type": "summary", "category": category_name, "entry": entry})
+                    entry_item.addChild(summary_item)
+
+                category_item.addChild(entry_item)
 
             self.section_list.addTopLevelItem(category_item)
 
         self.status_label.setText(f"Loaded {catalog['total_documents']} Daggerheart documents across {len(catalog['categories'])} categories.")
+        for idx in range(self.section_list.topLevelItemCount()):
+            self.section_list.topLevelItem(idx).setExpanded(False)
+
         if self.section_list.topLevelItemCount() > 0:
-            self.section_list.setCurrentItem(self.section_list.topLevelItem(0).child(0) if self.section_list.topLevelItem(0).childCount() > 0 else self.section_list.topLevelItem(0))
+            first_category = self.section_list.topLevelItem(0)
+            first_category.setExpanded(False)
+            self.section_list.setCurrentItem(first_category)
 
     def render_entry_html(self, category_name: str, entry: dict):
         summary = entry.get("summary") or "No summary available."
@@ -160,7 +181,11 @@ class DaggerheartViewer(QWidget):
             return "\n".join(lines)
 
         if markdown:
-            return self.convert_markdown_to_html(markdown.splitlines())
+            section_html = self.convert_markdown_to_html(markdown.splitlines())
+            # Split a long markdown document into readable subsection blocks for the same entry.
+            if "<h1" in section_html or "<h2" in section_html:
+                return section_html
+            return f"<h1>{entry['name']}</h1><p>{summary}</p>"
 
         return f"<h1>{entry['name']}</h1><p>{summary}</p>"
 
@@ -168,8 +193,8 @@ class DaggerheartViewer(QWidget):
         lines = markdown_text.splitlines()
         sections = []
         current_lines = []
-        current_title = "Introduction"
-        current_anchor = "intro"
+        current_title = "Overview"
+        current_anchor = "overview"
         current_level = 1
 
         def push_section():
@@ -243,12 +268,22 @@ class DaggerheartViewer(QWidget):
         def replace_link(match):
             label = match.group(1)
             target = match.group(2)
+            if not target or target.startswith("mailto:"):
+                return label
+
             href = self.build_link_href(target)
             if href.startswith("file:") or target.endswith(".md") or ".md#" in target:
-                return f"<a href='{href}' style='color: #7fa8ff; text-decoration: underline;'>" \
-                       f"{label}</a>"
-            return f"<a href='{href}'>" \
-                   f"{label}</a>"
+                if self.current_file_path is None:
+                    return label
+                resolved = self.resolve_link_path(target)
+                if not resolved.exists():
+                    return label
+                return f"<a href='{href}' style='color: #7fa8ff; text-decoration: underline;'>{label}</a>"
+
+            if href.startswith("http://") or href.startswith("https://"):
+                return f"<a href='{href}'>{label}</a>"
+
+            return label
 
         text = re.sub(r"\[(.*?)\]\((.*?)\)", replace_link, text)
         return text
@@ -325,8 +360,19 @@ class DaggerheartViewer(QWidget):
                 self.highlight_matches_from_doc(self.current_query)
             return
 
+        if payload.get("type") == "summary":
+            entry = payload["entry"]
+            self.browser.setHtml(f"<h1>{entry.get('name', 'Summary')}</h1><p>{entry.get('summary', 'No summary available.')}</p>")
+            return
+
         if payload.get("type") == "category":
             self.browser.setHtml(f"<h1>{payload['data']['label']}</h1><p>{payload['data']['count']} entries</p>")
+            return
+
+        if payload.get("type") == "section":
+            section = payload["section"]
+            self.browser.setHtml(section.html)
+            self.highlight_matches(section)
             return
 
         section = payload
@@ -364,29 +410,44 @@ class DaggerheartViewer(QWidget):
             query_lower = self.current_query.lower()
             match_count = 0
 
+            def item_matches(item):
+                payload = item.data(0, Qt.UserRole) or {}
+                if payload.get("type") == "section":
+                    section = payload.get("section")
+                    if section:
+                        text = f"{section.title} {section.text}"
+                        return query_lower in text.lower()
+                if payload.get("type") in {"entry", "summary"}:
+                    entry = payload.get("entry") or {}
+                    text = f"{entry.get('name', '')} {entry.get('summary', '')} {entry.get('slug', '')}"
+                    return query_lower in text.lower()
+                if payload.get("type") == "category":
+                    data = payload.get("data") or {}
+                    return query_lower in str(data.get("label", "")).lower()
+                return False
+
             for idx in range(self.section_list.topLevelItemCount()):
                 category_item = self.section_list.topLevelItem(idx)
                 category_visible = False
                 for child_idx in range(category_item.childCount()):
-                    child = category_item.child(child_idx)
-                    payload = child.data(0, Qt.UserRole) or {}
-                    entry = payload.get("entry", {})
-                    needles = [
-                        child.text(0),
-                        entry.get("name", ""),
-                        entry.get("summary", ""),
-                        entry.get("slug", ""),
-                        payload.get("category", ""),
-                    ]
-                    is_match = any(query_lower in str(value).lower() for value in needles if value)
-                    child.setHidden(not is_match)
-                    if is_match:
+                    entry_item = category_item.child(child_idx)
+                    entry_visible = False
+                    for grandchild_idx in range(entry_item.childCount()):
+                        section_item = entry_item.child(grandchild_idx)
+                        matches = item_matches(section_item)
+                        section_item.setHidden(not matches)
+                        if matches:
+                            entry_visible = True
+                            match_count += 1
+                    if entry_item.childCount() == 0:
+                        entry_visible = item_matches(entry_item)
+                    entry_item.setHidden(not entry_visible)
+                    if entry_visible:
                         category_visible = True
-                        match_count += 1
-                        child.setExpanded(True)
+                        entry_item.setExpanded(True)
                 category_item.setHidden(not category_visible)
 
-            self.status_label.setText(f"{match_count} matching entry(s) found.")
+            self.status_label.setText(f"{match_count} matching section(s) found.")
             first_visible = self.find_first_visible_item()
             if first_visible is not None:
                 self.section_list.setCurrentItem(first_visible)
@@ -397,7 +458,9 @@ class DaggerheartViewer(QWidget):
                 top = self.section_list.topLevelItem(idx)
                 top.setHidden(False)
                 for child_idx in range(top.childCount()):
-                    top.child(child_idx).setHidden(False)
+                    child = top.child(child_idx)
+                    child.setHidden(False)
+                    child.setExpanded(False)
             self.status_label.setText("Showing all categories and entries.")
             if self.section_list.topLevelItemCount() > 0:
                 first = self.section_list.topLevelItem(0).child(0) if self.section_list.topLevelItem(0).childCount() > 0 else self.section_list.topLevelItem(0)
@@ -456,8 +519,8 @@ class DaggerheartViewer(QWidget):
     def on_anchor_clicked(self, url: QUrl):
         if url.isLocalFile():
             file_path = Path(url.toLocalFile())
-            anchor = url.fragment()
             if file_path.exists():
+                anchor = url.fragment()
                 self.load_markdown_file(file_path, anchor)
             return
 
@@ -473,24 +536,18 @@ class DaggerheartViewer(QWidget):
             QDesktopServices.openUrl(url)
             return
 
-        if url.isLocalFile() or target.startswith("file:"):
-            file_path = Path(url.toLocalFile())
-            anchor = url.fragment()
-            if file_path.exists():
-                self.load_markdown_file(file_path, anchor)
-            return
-
         if target.endswith(".md") or ".md#" in target:
             file_path = self.resolve_link_path(target)
-            anchor = None
-            if "#" in target:
-                file_path, anchor = target.split("#", 1)
-                file_path = self.resolve_link_path(file_path)
-            if file_path and file_path.exists():
-                self.load_markdown_file(file_path, anchor)
+            if file_path.exists():
+                anchor = None
+                if "#" in target:
+                    file_path, anchor = target.split("#", 1)
+                    file_path = self.resolve_link_path(file_path)
+                if file_path.exists():
+                    self.load_markdown_file(file_path, anchor)
             return
 
-        QDesktopServices.openUrl(url)
+        return
 
     def build_link_href(self, target: str) -> str:
         if target.startswith("#"):
