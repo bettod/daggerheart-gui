@@ -32,6 +32,9 @@ class RuleSection:
 
 
 class DaggerheartViewer(QWidget):
+    def _anchor_for_text(self, text: str) -> str:
+        return re.sub(r"[^a-zA-Z0-9_-]", "-", text.lower()).strip("-") or "section"
+
     def __init__(self, parent=None):
         super().__init__(parent)
         self.setWindowTitle("Daggerheart SRD Viewer")
@@ -39,6 +42,8 @@ class DaggerheartViewer(QWidget):
 
         self.sections = []
         self.current_query = ""
+        self._catalog_name_links_cache = None
+        self._catalog_name_pattern = None
 
         self.search_input = QLineEdit()
         self.search_input.setPlaceholderText("Search the rules...")
@@ -64,6 +69,7 @@ class DaggerheartViewer(QWidget):
         self.section_list.setHeaderHidden(True)
         self.section_list.setUniformRowHeights(True)
         self.section_list.setExpandsOnDoubleClick(False)
+        self.section_list.itemExpanded.connect(self.on_category_expanded)
         self.section_list.currentItemChanged.connect(self.on_section_changed)
 
         self.browser = QTextBrowser()
@@ -122,37 +128,27 @@ class DaggerheartViewer(QWidget):
             category = catalog["categories"][category_name]
             category_item = QTreeWidgetItem([f"{category['label']} ({category['count']})"])
             category_item.setExpanded(False)
-            category_item.setData(0, Qt.UserRole, {"type": "category", "name": category_name, "data": category})
+            category_item.setData(0, Qt.UserRole, {"type": "category", "name": category_name, "data": category, "loaded": True})
 
-            for entry in category["entries"]:
+            for entry in category.get("entries", []):
                 entry_name = entry.get("name") or entry.get("slug") or "Unnamed"
+                entry_anchor = self._anchor_for_text(f"{category_name}-{entry_name}")
                 entry_item = QTreeWidgetItem([entry_name])
-                entry_item.setData(0, Qt.UserRole, {"type": "entry", "category": category_name, "entry": entry})
-
-                markdown = entry.get("markdown") or ""
-                sub_sections = self.parse_markdown_sections(markdown)
-                if len(sub_sections) > 1:
-                    for section in sub_sections:
-                        section_item = QTreeWidgetItem([section.title])
-                        section_item.setData(0, Qt.UserRole, {"type": "section", "section": section})
-                        entry_item.addChild(section_item)
-                else:
-                    summary_item = QTreeWidgetItem(["Summary"])
-                    summary_item.setData(0, Qt.UserRole, {"type": "summary", "category": category_name, "entry": entry})
-                    entry_item.addChild(summary_item)
-
+                entry_item.setData(0, Qt.UserRole, {"type": "entry", "category": category_name, "entry": entry, "anchor": entry_anchor})
                 category_item.addChild(entry_item)
 
             self.section_list.addTopLevelItem(category_item)
 
         self.status_label.setText(f"Loaded {catalog['total_documents']} Daggerheart documents across {len(catalog['categories'])} categories.")
-        for idx in range(self.section_list.topLevelItemCount()):
-            self.section_list.topLevelItem(idx).setExpanded(False)
-
         if self.section_list.topLevelItemCount() > 0:
-            first_category = self.section_list.topLevelItem(0)
-            first_category.setExpanded(False)
-            self.section_list.setCurrentItem(first_category)
+            self.section_list.setCurrentItem(self.section_list.topLevelItem(0))
+
+    def on_category_expanded(self, item: QTreeWidgetItem):
+        payload = item.data(0, Qt.UserRole) or {}
+        if payload.get("type") != "category":
+            return
+        payload["loaded"] = True
+        item.setData(0, Qt.UserRole, payload)
 
     def render_entry_html(self, category_name: str, entry: dict):
         summary = entry.get("summary") or "No summary available."
@@ -182,12 +178,17 @@ class DaggerheartViewer(QWidget):
 
         if markdown:
             section_html = self.convert_markdown_to_html(markdown.splitlines())
-            # Split a long markdown document into readable subsection blocks for the same entry.
             if "<h1" in section_html or "<h2" in section_html:
                 return section_html
             return f"<h1>{entry['name']}</h1><p>{summary}</p>"
 
         return f"<h1>{entry['name']}</h1><p>{summary}</p>"
+
+    def _iter_entry_items(self):
+        for idx in range(self.section_list.topLevelItemCount()):
+            category_item = self.section_list.topLevelItem(idx)
+            for child_idx in range(category_item.childCount()):
+                yield category_item.child(child_idx)
 
     def parse_markdown_sections(self, markdown_text: str):
         lines = markdown_text.splitlines()
@@ -258,6 +259,23 @@ class DaggerheartViewer(QWidget):
 
         return "\n".join(html_parts)
 
+    def _catalog_name_links(self):
+        if self._catalog_name_links_cache is not None:
+            return self._catalog_name_links_cache
+
+        entries = []
+        if isinstance(self.catalog, dict):
+            for category_name, category in self.catalog.get("categories", {}).items():
+                for entry in category.get("entries", []):
+                    name = entry.get("name")
+                    if name:
+                        entries.append((name, self._anchor_for_text(f"{category_name}-{name}")))
+
+        entries.sort(key=lambda pair: (-len(pair[0]), pair[0].lower()))
+        self._catalog_name_links_cache = entries
+        self._catalog_name_pattern = None
+        return entries
+
     def render_inline(self, text: str):
         text = re.sub(r"\*\*(.*?)\*\*", r"<strong>\1</strong>", text)
         text = re.sub(r"__(.*?)__", r"<strong>\1</strong>", text)
@@ -286,7 +304,24 @@ class DaggerheartViewer(QWidget):
             return label
 
         text = re.sub(r"\[(.*?)\]\((.*?)\)", replace_link, text)
-        return text
+
+        catalog_links = self._catalog_name_links()
+        if not catalog_links:
+            return text
+
+        if self._catalog_name_pattern is None:
+            names = [re.escape(name) for name, _ in catalog_links]
+            pattern = r"(?<![A-Za-z0-9])(" + "|".join(sorted(names, key=len, reverse=True)) + r")(?![A-Za-z0-9])"
+            self._catalog_name_pattern = re.compile(pattern, flags=re.IGNORECASE)
+
+        def replace_name(match):
+            name = match.group(0)
+            for catalog_name, anchor in catalog_links:
+                if catalog_name.lower() == name.lower():
+                    return f"<a href='#{anchor}'>{catalog_name}</a>"
+            return name
+
+        return self._catalog_name_pattern.sub(replace_name, text)
 
     def strip_html(self, html: str):
         text = re.sub(r"<[^>]+>", "", html)
@@ -327,8 +362,12 @@ class DaggerheartViewer(QWidget):
 
     def find_item_by_anchor(self, anchor: str):
         def recurse(item):
-            section = item.data(0, Qt.UserRole)
-            if section and section.anchor == anchor:
+            payload = item.data(0, Qt.UserRole)
+            if isinstance(payload, dict):
+                current_anchor = payload.get("anchor")
+                if current_anchor == anchor:
+                    return item
+            elif getattr(payload, "anchor", None) == anchor:
                 return item
             for idx in range(item.childCount()):
                 found = recurse(item.child(idx))
