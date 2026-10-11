@@ -1,0 +1,2866 @@
+﻿LA PIRA MORENTE 
+	Avventura Introduttiva per Age of Umbra Per Personaggi di Tier 1
+	"Quando l'ultima fiamma si spegnerà, ciò che rimarrà non sarà l'oscurità.
+	Sarà il ricordo di chi ha tentato di opporvisi."
+ 
+INTRODUZIONE
+	Il mondo non conosce più l'alba.
+	Le antiche cronache narrano di un'epoca in cui il sole sorgeva ogni mattina sopra montagne dorate e oceani scintillanti. Oggi quei racconti sembrano favole per bambini.
+	L'oscurità ricopre la terra.
+	Alcuni la chiamano Umbra.
+	Altri la chiamano semplicemente la Notte.
+	Qualunque sia il suo vero nome, una cosa è certa:
+	quando una fonte di luce si spegne, l'Umbra avanza.
+	Per questo motivo le comunità sopravvivono attorno a luoghi sacri.
+	Pire eterne.
+	Lanterni benedetti.
+	Fuochi ancestrali.
+	Miracoli dimenticati.
+	Ashgrove Hollow è uno di questi luoghi.
+	Da secoli il villaggio vive sotto la protezione della Pira Sacra di Vaelor.
+	Ora quella fiamma sta morendo.
+	E se si spegnesse, qualcosa che attende oltre il confine della luce potrebbe finalmente entrare.
+
+ATTO I - PARTE 1 - LA VEGLIA DELLA PIRA
+	Scopo dell'Atto
+		Questo atto introduce:
+		·       Ashgrove Hollow
+		·       la Pira Sacra
+		·       il Custode Elira
+		·       Speranza e Paura
+		·       le interazioni sociali
+		Durata prevista:
+		30-45 minuti
+ 
+	Arrivo ad Ashgrove Hollow
+		Leggi ai giocatori
+		Il mondo non conosce più il mattino.
+		Giorno e notte sono diventati difficili da distinguere.
+		Eppure, anche nel crepuscolo eterno, Ashgrove Hollow dovrebbe essere facile da trovare.
+		Per generazioni, viaggiatori e pellegrini hanno seguito il bagliore della Pira Sacra.
+		Questa sera quel bagliore fatica a raggiungere la strada.
+		Davanti a voi centinaia di persone sono riunite nella piazza del villaggio.
+		Nessuno canta.
+		Nessuno ride.
+		Nessuno distoglie lo sguardo.
+		Tutti stanno osservando il fuoco.
+		
+		Concedi ai giocatori il tempo di descrivere:
+		·       il loro personaggio
+		·       il motivo della loro presenza
+		·       la prima impressione del villaggio
+		Poi poni una domanda a ciascuno.
+		Esempi:
+		Al Ranger
+		Quale dettaglio della foresta ti fa capire che qualcosa non va?
+		Al Guardiano
+		Quale leggenda del tuo popolo parla di fuochi sacri?
+		Al Ladro
+		Quale dettaglio ti fa capire che la folla è terrorizzata?
+		All'Incantatore
+		Perché la fiamma della Pira ti sembra sbagliata?
+		Incorpora le risposte nella descrizione del villaggio.
+	
+	LA PIRA SACRA
+		La Pira domina l'intera piazza.
+		Persino indebolita, le sue fiamme si innalzano per quasi dieci metri.
+		Scintille argentee salgono lentamente verso il cielo.
+		I personaggi possono investigare.
+		
+		Tiro di Conoscenza (Difficoltà 13)
+		Successo
+		Il personaggio comprende che l'incantesimo che alimenta la Pira è incredibilmente antico.
+		Più antico del villaggio stesso.
+		Successo con Speranza
+		Percepisce inoltre qualcosa di insolito.
+		La Pira non sembra consumarsi.
+		Sembra essere privata della propria energia.
+		Successo con Paura
+		Il GM ottiene 1 Paura.
+		Per un singolo istante il personaggio sente un sussurro provenire dall'interno della fiamma.
+		
+		Tiro di Istinto (Difficoltà 13)
+		Successo
+		Gli abitanti non stanno pregando.
+		Stanno aspettando.
+		Come se avessero già assistito a qualcosa di simile.
+		Successo Critico
+		Il personaggio capisce una cosa ancora più inquietante.
+		Il problema non è il combustibile.
+		Il problema è la fiamma stessa.
+ 
+ATTO I - PARTE 2 - IL BAMBINO CHE PIANGE
+	IL BAMBINO CHE PIANGE
+		Mentre i personaggi osservano la veglia e parlano con gli abitanti del villaggio, presenta il primo momento di tensione.
+		Leggi ai giocatori
+		Un bambino rompe improvvisamente il silenzio.
+		Le sue lacrime risuonano nella piazza come un allarme.
+		La madre tenta di consolarlo, ma il piccolo continua a fissare la Pira Sacra.
+		"Sta diventando più piccola..."
+		La donna cerca di zittirlo, ma è troppo tardi.
+		Diversi abitanti si voltano verso il fuoco.
+		Qualcuno abbassa lo sguardo.
+		Qualcun altro inizia a pregare.
+		Per la prima volta da quando siete arrivati, percepite chiaramente il panico della comunità.
+		
+		Il Primo Tiro
+		Chiedi ai giocatori:
+		Cosa fate?
+		Qualunque tentativo sensato di calmare il bambino, rassicurare gli abitanti o alleggerire la tensione richiede un tiro.
+		Tiro di Presenza (Difficoltà 10)
+		
+		Successo
+		Il bambino si calma.
+		La folla ritrova temporaneamente la propria compostezza.
+		Successo con Speranza
+		Il personaggio ottiene 1 Speranza.
+		Leggi ai giocatori
+		Il bambino smette lentamente di piangere.
+		Alcuni abitanti tirano un sospiro di sollievo.
+		Per qualche istante la paura sembra meno opprimente.
+		
+		Successo con Paura
+		Il GM ottiene 1 Paura.
+		Leggi ai giocatori
+		Il bambino si calma.
+		Poi indica il margine della foresta.
+		"C'è qualcuno."
+		"Ci sta osservando."
+		Quando voltate lo sguardo non vedete nulla.
+		
+		Fallimento
+		Il bambino continua a piangere.
+		Il nervosismo si diffonde nella piazza.
+		Fallimento con Speranza
+		Il personaggio ottiene 1 Speranza.
+		Gli abitanti apprezzano comunque il tentativo.
+		Fallimento con Paura
+		Il GM ottiene 1 Paura.
+		Il personaggio segna 1 Stress.
+		Leggi ai giocatori
+		Per alcuni istanti il villaggio sembra sul punto di precipitare nel panico.
+		
+		Successo Critico
+		Leggi ai giocatori
+		Il bambino si calma immediatamente.
+		Perfino il suo respiro torna regolare.
+		Poi, per una frazione di secondo, la Pira Sacra si illumina con maggiore intensità.
+		Diversi abitanti trattengono il fiato.
+		Forse è stata solo una coincidenza.
+		Forse no.
+		Il personaggio ottiene 1 Speranza e può cancellare 1 Stress.
+	
+	IL CUSTODE ELIRA ASHMANTLE
+		Pochi minuti dopo l'episodio, una donna si avvicina al gruppo.
+		Leggi ai giocatori
+		La cenere ricopre le sue maniche.
+		Simboli argentei disegnati sulla pelle emergono dal colletto del mantello.
+		I suoi occhi tradiscono stanchezza, ma non debolezza.
+		Osserva la Pira per alcuni lunghi istanti.
+		Poi finalmente parla.
+		"Non siete di qui."
+		La sua voce è calma.
+		"Bene."
+		"Forse riuscirete a vedere ciò che noi abbiamo smesso di notare."
+		
+		Elira Ashmantle
+		Ruolo
+		Custode della Pira Sacra.
+		Leader spirituale di Ashgrove Hollow.
+		Aspetto
+		·       Mantello scuro coperto di fuliggine
+		·       Simboli rituali argentati
+		·       Mani segnate da ustioni antiche
+		·       Sguardo stanco ma determinato
+		Personalità
+		·       Pragmatica
+		·       Protettiva
+		·       Intelligente
+		·       Disposta a sacrificarsi per il villaggio
+		Obiettivo
+		Salvare Ashgrove Hollow.
+		Paura
+		Essere arrivata troppo tardi.
+		
+		Conversazione Con Elira
+		Elira conduce il gruppo ai margini della piazza per parlare lontano dagli abitanti.
+		Leggi ai giocatori
+		"Tre notti fa la Pira ha vacillato."
+		"Due notti fa è accaduto di nuovo."
+		"Questa sera stava quasi per spegnersi."
+		Elira stringe i pugni.
+		"Non credo alle coincidenze."
+		
+		Le Tre Anomalie
+		Elira descrive i principali eventi anomali verificatisi negli ultimi giorni.
+		
+		Prima Anomalia
+		Le Lanterne d'Argento
+		Diversi cacciatori hanno avvistato luci nella foresta.
+		Non si muovono come animali.
+		Non si muovono come viaggiatori.
+		Sembrano pattugliare i boschi.
+		
+		Seconda Anomalia
+		I Santuari Violati
+		Vecchi santuari dedicati a Vaelor sono stati danneggiati.
+		Niente è stato rubato.
+		I sigilli sono stati semplicemente aperti.
+		
+		Terza Anomalia
+		Le Visioni dell'Indovina delle Ceneri
+		La donna conosciuta come Maelin ha iniziato a pronunciare parole inquietanti.
+		Secondo lei:
+		"La fiamma non sta morendo.
+		Sta tornando a casa."
+	
+	ESPLORANDO LA VEGLIA
+		Prima di mandare i personaggi in missione, lascia che raccolgano informazioni.
+		Le seguenti scene possono svolgersi in qualsiasi ordine.
+		
+		Brenn Occhioacuto
+		Un cacciatore osserva la foresta dal margine della piazza.
+		Aspetto
+		·       Arco lungo
+		·       Mantello consumato
+		·       Orecchio sinistro mutilato
+		Personalità
+		·       Diffidente
+		·       Pratico
+		·       Coraggioso
+		
+		Cosa Sa
+		Se interrogato:
+		Leggi ai giocatori
+		"Ho visto le luci."
+		"Tre notti fa."
+		"Lanterne argentate."
+		"Non erano persone del villaggio."
+		"E non erano fantasmi."
+		
+		Tiro di Istinto (13)
+		Successo:
+		Brenn è sinceramente spaventato.
+		Per un uomo come lui è insolito.
+		
+		Rowan il Narratore
+		Un anziano siede accanto alla Pira.
+		Personalità
+		·       Cordiale
+		·       Loquace
+		·       Nostalgico
+		
+		La Leggenda di Vaelor
+		Leggi ai giocatori
+		"Dicono che Vaelor attraversò il mondo portando una sola brace."
+		"Una scintilla sopravvissuta alla fine dei tempi luminosi."
+		"La nostra Pira nacque da quella scintilla."
+		L'uomo sorride.
+		"O almeno così raccontavano i nostri nonni."
+		
+		Tiro di Conoscenza (13)
+		Successo:
+		La storia contiene evidenti lacune.
+		Parti importanti sembrano essere state dimenticate nel corso delle generazioni.
+	
+	SEGNI DELL'UMBRA
+		Prima di concludere l'atto, mostra che il pericolo non riguarda solo la Pira.
+		Leggi ai giocatori
+		Uno stormo di uccelli abbandona improvvisamente gli alberi ai margini del villaggio.
+		Per un istante il cielo si riempie di ali.
+		Poi torna il silenzio.
+		Un silenzio innaturale.
+	
+	LA RICHIESTA DI ELIRA
+		Quando i personaggi hanno raccolto abbastanza informazioni:
+		Leggi ai giocatori
+		Elira osserva la foresta settentrionale.
+		"Il villaggio ha bisogno di risposte."
+		"Io ho bisogno di qualcuno disposto a cercarle."
+		Indica la strada che si perde tra gli alberi.
+		"Cominciate dal convoglio di legname consacrato."
+		"Avrebbe dovuto fare ritorno ore fa."
+	
+	IL CONVOGLIO SCOMPARSO
+		Le scorte di legname consacrato vengono conservate in un campo di raccolta distante alcuni chilometri dal villaggio.
+		Quel legname è fondamentale per alimentare la Pira.
+		Se il convoglio non è tornato...
+		qualcosa è andato storto.
+	
+	FINE DELL'ATTO I
+		Leggi ai giocatori
+		La notte si fa più profonda.
+		Gli abitanti continuano a gettare legna e olio nella Pira.
+		La fiamma quasi non reagisce.
+		Poi un corno risuona in lontananza.
+		Una volta.
+		Due volte.
+		Tre volte.
+		Un segnale d'allarme.
+		Elira chiude gli occhi.
+		Per la prima volta da quando l'avete incontrata sembra davvero spaventata.
+		"No..."
+		Pochi istanti dopo, un secondo corno risponde dalla foresta.
+		Il convoglio è in pericolo.
+	
+ATTO II
+	I RAZZIATORI VINCOLATI ALLA CENERE
+		Scopo dell'Atto
+		Questo atto introduce:
+		·       Il combattimento
+		·       Gli avversari
+		·       Le Azioni di Paura
+		·       Le conseguenze delle scelte
+		·       Le prime sfumature morali dell'avventura
+		Durata prevista:
+		45-60 minuti
+		I personaggi iniziano credendo di dover fermare dei semplici razziatori.
+		Entro la fine dell'atto scopriranno che la situazione è molto più complessa.
+	
+	IL VIAGGIO
+		Il convoglio è partito verso nord.
+		Un sentiero stretto attraversa la Foresta Grigia, una distesa di conifere che circonda Ashgrove Hollow.
+		Leggi ai giocatori
+		Lasciate il villaggio alle vostre spalle.
+		Il bagliore della Pira Sacra svanisce lentamente tra gli alberi.
+		Più avanzate nella foresta, più il silenzio diventa opprimente.
+		Nessun canto di uccelli.
+		Nessun frinire di insetti.
+		Nessun rumore di animali.
+		Solo il vento che attraversa gli aghi dei pini.
+		E persino quel rumore sembra innaturale.
+		
+	DOMANDE AI PERSONAGGI
+		Mentre viaggiano, poni alcune domande.
+		Al Ranger
+		Quale traccia ti fa capire che la fauna locale si è allontanata da questa zona?
+		Al Guardiano
+		Quale vecchio insegnamento del tuo popolo ti torna in mente mentre percorri questa strada?
+		Al Ladro
+		Quale dettaglio ti convince che qualcuno vi sta osservando?
+		All'Incantatore
+		Quale sensazione magica rende questo luogo inquietante?
+		Utilizza le risposte durante il resto della scena.
+	
+	I PRIMI SEGNI
+		Dopo alcuni minuti di gioco chiedi un tiro.
+		Tiro di Istinto (Difficoltà 13)
+		Successo
+		Leggi ai giocatori
+		Notate rami spezzati ai bordi della strada.
+		Impronte.
+		Terriccio smosso.
+		Segni di trascinamento.
+		Qualunque cosa sia successa qui, è accaduta di recente.
+		
+		Successo con Speranza
+		Rivela inoltre:
+		Alcuni aggressori sono rimasti feriti.
+		Il convoglio ha combattuto.
+		
+		Successo con Paura
+		Il GM ottiene 1 Paura.
+		I personaggi trovano le tracce.
+		Ma non sono gli unici ad aver individuato qualcosa.
+		
+		Fallimento
+		I personaggi non individuano nulla.
+		Proseguono ignari.
+		
+		Fallimento con Paura
+		Il GM ottiene 1 Paura.
+		Una figura si muove tra gli alberi.
+		Troppo rapidamente per essere identificata.
+	
+	IL CONVOGLIO
+		Poco dopo i personaggi raggiungono il luogo dell'attacco.
+		Leggi ai giocatori
+		Dietro una curva improvvisa trovate finalmente il convoglio.
+		O meglio...
+		Ciò che ne rimane.
+		Un carro giace rovesciato.
+		Un altro è stato quasi completamente svuotato.
+		Tronchi di legname consacrato sono sparsi ovunque.
+		Le casse sono state aperte.
+		I cavalli sono scomparsi.
+		Dal sottobosco si alza ancora un filo di fumo.
+		L'aggressione è avvenuta da poco.
+		Molto poco.
+	
+	ISPEZIONARE LA SCENA
+		I personaggi possono investigare.
+		
+		Tiro di Conoscenza (Difficoltà 12)
+		Successo
+		L'attacco è avvenuto meno di un'ora fa.
+		
+		Tiro di Istinto (Difficoltà 14)
+		Successo
+		Qualcuno è ancora nei dintorni.
+		Sta osservando.
+		Aspettando.
+		
+		Tiro di Destrezza (Difficoltà 13)
+		Successo
+		Il personaggio recupera:
+		·       un coltello annerito dal fuoco
+		·       un brandello di mantello
+		·       un simbolo inciso sul cuoio
+		Il simbolo rappresenta una fiamma stilizzata.
+		Conserva questo dettaglio.
+		Ricomparirà in seguito.
+	
+	L'IMBOSCATA
+		Prima o poi gli aggressori si mostreranno.
+		Se i personaggi hanno ottenuto abbastanza successi durante l'investigazione, vedranno arrivare il pericolo.
+		Altrimenti verranno colti di sorpresa.
+	
+	LI VEDETE ARRIVARE
+		Leggi ai giocatori
+		Un ramo si spezza.
+		Una figura si immobilizza tra gli alberi.
+		Poi un'altra.
+		Poi una terza.
+		Mantelli scuri.
+		Volti coperti.
+		Lame sguainate.
+		Erano pronti ad attaccare.
+		Ma siete stati più rapidi.
+		I personaggi agiscono per primi.
+	
+	VENITE COLTI DI SORPRESA
+		Leggi ai giocatori
+		Le figure emergono contemporaneamente da ogni direzione.
+		L'acciaio luccica.
+		Una voce grida:
+		"Prendete il legname!"
+		"Muovetevi!"
+		"Niente morti inutili!"
+		Il combattimento inizia.
+		I nemici agiscono per primi.
+		
+	RAZZIATORI VINCOLATI ALLA CENERE
+		Questi uomini e donne non sono comuni briganti.
+		I personaggi non lo sanno ancora.
+		
+		Razziatore Vincolato alla Cenere
+		Tier 1 - Standard
+		Coltello di Cenere
+		Mischia - 1d8+4 fisici
+		ATK: +1
+		Difficoltà: 13
+		Soglie: 6 / 12
+		HP: OOO
+		Stress: OO
+		Capacità
+		Bomba Fumogena (Reazione)
+		Se entra in scena senza essere visto diventa Nascosto.
+		Colpo Disperato (Azione)
+		Segna 1 Stress.
+		Ottiene +2 ai tiri di attacco successivi.
+		
+		Usa:
+		·       Razziatore A
+		·       Razziatore B
+		·       Razziatore C
+		
+		CAPITANO VINCOLATO ALLA CENERE
+		Leader dello scontro.
+		Capitano Vincolato alla Cenere
+		Tier 1 - Leader
+		Sciabola Carbonizzata
+		Mischia - 2d4+4 fisici
+		ATK: +3
+		Difficoltà: 14
+		Soglie: 7 / 14
+		HP: OOOO
+		Stress: OO
+		
+		Capacità
+		Raduna i Disperati
+		Scegli un alleato.
+		Quell'alleato:
+		·       cancella 1 Stress
+		·       ottiene +1 ATK
+		
+		Distruggere le Prove (Azione Paura)
+		Spendi 1 Paura.
+		Distruggi parte delle scorte.
+		Se questa capacità viene usata con successo tre volte:
+		la Pira inizierà il conto alla rovescia dell'Atto V da un valore peggiore.
+	
+	OBIETTIVI DEI RAZZIATORI
+		I Razziatori non sono qui per uccidere.
+		Vogliono:
+		1.       Rubare il legname consacrato.
+		2.       Sopravvivere.
+		3.       Fuggire.
+		Combatteranno con ferocia.
+		Ma non cercano una carneficina.
+	
+	UNA POSSIBILE TRATTATIVA
+		I personaggi possono tentare la diplomazia.
+		Tiro di Presenza (Difficoltà 15)
+		Successo
+		Il capitano ordina ai suoi di fermarsi.
+		Il combattimento si interrompe temporaneamente.
+	
+	LA VERITÀ SU BRACE NERA
+		Se i personaggi ascoltano il capitano:
+		Leggi ai giocatori
+		"Pensate che siamo ladri?"
+		La sua risata è amara.
+		"La nostra fiamma si è spenta sei mesi fa."
+		"Sapete cosa accade dopo?"
+		Nessuno risponde.
+		"La gente muore."
+		"La gente sparisce."
+		"La gente impazzisce."
+		Indica il convoglio.
+		"Voi cosa rubereste per salvare gli ultimi che amate?"
+		
+		Questa è la prima grande complicazione morale dell'avventura.
+		I razziatori sono vittime.
+		Non semplici criminali.
+	
+	I PORTATORI DI LANTERNE
+		Se il dialogo continua:
+		Leggi ai giocatori
+		"I Portatori di Lanterne ci avevano avvertiti."
+		"Dicevano che altre fiamme stavano morendo."
+		"Dicevano che qualcosa si stava risvegliando sotto il mondo."
+		"Il Fratello Corvin gli credeva."
+		"Forse aveva ragione."
+		Prima menzione di Corvin.
+	
+	ESCALATION
+		Se il combattimento diventa troppo semplice:
+		Spendi 1 Paura.
+		
+		SEGUGIO DELL'UMBRA
+		Leggi ai giocatori
+		Un ululato attraversa la foresta.
+		Perfino i razziatori si irrigidiscono.
+		Uno di loro sussurra:
+		"No..."
+		Poi qualcosa emerge dagli alberi.
+		
+		Quando il GM spende 1 Paura per intensificare lo scontro, introduci il Segugio dell'Umbra.
+		Leggi ai giocatori
+		L'ululato attraversa la foresta una seconda volta.
+		Questa volta è più vicino.
+		Molto più vicino.
+		I razziatori si immobilizzano.
+		Uno di loro lascia cadere il sacco che stava trascinando.
+		"No..."
+		"Non qui..."
+		Le ombre tra gli alberi si contorcono.
+		Poi una creatura balza fuori dal sottobosco.
+		È simile a un lupo.
+		Ma qualcosa è sbagliato.
+		Le sue zampe sono troppo lunghe.
+		Gli occhi brillano di una luce pallida.
+		E la sua ombra sembra muoversi indipendentemente dal corpo.
+		
+		Segugio dell'Umbra
+		Tier 1 - Standard
+		Zanne d'Ombra
+		Mischia - 1d6+3 fisici
+		ATK: +1
+		Difficoltà: 12
+		Soglie: 5 / 10
+		HP: OOO
+		Stress: O
+		Capacità
+		Balzo del Predatore
+		Il Segugio può muoversi da Vicino a Mischia e attaccare immediatamente.
+		Nutrirsi della Paura
+		Ottiene vantaggio contro bersagli Vulnerabili.
+		
+		Come Utilizzare il Segugio
+		Il Segugio non è alleato dei Razziatori.
+		Non è alleato dei personaggi.
+		Non è interessato al legname consacrato.
+		Sta semplicemente dando la caccia alle prede più facili.
+		Attacca il bersaglio più isolato o più vulnerabile.
+		Il suo scopo principale è mostrare ai giocatori che la vera minaccia non sono i Razziatori.
+		La vera minaccia è ciò che l'Umbra lascia emergere quando una fiamma sacra si indebolisce.
+	
+	CONCLUSIONE DELLO SCONTRO
+		Lo scontro termina quando si verifica una delle seguenti condizioni:
+		·       Tutti i Razziatori sono stati sconfitti.
+		·       I Razziatori si ritirano.
+		·       Si raggiunge una tregua.
+		·       Il Segugio dell'Umbra crea abbastanza caos da disperdere entrambe le parti.
+		Qualunque risultato è valido.
+	
+	LE CONSEGUENZE
+		Se i Razziatori sono stati sconfitti
+		I personaggi recuperano gran parte del legname consacrato.
+		Gli abitanti del villaggio saranno grati.
+		
+		Se i Razziatori Fuggono
+		Il convoglio subisce perdite.
+		Una parte delle risorse viene rubata.
+		La situazione ad Ashgrove Hollow peggiora.
+		
+		Se i Personaggi Negoziano
+		I Razziatori condividono informazioni.
+		Il villaggio recupera solo parte delle scorte.
+		Elira approverà con riluttanza la scelta.
+	
+	INDIZI RECUPERATI
+		Tra gli oggetti dei Razziatori i personaggi trovano:
+		·       frammenti di lanterne argentate
+		·       mappe incomplete della valle
+		·       simboli sconosciuti
+		·       note scritte a mano
+		Una frase compare più volte:
+		"L'Ultima Scintilla si sta risvegliando."
+		Nessuno dei presenti sa spiegare cosa significhi.
+		Non ancora.
+	
+	IL RITORNO AL VILLAGGIO
+		La strada verso Ashgrove Hollow dovrebbe essere più cupa dell'andata.
+		I personaggi ora sanno che:
+		·       altre comunità hanno perso le loro fiamme
+		·       qualcosa si muove nella foresta
+		·       qualcuno chiamato Corvin sembra conoscere la verità
+		
+		Leggi ai giocatori
+		Quando le luci del villaggio ricompaiono tra gli alberi, nessuno prova sollievo.
+		La Pira Sacra brucia ancora.
+		Ma il suo bagliore sembra più debole.
+		Più piccolo.
+		Più distante.
+		Come una stella sul punto di spegnersi.
+	
+	ELIRA ATTENDE
+		Keeper Elira è già nella piazza.
+		Sembra non essersi mossa da quando i personaggi sono partiti.
+		Quando vede i frammenti di lanterna:
+		Leggi ai giocatori
+		Il colore abbandona il suo volto.
+		Uno dei frammenti le scivola di mano.
+		"No..."
+		Per diversi secondi nessuno parla.
+		Poi Elira sussurra:
+		"Gli Emberbound."
+		La sua voce tradisce qualcosa che i personaggi non avevano ancora visto.
+		Paura.
+		"Pensavo fossero scomparsi secoli fa."
+	
+	FINE DELL'ATTO II
+		Elira chiede ai personaggi di seguirla.
+		Ha bisogno di risposte.
+		E forse esiste qualcuno nel villaggio che può ancora trovarle.
+		Qualcuno che vede cose che gli altri non riescono più a vedere.
+		Qualcuno che parla con le ceneri.
+		Qualcuno che sostiene che la fiamma non stia morendo.
+ 
+ATTO III
+	ALLA RICERCA DEL CUSTODE
+		I personaggi iniziano a raccogliere indizi tra gli abitanti di Ashgrove Hollow.
+		La verità dietro la Pira Sacra comincia finalmente a emergere.
+		Scopo dell'Atto
+		Questo atto trasforma l'avventura da una semplice crisi a un'indagine.
+		I personaggi sanno ormai che:
+		·       la Pira Sacra sta morendo
+		·       altre comunità hanno già perso le proprie fiamme
+		·       gli Emberbound sono coinvolti
+		·       qualcosa si sta muovendo nell'ombra
+		Adesso devono scoprire perché.
+		Durata prevista:
+		60-90 minuti
+	
+	RITORNO AD ASHGROVE HOLLOW
+		Leggi ai giocatori
+		Quando attraversate le porte del villaggio, qualcosa è cambiato.
+		Le persone parlano a voce più bassa.
+		Le finestre sono chiuse.
+		Le lanterne sono aumentate.
+		Ogni abitazione sembra essersi preparata a un assedio.
+		Al centro della piazza la Pira Sacra continua a bruciare.
+		Ma ormai nessuno finge più che tutto andrà bene.
+	
+	LA RIVELAZIONE DI ELIRA
+		Elira conduce gli eroi in una sala adiacente al santuario della Pira.
+		Sul tavolo sono disposti vecchi registri, mappe e documenti.
+		Quando osserva nuovamente i frammenti delle lanterne:
+		Leggi ai giocatori
+		"Se gli Emberbound sono davvero tornati..."
+		Elira interrompe la frase.
+		"Allora esiste una parte della storia che non conosciamo."
+		Per un lungo istante guarda il fuoco dalla finestra.
+		"E temo che quella parte ci riguardi molto più di quanto vorrei."
+	
+	LA BACHECA DELLE INDAGINI
+		A questo punto i personaggi possono esplorare liberamente.
+		Ogni luogo contiene indizi differenti.
+		Non importa l'ordine.
+		L'obiettivo è arrivare alla stessa conclusione da percorsi diversi.
+	
+	LUOGO 1
+	LA COLLINA DELL'INDOVINA DELLE CENERI
+		Sulla collina che domina il cimitero si trova la dimora di Maelin.
+		
+		Leggi ai giocatori
+		Le tombe ricoprono il pendio come denti grigi che emergono dalla terra.
+		La cenere si raccoglie tra le pietre.
+		Sotto un vecchio albero contorto siede Maelin.
+		Le sue dita tracciano simboli all'interno di una ciotola piena di cenere.
+		Quando vi avvicinate sorride.
+		"Finalmente."
+		"Credevo ci avreste messo più tempo."
+		
+		MAELIN, L'INDOVINA DELLE CENERI
+		Aspetto
+		·       anziana
+		·       cieca
+		·       sempre coperta di cenere
+		Personalità
+		·       enigmatica
+		·       tranquilla
+		·       inquietante
+		Motivazione
+		Preparare gli altri a ciò che sta arrivando.
+		
+		LE VISONI DI MAELIN
+		Maelin non risponde mai direttamente.
+		
+		"Cosa sta succedendo alla Pira?"
+		"Il fiume sta risalendo verso la sorgente."
+		
+		"Cosa c'è sotto la valle?"
+		"Qualcosa che ricorda."
+		
+		"Chi sono gli Emberbound?"
+		"Gli ultimi custodi di una promessa dimenticata."
+		
+		Tiro di Conoscenza o Presenza (14)
+		Successo
+		I personaggi comprendono che Maelin non sta parlando della Pira.
+		Sta parlando della sua fonte.
+		
+		Successo Critico
+		Leggi ai giocatori
+		"La fiamma non sta morendo."
+		"Sta tornando a casa."
+	
+	LUOGO 2
+	IL SANTUARIO DI SAN VAELOR
+		Il santuario è una costruzione modesta.
+		Molto più antica del resto del villaggio.
+		È custodito da:
+		Fratello Harn
+		
+		Leggi ai giocatori
+		L'uomo vi apre con evidente sollievo.
+		"Grazie agli Dei..."
+		Poi si corregge.
+		"O chiunque stia ancora ascoltando."
+	
+	IL DIARIO
+		Harn conserva una cronaca delle stranezze avvenute negli ultimi giorni.
+		
+		Otto Giorni Fa
+		Durante la preghiera, la fiamma sottostante ha risposto alla fiamma soprastante.
+		
+		Sei Giorni Fa
+		La cenere si è mossa contro il vento.
+		
+		Quattro Giorni Fa
+		Lanterne argentate viste nel bosco.
+		
+		Tre Giorni Fa
+		Indebolimento delle protezioni sacre.
+		
+		Ieri
+		Voci provenienti dal sottosuolo.
+		
+		Tiro di Conoscenza (14)
+		Successo
+		Le protezioni del santuario non sono state distrutte.
+		Sono state aperte deliberatamente.
+		Qualcuno voleva accedere a qualcosa.
+	
+	LUOGO 3
+	LA FORGIA COALHAND
+		La fucina è uno dei pochi luoghi ancora pieni di vita.
+		Martelli e scintille riempiono l'aria.
+		
+		TAMSIN COALHAND
+		Aspetto
+		·       corporatura robusta
+		·       mani ustionate
+		·       dita metalliche
+		Personalità
+		·       schietta
+		·       pratica
+		·       coraggiosa
+	
+	L'INDIZIO DELLA CAVA
+		Alla vista dei simboli Emberbound:
+		Leggi ai giocatori
+		Tamsin smette di lavorare.
+		"Ho visto quei segni."
+		"Vicino alla vecchia cava."
+		"Qualcuno entrava e usciva da laggiù."
+		"Ma nessuno mi ha creduta."
+		
+		LUOGO 4
+		LA VECCHIA CAVA
+		La cava si trova alcuni chilometri fuori dal villaggio.
+		Abbandonata da decenni.
+		
+		Leggi ai giocatori
+		La cava sembra una ferita aperta nel fianco della collina.
+		Rocce spezzate.
+		Ombre profonde.
+		Aria calda che sale dal sottosuolo.
+		E un odore leggero di fumo.
+		
+		Tiro di Istinto (13)
+		Successo
+		I personaggi trovano tracce recenti.
+		
+		Tiro di Conoscenza (14)
+		Successo
+		Scoprono antiche strutture sotto i detriti.
+		
+	LA PORTA NASCOSTA
+		Leggi ai giocatori
+		Un'enorme porta di pietra emerge dalla roccia.
+		La superficie è coperta di incisioni.
+		Fiamme.
+		Stelle.
+		Oscurità.
+		E la stessa immagine ripetuta ovunque.
+		Una figura che trasporta una singola fiamma attraverso la notte.
+	
+	LYSA EMBERWAKE
+		Mentre i personaggi esaminano la porta:
+		Leggi ai giocatori
+		Una lanterna si accende dietro di voi.
+		La sua fiamma è d'argento.
+		Una figura incappucciata osserva dall'alto della cava.
+		"Non dovreste aprirla."
+		"A meno che non vogliate conoscere la verità."
+		
+		COSA RIVELA LYSA
+		Lysa conferma:
+		·       gli Emberbound esistono ancora
+		·       stanno osservando Ashgrove Hollow da tempo
+		·       la Pira Sacra non è ciò che sembra
+		E soprattutto:
+		Qualcosa sotto la valle si sta risvegliando.
+	
+	FINE DELL'ATTO III
+		Leggi ai giocatori
+		La porta si apre con un lungo gemito.
+		Aria calda fuoriesce dalle profondità.
+		L'odore di fumo diventa più intenso.
+		Sotto di voi, un'antica scalinata sprofonda nell'oscurità.
+		Molto in basso, da qualche parte nelle viscere della terra...
+		una luce argentea continua a brillare.
+	
+ATTO IV
+	LE VIE DELLA BRACE
+		I personaggi entrano negli antichi passaggi sotterranei conosciuti come le Vie della Brace.
+		Lì scopriranno la verità sulla Pira Sacra e sull'Ultima Scintilla di Vaelor.
+		Scopo dell'Atto
+		Questo atto rappresenta il cuore dell'avventura.
+		I personaggi scopriranno:
+		·       la vera natura della Pira Sacra
+		·       la storia dimenticata degli Emberbound
+		·       l'esistenza dell'Ultima Scintilla di Vaelor
+		·       il prezzo che Ashgrove Hollow ha pagato per sopravvivere
+		Alla fine dell'Atto IV, nessuna soluzione dovrà apparire semplice.
+		Durata prevista:
+		60-90 minuti
+	
+	LA DISCESA
+		Leggi ai giocatori
+		La scalinata sembra non avere fine.
+		Passo dopo passo lasciate il mondo di superficie alle vostre spalle.
+		L'aria diventa più calda.
+		Più secca.
+		Più antica.
+		I rumori del villaggio scompaiono.
+		Perfino il suono dei vostri passi sembra venire assorbito dalle tenebre.
+		Più scendete e più avete l'impressione che questo luogo non sia stato costruito per gli uomini.
+	
+	LE SACCHE SENZA LUCE
+		Le Vie della Brace contengono aree in cui la luce si comporta in modo innaturale.
+		Leggi ai giocatori
+		La fiamma della vostra lanterna si restringe all'improvviso.
+		Non si spegne.
+		Non vacilla.
+		Semplicemente diventa più piccola.
+		Le ombre attorno a voi si allungano immediatamente.
+		Per un istante avete l'impressione che l'oscurità stia osservando la vostra luce.
+		
+		Pericolo Ambientale
+		Tiro di Istinto (Difficoltà 14)
+		Successo
+		Il personaggio mantiene il controllo.
+		Capisce che il luogo sta cercando di spaventarlo.
+		Fallimento
+		Segna 1 Stress.
+		Inoltre sente un sussurro.
+		
+		Esempi di Sussurri
+		Guardiano
+		"Non sei riuscito a proteggerli."
+		Ranger
+		"Qualcosa ti sta seguendo."
+		Ladro
+		"Nessuno si accorgerebbe della tua assenza."
+		Incantatore
+		"La fiamma ti ricorda."
+		Guerriero
+		"Non eri abbastanza forte."
+	
+	I PELLEGRINI DIMENTICATI
+		Dopo un lungo tratto di gallerie i personaggi raggiungono un'enorme sala.
+		Leggi ai giocatori
+		Il tunnel si allarga improvvisamente.
+		Davanti a voi si apre una sala immensa.
+		Centinaia di lanterne pendono dal soffitto mediante catene arrugginite.
+		La maggior parte è spenta.
+		Alcune brillano ancora di una tenue luce argentea.
+		Sotto di esse giacciono decine di scheletri avvolti in vesti cerimoniali.
+		Le loro mani stringono ancora le lanterne.
+		Sembra che si siano semplicemente seduti ad aspettare.
+		E che non si siano mai più rialzati.
+		
+		Tiro di Conoscenza (Difficoltà 13)
+		Successo
+		Gli scheletri appartenevano agli Emberbound.
+		Non mostrano segni di violenza.
+		Successo Critico
+		Queste persone non furono sorprese.
+		Scelsero deliberatamente di restare qui.
+	
+	TESORI DEL SANTUARIO
+		Tira 1d6 oppure scegli.
+		1. Registro di Pellegrinaggio
+		Contiene informazioni su antiche fiamme sacre.
+		
+		2. Mappa delle Fiamme
+		Mostra altri fari e pire dell'Age of Umbra.
+		
+		3. Sacchetto di Cenere Benedetta
+		Una volta per sessione:
+		Ottieni vantaggio contro effetti di Paura.
+		
+		4. Inno Dimenticato
+		Una reliquia culturale dal grande valore storico.
+		
+		5. Tavoletta d'Argento
+		Coperta di rune protettive.
+		
+		6. Cristallo della Memoria
+		Conserva un singolo ricordo.
+		Leggi ai giocatori
+		Una luce prende vita all'interno del cristallo.
+		Per un istante osservate la Pira Sacra com'era secoli fa.
+		Immensa.
+		Vibrante.
+		Visibile da montagne lontane.
+		Tutta la valle era illuminata dalla sua luce.
+		Chi osserva il ricordo ottiene 1 Speranza.
+	
+	L'ACCAMPAMENTO DEGLI EMBERBOUND
+		Proseguendo oltre il santuario i personaggi incontrano i custodi delle gallerie.
+		Leggi ai giocatori
+		Una dopo l'altra, lanterne d'argento si accendono nelle tenebre.
+		Figure incappucciate emergono da passaggi nascosti.
+		Osservano.
+		Studiano.
+		Aspettano.
+		Nessuno impugna un'arma.
+		Ma nessuno sembra rilassato.
+		
+		FRATELLO CORVIN
+		Leader degli Emberbound.
+		
+		Aspetto
+		·       avambracci coperti da cicatrici da ustione
+		·       bastone-lanterna d'argento
+		·       vesti consumate dal tempo
+		
+		Personalità
+		·       paziente
+		·       riflessivo
+		·       determinato
+		
+		Obiettivo
+		Liberare l'Ultima Scintilla di Vaelor.
+	
+	L'INCONTRO CON CORVIN
+		Leggi ai giocatori
+		La folla si apre.
+		Un uomo avanza portando una lanterna che diffonde una luce argentea.
+		"Benvenuti."
+		La sua voce è stanca.
+		"Avrei preferito incontrarvi in tempi migliori."
+		"Io sono Corvin."
+	
+	LA VERITÀ SULLA PIRA SACRA
+	Dopo una breve conversazione Corvin racconta ciò che il villaggio ha dimenticato.
+		Leggi ai giocatori
+		"La Pira Sacra non genera potere."
+		Nessuno degli Emberbound sembra sorpreso da quelle parole.
+		"Non lo ha mai fatto."
+		Corvin alza la lanterna.
+		"La sua energia proviene da qualcosa che dorme sotto la valle."
+		
+		Rivelazione Uno
+		La Pira dipende da una fonte esterna.
+		
+		Rivelazione Due
+		Questa fonte è viva.
+		
+		Rivelazione Tre
+		La sua identità è:
+		L'ULTIMA SCINTILLA DI VAELOR
+		
+		Rivelazione Quattro
+		Lo spirito si sta risvegliando.
+		E nel farlo sta reclamando l'energia che gli è stata sottratta per secoli.
+	
+	IL DUBBIO DI CORVIN
+		Corvin non deve sembrare il portatore della verità assoluta.
+		Leggi ai giocatori
+		"Credo che la Scintilla meriti la libertà."
+		Corvin abbassa lo sguardo.
+		"Ma credere non significa sapere."
+		"Non sappiamo cosa accadrà quando si risveglierà."
+		"Nessuno lo sa."
+	
+	LA DOMANDA MORALE
+		Dopo aver spiegato la situazione Corvin pone una domanda.
+		Leggi ai giocatori
+		"Immaginate che qualcuno vi strappi il cuore."
+		"Poi usi i pezzi per salvare altre persone."
+		"Per un anno."
+		"Per cento anni."
+		"Per mille anni."
+		Corvin osserva ciascuno di voi.
+		"Per quanto tempo accettereste quel sacrificio?"
+	
+	IL FIUME D'ARGENTO
+		Per proseguire occorre attraversare una gigantesca caverna.
+		Leggi ai giocatori
+		Davanti a voi scorre un fiume.
+		Ma non è fatto d'acqua.
+		È fuoco liquido.
+		Argenteo.
+		Silenzioso.
+		L'intera caverna risplende grazie a quella corrente impossibile.
+		
+		Sfida di Gruppo
+		Obiettivo:
+		4 Successi prima di 3 Fallimenti
+		Approcci possibili:
+		·       Agilità
+		·       Destrezza
+		·       Istinto
+		·       Magia
+		·       Idee creative
+		
+		Complicazioni Possibili
+		·       Stress
+		·       Separazione del gruppo
+		·       Oggetti persi
+		·       Percorsi pericolosi
+	
+	LA SALA DEI GUARDIANI
+		Superato il fiume, gigantesche porte bronzee sbarrano il passaggio.
+		Leggi ai giocatori
+		Le porte sono alte quanto una casa.
+		Su tutta la loro superficie sono incise parole antiche.
+		"Guardiano dell'Ultima Scintilla."
+		"Custode della Memoria Sacra."
+		"Difensore della Fiamma Dormiente."
+		
+		Tiro di Conoscenza (10)
+		Successo:
+		Il guardiano oltre quelle porte non è stato creato per imprigionare la Scintilla.
+		È stato creato per proteggerla.
+	
+	IL CAVALIERE DEL FORNO
+		Leggi ai giocatori
+		Le porte si aprono lentamente.
+		Una figura immobile attende al centro della sala.
+		Un'armatura bronzea alta più di tre metri.
+		Luce incandescente filtra dalle crepe del metallo.
+		Un'enorme spada si solleva lentamente.
+		In profondità risuonano ingranaggi antichi.
+		Poi la figura parla.
+		"ACCESSO NON AUTORIZZATO."
+	
+	Cavaliere del Forno
+	Usa il blocco statistiche dell'Appendice C.
+	
+	DOPO LO SCONTRO
+		Quando il Cavaliere cade:
+		Leggi ai giocatori
+		L'enorme figura crolla.
+		La sala torna silenziosa.
+		Poi le porte oltre il guardiano iniziano ad aprirsi.
+		Una luce diversa emerge dall'interno.
+		Calda.
+		Dolce.
+		Antica.
+		E per la prima volta, da quando siete entrati nelle Vie della Brace...
+		l'oscurità arretra.
+	
+	LA CAMERA DELLA SCINTILLA
+		Leggi ai giocatori
+		La caverna oltre le porte è immensa.
+		Eppure contiene una sola fonte di luce.
+		Una minuscola fiamma argentea sospesa a mezz'aria.
+		Non è più grande di una candela.
+		Ma illumina l'intera caverna.
+	
+	L'ULTIMA SCINTILLA DI VAELOR
+		La fiamma comunica attraverso le memorie.
+		Leggi ai giocatori
+		Volti appaiono all'interno del fuoco.
+		Generazioni di persone.
+		Bambini.
+		Guerrieri.
+		Vecchi.
+		Interi secoli conservati in una singola scintilla.
+		Tutte le vite toccate dalla Pira Sacra.
+		Tutti i sacrifici.
+		Tutte le speranze.
+	
+	LA RIVELAZIONE FINALE
+		Tra le memorie appare un'immagine.
+		Leggi ai giocatori
+		Un uomo vestito di nero osserva la Pira Sacra.
+		Nelle mani stringe un bastone annerito.
+		Il suo volto è nascosto dalle ombre.
+		Ma il sorriso è inconfondibile.
+		Sta osservando la fiamma morire.
+		E sembra sollevato.
+		La visione svanisce.
+		Un solo pensiero rimane nella vostra mente.
+		"È già lì."
+		"Sbrigatevi."
+	
+	FINE DELL'ATTO IV
+		I personaggi ora conoscono:
+		·       la verità sulla Pira
+		·       la verità sugli Emberbound
+		·       la natura dell'Ultima Scintilla
+		·       l'identità del Pastore del Vespro
+		È giunto il momento di tornare ad Ashgrove Hollow.
+		E decidere il futuro del villaggio.
+	
+ATTO V
+	RIACCENDERE LA PIRA
+		Scopo dell'Atto
+		Questo è il culmine dell'avventura.
+		Tutto ciò che i personaggi hanno scoperto converge qui.
+		·       La Pira Sacra sta morendo.
+		·       L'Ultima Scintilla di Vaelor si sta risvegliando.
+		·       Gli Emberbound vogliono liberarla.
+		·       Elira vuole salvare il villaggio.
+		·       Il Pastore del Vespro vuole che la fiamma si spenga.
+		Non esiste una scelta completamente giusta.
+		Non esiste una scelta completamente sbagliata.
+		Esistono soltanto conseguenze.
+		Durata prevista:
+		90-120 minuti
+	
+	LA RISALITA
+		Lasciata la Camera della Scintilla, gli eroi devono tornare in superficie il più rapidamente possibile.
+		Concedi alcuni minuti di interpretazione.
+		Poni una domanda a ciascun giocatore.
+		Al Guardiano
+		Per quale persona di Ashgrove Hollow sei disposto a rischiare la vita?
+		Al Ranger
+		Quale immagine vista nelle memorie della Scintilla non riesci a dimenticare?
+		Al Ladro
+		Quale verità hai scoperto che nessuno nel villaggio vorrebbe sentire?
+		All'Incantatore
+		Cosa ti spaventa del potere contenuto nell'Ultima Scintilla?
+		Premia le risposte particolarmente significative con 1 Speranza.
+	
+	IL RITORNO AL VILLAGGIO
+		Leggi ai giocatori
+		La prima cosa che vedete è il fumo.
+		Denso.
+		Nero.
+		Innalzato sopra i tetti del villaggio.
+		Poi sentite le campane.
+		Dozzine di campane.
+		Suonano senza sosta.
+		Ashgrove Hollow è nel caos.
+		Gli abitanti corrono per le strade con secchi, lanterne e fascine di legna.
+		La Pira Sacra brucia ancora.
+		Ma a malapena.
+		Le sue fiamme bianche raggiungono appena il bordo del grande braciere.
+		E accanto ad essa si trova una figura vestita di nero.
+	
+	IL PASTORE DEL VESPRO
+		L'uomo che compare nelle visioni della Scintilla è finalmente davanti agli eroi.
+		
+		Leggi ai giocatori
+		Le sue vesti ricordano un abito funebre consumato dal tempo.
+		Nella mano stringe un bastone annerito dal fuoco.
+		Le ombre sembrano muoversi lungo il legno come vene viventi.
+		Osserva la Pira in silenzio.
+		Poi si volta verso di voi.
+		"Avete trovato la verità."
+		Sorride.
+		"E siete tornati comunque."
+	
+	IL PASTORE DEL VESPRO
+		Aspetto
+		·       Vesti nere consumate.
+		·       Bastone carbonizzato.
+		·       Volto spesso nascosto dal cappuccio.
+		Personalità
+		·       Calmo.
+		·       Colto.
+		·       Paziente.
+		·       Assolutamente convinto delle proprie idee.
+		Obiettivo
+		Porre fine alla dipendenza dell'umanità dalle fiamme sacre.
+		Paura
+		Quasi nessuna.
+		Questo lo rende inquietante.
+	
+	IL DIBATTITO FINALE
+		Prima che inizi il combattimento, lascia spazio al dialogo.
+		Questa potrebbe diventare una delle scene più memorabili dell'avventura.
+		
+		Sul Fuoco Sacro
+		Il Pastore dice:
+		"Quante generazioni hanno sacrificato la propria vita per mantenere acceso quel fuoco?"
+		
+		Sulla Speranza
+		"La speranza può salvare le persone."
+		"La falsa speranza può distruggerle."
+		
+		Sull'Ultima Scintilla
+		"Una prigione rimane una prigione."
+		"Anche quando è costruita con gratitudine."
+		
+		Sull'Umanità
+		"Non temo l'oscurità."
+		"Temo ciò che gli uomini fanno per evitarla."
+		
+		Premia con Speranza i personaggi che:
+		·       mettono in discussione le proprie convinzioni
+		·       pongono domande difficili
+		·       mostrano empatia
+		·       difendono una posizione in modo sincero
+		
+	ELIRA AGISCE
+		Alla fine della discussione Elira interrompe ogni ulteriore confronto.
+		Leggi ai giocatori
+		Elira conficca il proprio bastone nella pietra.
+		Rune argentee si accendono lungo il terreno.
+		La piazza esplode di luce bianca.
+		Il vento si alza improvvisamente.
+		La Pira Sacra ruggisce.
+		Per la prima volta dopo giorni sembra quasi tornata in vita.
+		Elira alza la voce.
+		"Basta."
+		"Questo villaggio merita un futuro."
+		"Aiutatemi a decidere quale sarà."
+	
+	IL RITUALE
+		Il combattimento finale si svolge contemporaneamente al rituale.
+		Elira deve concentrare tutte le proprie energie sulla cerimonia.
+		Non può difendersi.
+		Gli eroi devono proteggerla.
+		
+		IL CONTO ALLA ROVESCIA
+		Posiziona un dado da 8 sul tavolo.
+		Mostra: 8
+		Questo dado rappresenta l'avanzamento del rituale.
+		
+		Riduci il Contatore
+		Riduci il valore di 1 quando:
+		·       un'Ombra di Cenere viene sconfitta
+		·       una fase del rituale viene completata
+		·       gli eroi aiutano concretamente Elira
+		·       una minaccia importante viene superata
+			
+		Aumenta il Contatore
+		Aumentalo di 1 quando:
+		·       Elira viene colpita
+		·       un cerchio rituale viene danneggiato
+		·       il Pastore usa con successo un'Azione Paura importante
+		·       si verifica un fallimento catastrofico
+	
+	TAPPE DEL RITUALE
+		Contatore 8-7
+		Leggi ai giocatori
+		Scintille argentee iniziano a salire dalla Pira.
+		La fiamma sembra stabilizzarsi.
+		
+		Contatore 6-5
+		Leggi ai giocatori
+		Per la prima volta gli abitanti tornano a sperare.
+		Tutti gli eroi ottengono 1 Speranza.
+		
+		Contatore 4
+		Leggi ai giocatori
+		Uno dei cerchi rituali si spezza.
+		Il Pastore abbassa lentamente il bastone.
+		"Allora vediamo quale futuro merita di sopravvivere."
+		Il Pastore entra in combattimento.
+		
+		Contatore 3-2
+		Leggi ai giocatori
+		Memorie antiche invadono la piazza.
+		Figure spettrali appaiono tra le fiamme.
+		Intere generazioni sembrano tornare in vita per un istante.
+		
+		Contatore 1
+		Leggi ai giocatori
+		La realtà stessa sembra incrinarsi.
+		Ogni fiamma brucia di bianco.
+		Ogni ombra si allunga in modo impossibile.
+		Tutti gli eroi ottengono 1 Speranza.
+		Il GM ottiene 1 Paura.
+		
+		Contatore 0
+		Il rituale termina immediatamente.
+		Passa alla Risoluzione Finale.
+	
+	INIZIO DELLO SCONTRO
+		Appena il rituale inizia, colloca:
+		Elira
+		Al centro del cerchio rituale.
+		
+		4 Gusci Carbonizzati
+		Vicino alla Pira.
+		
+		2 Spettri di Cenere
+		A distanza.
+		
+		I GUSCI CARBONIZZATI
+		Usa il blocco statistiche dell'appendice.
+		Comportamento
+		·       Tentano di raggiungere Elira.
+		·       Attaccano le rune rituali.
+		·       Ignorano la propria sopravvivenza.
+		
+		GLI SPETTRI DI CENERE
+		Usa il blocco statistiche dell'appendice.
+		Comportamento
+		Prendono di mira:
+		·       gli incantatori
+		·       i personaggi isolati
+		·       chi possiede molta Speranza
+		Quando utilizzano Consuma Memoria, poni una domanda.
+		Esempi:
+		Guardiano
+		Chi conta davvero su di te?
+		Ranger
+		Cosa stai ancora cercando?
+		Ladro
+		Quale verità temi maggiormente?
+		Incantatore
+		Quale ricordo non vuoi perdere?
+		
+		LA PIRA SACRA
+		Caratteristica Ambientale
+		Fiamma della Speranza
+		I personaggi entro Distanza Vicina ottengono:
+		·       vantaggio contro disperazione
+		·       vantaggio contro effetti di paura
+		
+		Esplosione di Speranza
+		Una volta per scena.
+		Un eroe può spendere 2 Speranza.
+		Tutti gli alleati:
+		·       cancellano 1 Stress
+		
+		Condotto Instabile
+		Azione Paura.
+		Una runa esplode.
+		Tutte le creature entro Distanza Molto Vicina segnano 1 Stress.
+	
+		IL PASTORE ASCENDENTE
+		Quando il Pastore scende sotto metà Salute:
+		Leggi ai giocatori
+		Le ombre si staccano dal terreno.
+		Si arrampicano lungo il suo corpo.
+		Lo avvolgono completamente.
+		Il Pastore si solleva da terra.
+		"Non potete fermare la notte."
+		"Potete soltanto scegliere come affrontarla."
+		
+		Ottiene:
+		·       Volo
+		·       +1 ATK
+		·       Ignora il terreno
+		·       Dupliche d'ombra
+	
+	LA CONCLUSIONE DEL RITUALE
+		Quando il contatore raggiunge 0:
+		Interrompi immediatamente il combattimento.
+		Leggi ai giocatori
+		Ogni fiamma si immobilizza.
+		Ogni ombra si arresta.
+		Ogni suono scompare.
+		L'intero villaggio trattiene il respiro.
+		L'Ultima Scintilla di Vaelor discende lentamente verso la Pira.
+		Sta aspettando.
+		Sta ascoltando.
+		Sta sperando.
+		In una scelta.
+	
+I CINQUE FINALI
+	FINE COMBATTIMENTO
+		A questo punto il combattimento termina.
+		L'Ultima Scintilla di Vaelor aspetta una decisione.
+		Concedi ai giocatori il tempo necessario.
+		Questa non è una scelta tattica.
+		È una scelta morale.
+		Qualunque decisione prenderanno cambierà per sempre Ashgrove Hollow.
+ 
+	FINALE I
+		RINNOVARE IL VINCOLO
+		I personaggi scelgono di mantenere il legame tra la Pira Sacra e l'Ultima Scintilla.
+		Leggi ai giocatori
+		La Scintilla argentata discende lentamente verso il cuore della Pira.
+		Per un momento il tempo sembra fermarsi.
+		Poi il villaggio viene investito da un'ondata di luce.
+		Le fiamme esplodono verso il cielo.
+		Più alte.
+		Più luminose.
+		Più vive.
+		La Pira Sacra rinasce.
+		Un boato di gioia attraversa la piazza.
+		Ashgrove Hollow è salva.
+ 
+		Conseguenze
+		L'Ultima Scintilla Rimane
+		La creatura continua a nutrire la Pira.
+		Non è stata liberata.
+		Ma nemmeno distrutta.
+		
+		Elira Sopravvive
+		Il Custode rimane alla guida del villaggio.
+		Tuttavia non sarà più la stessa persona.
+		Ha visto la verità.
+		
+		Gli Emberbound
+		Corvin accetta la decisione.
+		Con riluttanza.
+		Gli Emberbound continuano a esistere come osservatori.
+		
+		Ricompensa
+		Tutti i personaggi ottengono il tratto esperienza:
+		Difensore della Pira (+2)
+		Utilizzabile quando:
+		·       proteggete una comunità
+		·       organizzate una difesa
+		·       sostenete la speranza degli altri
+		
+		Campagna Successiva
+		Questo finale conduce naturalmente a una campagna sulla difesa delle altre fiamme sacre.
+ 
+	FINALE II
+		LIBERARE LA SCINTILLA
+		I personaggi scelgono di restituire la libertà all'Ultima Scintilla.
+		Leggi ai giocatori
+		La fiamma argentata si solleva lentamente sopra la Pira.
+		Per un istante il fuoco bianco vacilla.
+		Poi si spegne.
+		L'oscurità invade la piazza.
+		Qualcuno urla.
+		Qualcuno piange.
+		Poi accade qualcosa di impossibile.
+		Migliaia di minuscole scintille si diffondono nel cielo.
+		Come stelle appena nate.
+		Come semi di luce trasportati dal vento.
+		La Scintilla è finalmente libera.
+		
+		Conseguenze
+		La Pira Muore
+		La Pira Sacra si spegne definitivamente.
+		
+		Nuove Luci
+		Piccole fiamme iniziano a comparire in luoghi lontani.
+		Le persone raccontano di:
+		·       lanterne che si accendono da sole
+		·       falò che non si spengono
+		·       luci nel cuore della foresta
+		
+		Corvin
+		Considera questo il finale più giusto.
+		
+		Elira
+		Soffre per la perdita della Pira.
+		Ma accetta la decisione.
+		
+		Ricompensa
+		Tutti i personaggi ottengono:
+		Amico della Scintilla (+2)
+		Utilizzabile quando:
+		·       interagite con spiriti
+		·       comprendete antiche magie
+		·       affrontate l'Umbra
+		
+		Campagna Successiva
+		Questo finale porta a una campagna di esplorazione e scoperta.
+		
+	FINALE III
+		FIAMMA VIVENTE
+		Uno degli eroi offre parte di sé.
+		La Scintilla entra nel mortale.
+		
+		Leggi ai giocatori
+		La Scintilla si avvicina lentamente.
+		Memorie.
+		Gioia.
+		Dolore.
+		Amore.
+		Perdita.
+		Migliaia di vite attraversano il corpo del volontario.
+		La luce argentata sparisce.
+		Per un momento tutto diventa silenzioso.
+		Poi la Pira si accende nuovamente.
+		Più calma.
+		Più stabile.
+		Più viva.
+		Una parte della Scintilla brucia ora all'interno di un essere mortale.
+		
+		Conseguenze
+		Eroe Trasformato
+		Il personaggio scelto diventa:
+		Portatore della Fiamma
+		
+		Benefici
+		·       +1 Speranza massima
+		·       può percepire altre fiamme sacre
+		·       emette una debole luce nelle tenebre
+		
+		Effetto Narrativo
+		Occasionalmente il personaggio percepisce:
+		·       ricordi altrui
+		·       luoghi lontani
+		·       fiamme in pericolo
+		
+		Ricompensa
+		Il personaggio ottiene:
+		Fiamma Vivente (+3)
+		Tutti gli altri ottengono:
+		Custode della Fiamma (+2)
+		
+		Campagna Successiva
+		Questo finale conduce a una campagna incentrata sul personaggio prescelto.
+		
+	FINALE IV
+		IL CONSIGLIO VIVENTE
+		Disponibile se:
+		·       Corvin è vivo
+		·       Elira è viva
+		·       i personaggi hanno favorito il dialogo
+		
+		Leggi ai giocatori
+		Nessuno viene imprigionato.
+		Nessuno viene sacrificato.
+		Nessuno viene dimenticato.
+		Gli Emberbound.
+		Gli abitanti di Ashgrove Hollow.
+		L'Ultima Scintilla.
+		Tutti giungono a un nuovo accordo.
+		Per la prima volta dopo secoli il futuro viene condiviso.
+		
+		Conseguenze
+		Nasce un Nuovo Ordine
+		I Custodi della Brace.
+		Un gruppo formato da:
+		·       abitanti del villaggio
+		·       Emberbound
+		·       pellegrini
+		
+		La Scintilla Rimane
+		Ma non come prigioniera.
+		Come alleata.
+		
+		Ricompensa
+		Tutti ottengono:
+		Mediatore della Fiamma (+2)
+		Utilizzabile quando:
+		·       risolvete conflitti
+		·       costruite alleanze
+		·       convincete fazioni rivali a cooperare
+		
+		Campagna Successiva
+		Si presta a campagne politiche e sociali.
+		
+	FINALE V
+		NOTTE DI CENERE
+		Questo finale si verifica se il rituale fallisce completamente.
+		
+		Leggi ai giocatori
+		L'ultima connessione si spezza.
+		Le rune si frantumano.
+		Le fiamme della Pira si abbassano.
+		Poi si spengono.
+		Non esplodono.
+		Non combattono.
+		Non resistono.
+		Semplicemente muoiono.
+		Per la prima volta dopo secoli l'oscurità entra ad Ashgrove Hollow.
+		
+		Conseguenze
+		Il Villaggio Cade
+		Ashgrove Hollow sopravvive.
+		Ma come comunità di profughi.
+		
+		L'Umbra Avanza
+		Nuove creature emergono dai boschi.
+		
+		Elira
+		Considera il fallimento il proprio più grande errore.
+		
+		Ricompensa
+		Anche nel disastro gli eroi imparano qualcosa.
+		Tutti ottengono:
+		Sopravvissuto alla Notte (+2)
+		Utilizzabile quando:
+		·       sopportate privazioni
+		·       resistete alla paura
+		·       continuate a lottare senza speranza apparente
+		
+		Campagna Successiva
+		Questo è il finale più oscuro.
+		Può dare origine a una campagna di sopravvivenza.
+ 
+EPILOGO
+	Leggi ai giocatori
+		L'Age of Umbra non conosce l'alba.
+		Forse non la conoscerà mai più.
+		Eppure qualcosa è cambiato.
+		Forse nel villaggio.
+		Forse negli eroi.
+		Forse nel mondo intero.
+		Lontano, oltre le montagne e oltre le foreste, altre fiamme vacillano.
+		Altri villaggi attendono.
+		Altre storie stanno iniziando.
+		E da qualche parte nelle tenebre...
+		la speranza continua a bruciare.
+	
+	AVANZAMENTO
+		Al termine dell'avventura scegli una delle seguenti opzioni.
+		Avanzamento Standard
+		Tutti i personaggi passano al:
+		Livello 2
+		
+		Avanzamento Narrativo
+		Ogni personaggio ottiene una nuova Esperienza a +2.
+		Esempi:
+		·       Amico dell'Ultima Scintilla
+		·       Sopravvissuto alla Pira Morente
+		·       Difensore di Ashgrove Hollow
+		·       Esploratore delle Vie della Brace
+		·       Speranza Contro l'Umbra
+	
+APPENDICE A
+	GUIDA RAPIDA DEL GM
+ 
+	Difficoltà Consigliate
+	Facile
+	10
+	Moderata
+	13-14
+	Impegnativa
+	15-16
+	Difficile
+	17-18
+	Eroica
+	19+
+ 
+	Quando Dare Speranza
+	Assegna Speranza ai personaggi quando:
+	·       proteggono gli innocenti
+	·       ispirano gli altri
+	·       fanno sacrifici significativi
+	·       preservano la comunità
+	·       rifiutano la disperazione
+	
+	Quando Spendere Paura
+	Spendi Paura per:
+	·       peggiorare una situazione
+	·       introdurre nuove minacce
+	·       alimentare poteri degli avversari
+	·       aumentare la tensione
+	Evita di spendere Paura soltanto per infliggere danno.
+	La Paura dovrebbe complicare la storia.
+ 
+APPENDICE B
+	PERSONAGGI NON GIOCANTI
+	
+	Elira Ashmantle
+		Ruolo
+		Custode della Pira Sacra.
+		Motivazione
+		Salvare il villaggio.
+		Conflitto Interiore
+		Scopre gradualmente che salvare la Pira potrebbe significare prolungare la sofferenza della Scintilla.
+	
+	Maelin l'Indovina delle Ceneri
+		Ruolo
+		Profeta.
+		Motivazione
+		Preparare gli altri alla verità.
+		Segreto
+		Ha già comunicato con l'Ultima Scintilla.
+	
+	Fratello Harn
+		Ruolo
+		Custode del Santuario di Vaelor.
+		Motivazione
+		Mantenere viva la fede.
+		Segreto
+		Teme che gli antichi dèi abbiano abbandonato il mondo.
+	
+	Tamsin Coalhand
+		Ruolo
+		Fabbra del villaggio.
+		Motivazione
+		Proteggere la comunità con mezzi concreti.
+		Segreto
+		Aveva notato segni provenienti dalla cava mesi prima ma li ha ignorati.
+	
+	Lysa Emberwake
+		Ruolo
+		Esploratrice Emberbound.
+		Motivazione
+		Evitare una guerra tra il villaggio e gli Emberbound.
+		Segreto
+		Non è certa che Corvin abbia ragione.
+	
+	Fratello Corvin
+		Ruolo
+		Leader degli Emberbound.
+		Motivazione
+		Liberare la Scintilla.
+		Segreto
+		Non sa davvero cosa accadrà se verrà liberata.
+	
+	Il Pastore del Vespro
+		Ruolo
+		Antagonista principale.
+		Motivazione
+		Porre fine alla dipendenza dell'umanità dalle fiamme sacre.
+		Segreto
+		Crede sinceramente di fare la cosa giusta.
+	
+APPENDICE C
+	TESORI E RICOMPENSE
+	
+	Coltello della Cenere
+		Arma a una mano.
+		Una volta per riposo:
+		Ottieni 1 Speranza dopo aver colpito con successo.
+	
+	Lanterna della Brace Veggente
+		Una volta per sessione:
+		Rivela una presenza magica nascosta entro distanza Vicina.
+		
+	Frammento della Scintilla
+		Una	 volta per sessione:
+		Tra	sforma un risultato con Paura in un risultato con Speranza.
+		
+	Nucleo del Cavaliere del Forno
+		Una volta per riposo lungo:
+		Riduci una fonte di danno di una categoria.
+			Severo → Maggiore
+			Maggiore → Minore
+			Minore → Nessun danno
+	
+	Amuleto Emberbound
+		Ottieni vantaggio nelle interazioni sociali con:
+		·       pellegrini
+		·       guardiani
+		·       ordini religiosi
+		·       custodi di fiamme sacre
+	
+APPENDICE D
+	SCALABILITÀ DELL'AVVENTURA
+	
+	Due Personaggi
+		Atto II
+		·       2 Razziatori
+		·       1 Capitano
+		Niente Segugio dell'Umbra.
+		
+		Atto IV
+		Riduci gli HP del Cavaliere del Forno a 7.
+		
+		Atto V
+		·       2 Gusci Carbonizzati
+		·       1 Spettro di Cenere
+		Countdown iniziale:
+		6
+		
+	Tre Personaggi
+		Countdown iniziale:
+		7
+		Cavaliere del Forno:
+		HP 8
+	
+	Quattro Personaggi
+		Versione standard.
+		Nessuna modifica.
+	
+	Cinque Personaggi
+		Aggiungi:
+		·       1 Razziatore aggiuntivo
+		Cavaliere del Forno:
+		HP 11
+	
+	Sei Personaggi
+		Aggiungi:
+		·       2 Razziatori aggiuntivi
+		·       1 Segugio dell'Umbra
+		·       1 Spettro di Cenere aggiuntivo
+		Countdown iniziale:
+		9
+		
+APPENDICE E
+	INCONTRI OPZIONALI
+	Usa questi incontri se una sessione termina prima del previsto.
+	
+	Il Pellegrino Perduto
+		Un vecchio Emberbound vaga nella foresta.
+		Tiro di Presenza (13)
+		Successo:
+		Condivide un importante frammento di storia.
+		Fallimento:
+		Il GM ottiene 1 Paura.
+	
+	Il Santuario Crollato
+		Una protezione antica cede.
+		Sfida di gruppo:
+		3 successi prima di 2 fallimenti.
+		Ricompensa:
+		Tutti ottengono 1 Speranza.
+	
+	Nebbia dell'Umbra
+		Una foschia oscura invade il sentiero.
+		Sfida:
+		Tiro di gruppo.
+		Difficoltà 14.
+		Fallimento:
+		Tutti segnano 1 Stress.
+ 
+APPENDICE G
+	PERSONAGGI PREGENERATI
+	COME USARE I PERSONAGGI PREGNERATI
+		Ogni personaggio contiene:
+		·       Concetto
+		·       Background
+		·       Esperienze
+		·       Equipaggiamento principale
+		·       Domanda narrativa
+		·       Motivazione personale
+		Prima di iniziare l'avventura, ogni giocatore dovrebbe:
+		1.       Scegliere un personaggio.
+		2.       Rispondere alla propria domanda.
+		3.       Stabilire almeno una connessione con un altro membro del gruppo.
+	
+	SEREN ASHWIND
+		Elfa Sapiente Stregona
+		Concetto
+		Studiosa delle fiamme sacre.
+		Background
+		Seren ha trascorso gran parte della propria vita inseguendo antichi racconti riguardanti le ultime luci del mondo.
+		Le voci sulla Pira Sacra di Ashgrove Hollow l'hanno condotta fino alla valle.
+		Aspetto
+		·       Lunghi capelli argentei
+		·       Occhi color ambra
+		·       Abiti da viaggiatrice
+		·       Bastone inciso con rune antiche
+		Esperienze
+		Custode della Conoscenza Antica +2
+		Le Fiamme Non Devono Morire +2
+		Equipaggiamento
+		Doppio Bastone
+		·       Gittata: Lontano
+		·       Danno: 1d6+3 Magico
+		Domanda
+		Quale segreto sulle fiamme sacre speri di dimostrare?
+		Connessioni
+		·       Mi fido di te più che di chiunque altro.
+		·       Mi hai salvata durante una spedizione precedente.
+		·       Condividiamo la stessa ossessione.
+		
+	TORREN VALE
+		Umano Nobile Guerriero
+		Concetto
+		Veterano in cerca di redenzione.
+		Background
+		Torren serviva come guardia di frontiera quando una comunità vicina perse il proprio faro sacro.
+		Non è mai riuscito a perdonarsi.
+		Aspetto
+		·       Capelli scuri
+		·       Cicatrice sul mento
+		·       Armatura consumata dal tempo
+		Esperienze
+		Veterano della Lunga Veglia +2
+		Mai Più +2
+		Equipaggiamento
+		Spada Lunga
+		·       Mischia
+		·       1d8+3 Fisico
+		Domanda
+		Chi hai perso quando una fiamma sacra si è spenta?
+		Connessioni
+		·       Ti devo la vita.
+		·       Non sei mai stato d'accordo con me.
+		·       Mi ricordi qualcuno che ho perduto.
+	
+	BRINDLE
+		Ribbet Sotterraneo Ladro
+		Concetto
+		Contrabbandiere e sopravvissuto.
+		Background
+		Brindle trasporta merci tra insediamenti isolati.
+		Conosce sentieri segreti che non compaiono su nessuna mappa.
+		Aspetto
+		·       Occhi prominenti
+		·       Mantello scuro
+		·       Coltelli nascosti ovunque
+		Esperienze
+		Conosco Ogni Scorciatoia +2
+		Non Mi Vedono Mai Arrivare +2
+		Equipaggiamento
+		Pugnale
+		·       Mischia
+		·       1d8+1 Fisico
+		Domanda
+		Quale oggetto rubato continui a rimpiangere?
+		Connessioni
+		·       Mi hai coperto le spalle.
+		·       Ti considero un amico.
+		·       Mi fai paura.
+		
+	KHORA PIETRACUORE
+		Gigante Guardiana delle Creste
+		Concetto
+		Protettrice errante.
+		Background
+		Khora accompagna profughi provenienti da villaggi che hanno perso le proprie fiamme.
+		Ha assistito personalmente al crollo di intere comunità.
+		Aspetto
+		·       Imponente statura
+		·       Ascia enorme
+		·       Armatura rattoppata
+		Esperienze
+		Ti Proteggerò +2
+		Non Ho Paura di Nulla +2
+		Equipaggiamento
+		Ascia da Battaglia
+		·       Molto Vicino
+		·       1d10+3 Fisico
+		Domanda
+		Quale comunità speri sia ancora viva?
+		Connessioni
+		·       Ti considero famiglia.
+		·       Ti sto mettendo alla prova.
+		·       Abbiamo combattuto insieme.
+		
+	NIKO EMBERTRAIL
+		Katari Selvatico Ranger
+		Concetto
+		Cacciatore di creature dell'Umbra.
+		Background
+		Niko segue le tracce delle creature che emergono quando una luce si spegne.
+		Le recenti voci provenienti da Ashgrove Hollow hanno attirato la sua attenzione.
+		Aspetto
+		·       Orecchie feline
+		·       Arco corto
+		·       Mantello da caccia
+		Esperienze
+		Segugio di Mostri +2
+		Occhio Infallibile +2
+		Equipaggiamento
+		Arco Corto
+		·       Lontano
+		·       1d6+3 Fisico
+		Domanda
+		Quale mostro desideri distruggere da anni?
+		Connessioni
+		·       Voglio diventare forte quanto te.
+		·       Ti considero il mio rivale.
+		·       Ci raccontiamo tutto.
+		
+	SORELLA VEY
+		Fata del Mare Serafina
+		Concetto
+		Sacerdotessa itinerante delle lanterne.
+		Background
+		Vey accompagna le anime dei morti e benedice i luoghi in cui la speranza rischia di spegnersi.
+		Aspetto
+		·       Ali luminescenti
+		·       Lanterna consacrata
+		·       Veste bianca e grigia
+		Esperienze
+		Custode delle Anime Perdute +2
+		Ogni Vita Conta +2
+		Equipaggiamento
+		Lanterna Benedetta
+		·       Vicino
+		·       1d8+2 Magico
+		Domanda
+		Di quale persona temi di perdere il ricordo?
+		Connessioni
+		·       Ti considero una persona buona.
+		·       Cerco di aiutarti.
+		·       Non condividiamo le stesse convinzioni.
+		
+	KAEL FORGIANERA
+		Clank Guerriero
+		Concetto
+		Antico guardiano dimenticato.
+		Background
+		Kael è stato ritrovato inattivo all'interno di un vecchio faro in rovina.
+		Le sue memorie sono frammentarie.
+		Ma continua a sognare fiamme.
+		Aspetto
+		·       Corpo metallico annerito
+		·       Rune consumate
+		·       Occhi azzurri luminosi
+		Esperienze
+		Antico Custode del Fuoco +2
+		Ricordo Frammenti +2
+		Equipaggiamento
+		Lama Runica
+		·       Mischia
+		·       1d8+3 Fisico
+		Domanda
+		Quale frammento di memoria continua a tornare nei tuoi sogni?
+		Connessioni
+		·       Mi stai aiutando a comprendere gli umani.
+		·       Ti considero affidabile.
+		·       Non capisco il tuo comportamento.
+		
+	GRUPPO CONSIGLIATO
+		Per una squadra standard di 5 personaggi:
+		·       Seren Ashwind
+		·       Torren Vale
+		·       Brindle
+		·       Khora Pietracuore
+		·       Niko Embertrail
+		Per 6 giocatori:
+		·       aggiungi Sorella Vey
+		Per 7 giocatori:
+		·       aggiungi Kael Forgianera
+
+APPENDICE C
+	BESTIARIO COMPLETO
+	
+	Razziatore Vincolato alla Cenere
+		Tier 1 - Standard
+		Coltello di Cenere
+		Mischia - 1d8+4 Fisico
+		ATK: +1
+		Difficoltà: 13
+		Soglie: 6 / 12
+		HP: OOO
+		Stress: OO
+		Capacità
+		Bomba Fumogena (Reazione)
+		Quando entra in scena senza essere visto può diventare Nascosto.
+		
+		Colpo Disperato (Azione)
+		Segna 1 Stress.
+		Ottiene +2 al prossimo attacco.
+		
+	Capitano Vincolato alla Cenere
+		Tier 1 - Leader
+		Sciabola Carbonizzata
+		Mischia - 2d4+4 Fisico
+		ATK: +3
+		Difficoltà: 14
+		Soglie: 7 / 14
+		HP: OOOO
+		Stress: OO
+		Capacità
+		Raduna i Disperati
+		Un alleato:
+		·       cancella 1 Stress
+		·       ottiene +1 ATK
+		
+		Distruggere le Prove (Azione Paura)
+		Spendi 1 Paura.
+		Distruggi una parte delle risorse del convoglio.
+	
+	Segugio dell'Umbra
+		Tier 1 - Standard
+		Zanne d'Ombra
+		Mischia - 1d6+3 Fisico
+		ATK: +1
+		Difficoltà: 12
+		Soglie: 5 / 10
+		HP: OOO
+		Stress: O
+		Capacità
+		Balzo Predatorio
+		Muoviti da Vicino a Mischia e attacca immediatamente.
+		
+		Nutrirsi della Paura
+		Ottiene vantaggio contro bersagli Vulnerabili.
+	
+	Guscio Carbonizzato
+		Tier 1 - Standard
+		Presa Ardente
+		Mischia - 1d6+2 Magico
+		ATK: +0
+		Difficoltà: 12
+		Soglie: 7 / Nessuna
+		HP: OO
+		Stress: O
+		Capacità
+		Crollo di Cenere
+		Quando viene sconfitto:
+		Tutte le creature in Mischia segnano 1 Stress.
+		
+		Assalto del Branco
+		Azione Paura
+		Spendi 1 Paura.
+		Tutti i Gusci vicini effettuano un attacco condiviso.
+		
+	Spettro di Cenere
+		Tier 1 - Bruiser
+		Drenaggio Vitale
+		Lontano - 2d6+8 Magico
+		ATK: +3
+		Difficoltà: 13
+		Soglie: 7 / 14
+		HP: OOOOOO
+		Stress: OOO
+		Capacità
+		Consuma Memoria
+		Attacca un bersaglio Vicino.
+		Infligge:
+		3d4+9 Magico
+		Il bersaglio diventa Vulnerabile.
+		
+		Attraversare
+		Azione Paura
+		Spendi 1 Paura.
+		Il bersaglio diventa Disancorato.
+		Non può agire finché il Countdown non diminuisce.
+		
+		Forma Spettrale
+		Resistenza ai danni fisici.
+		
+	Portatore di Lanterna
+		Tier 1 - Leader
+		Bastone Lanterna
+		Vicino - 2d4+3 Magico
+		ATK: +3
+		Difficoltà: 14
+		Soglie: 7 / 14
+		HP: OOOO
+		Stress: OO
+		Capacità
+		Luce Guida
+		Un alleato:
+		·       cancella 1 Stress
+		·       ottiene vantaggio
+		
+		Lampo Accecante
+		Azione Paura
+		Spendi 1 Paura.
+		Tutti entro Molto Vicino:
+		·       segnano 1 Stress
+		
+	Predatore dell'Umbra
+		Tier 1 - Bruiser
+		Artigli d'Ombra
+		Mischia - 2d8+6 Fisico
+		ATK: +2
+		Difficoltà: 14
+		Soglie: 8 / 16
+		HP: OOOOO
+		Stress: OOO
+		Capacità
+		Balzo
+		Muovi e attacca.
+		Il bersaglio segna 1 Stress.
+		
+		Passo d'Ombra
+		Può muoversi ovunque entro distanza Lontana.
+		
+		Cacciatore Oscuro
+		Vantaggio contro bersagli Vulnerabili.
+	
+	Cavaliere del Forno
+		Tier 1 - Solo
+		Spadone Fuso
+		Molto Vicino - 2d10+8 Fisico
+		ATK: +4
+		Difficoltà: 15
+		Soglie: 10 / 20
+		HP: OOOOOOOOO
+		Stress: OOOO
+		Capacità
+		Fiamma Guardiana
+		Resistenza ai danni fisici.
+		
+		Carica Ardente
+		Muoviti fino a Lontano.
+		Attacca tutti i bersagli attraversati.
+		
+		Esplosione Magmatica
+		Azione Paura
+		Spendi 1 Paura.
+		Tutti entro Molto Vicino segnano 1 Stress.
+		
+		Nucleo Incrinato
+		Attivazione:
+		sotto metà HP.
+		·       cancella Stress
+		·       +1 ATK
+	
+	Pastore del Vespro
+		Tier 1 - Solo Leader
+		Bastone della Notte Infinita
+		Lontano - 2d10+10 Magico
+		ATK: +4
+		Difficoltà: 16
+		Soglie: 11 / 22
+		HP: OOOOOOOOOOO
+		Stress: OOOO
+		Capacità
+		Spegnere la Speranza
+		Azione Paura
+		Spendi 1 Paura.
+		Il bersaglio perde 1 Speranza.
+		Se non possiede Speranza:
+		segna 1 Stress.
+		
+		Calare la Notte
+		Genera una zona di oscurità.
+		Gli attacchi all'interno ottengono vantaggio.
+		
+		Comunione d'Ombra
+		Evoca:
+		·       2 Gusci Carbonizzati
+		oppure
+		·       1 Spettro di Cenere
+		
+		Umbra Ascendente
+		Sotto metà HP:
+		·       Volo
+		·       +1 ATK
+		·       Dupliche d'Ombra
+ 
+APPENDICE N
+MOSSE DEL GM
+	Questa appendice mancava completamente.
+	Mosse Generiche
+	Quando ottieni Paura puoi:
+	Mostrare un pericolo imminente
+	Separare i personaggi
+	Consumare risorse
+	Aumentare la tensione
+	Peggiorare una situazione esistente
+	
+	Mosse Specifiche Dell'Avventura
+	Atto I
+	·       Le fiamme vacillano improvvisamente
+	·       Gli abitanti iniziano a discutere
+	·       Un bambino scompare momentaneamente
+	Atto II
+	·       Arrivano rinforzi
+	·       Le scorte prendono fuoco
+	·       Appare un Segugio dell'Umbra
+	Atto III
+	·       Una falsa pista sembra convincente
+	·       Un PNG omette informazioni importanti
+	Atto IV
+	·       Si attiva una Sacca Senza Luce
+	·       Un passaggio crolla
+	Atto V
+	·       Una runa rituale esplode
+	·       Elira perde la concentrazione
+	·       Il Pastore evoca rinforzi
+ 
+APPENDICE P
+SCHEDA RAPIDA DEL RITUALE
+	Questa è una pagina da tenere sempre visibile durante l'Atto V.
+	
+	Countdown del Rituale
+	Inizia a: 8
+	Posiziona un d8 sul tavolo.
+	
+	Il Countdown Diminuisce Quando
+	·       Uno Spettro di Cenere viene sconfitto.
+	·       Un obiettivo del rituale viene completato.
+	·       Un personaggio aiuta Elira in modo significativo.
+	·       Una minaccia importante viene superata.
+	·       Un sacrificio narrativo accelera il rituale.
+	
+	Il Countdown Aumenta Quando
+	·       Elira viene colpita.
+	·       Una runa viene danneggiata.
+	·       Il Pastore del Vespro conclude con successo un'Azione Paura.
+	·       Avviene un fallimento grave.
+	
+	Effetti del Countdown
+	8-7
+	La Pira si stabilizza.
+	
+	6-5
+	Gli abitanti recuperano speranza.
+	Tutti ottengono:
+	+1 Speranza
+	
+	4
+	Il Pastore entra in combattimento.
+	
+	3-2
+	Iniziano le visioni della Scintilla.
+	
+	1
+	La realtà si deforma.
+	GM ottiene:
+	+1 Paura
+	Tutti ottengono:
+	+1 Speranza
+	
+	0
+	Il rituale termina immediatamente.
+	Passare alla scelta finale.
+	
+APPENDICE Q
+COMPENDIO DELLA PIAZZA DELLA PIRA
+	Questa sezione aiuta il GM durante la battaglia finale.
+	
+	La Pira Sacra
+	Tipo
+	Ambiente Tier 1
+	
+	Fiamma della Speranza
+	Passiva
+	Tutti gli alleati entro distanza Vicina:
+	·       vantaggio contro paura
+	·       vantaggio contro disperazione
+	
+	Esplosione di Speranza
+	1 volta per scena
+	Costo:
+	2 Speranza
+	Effetto:
+	Tutti gli alleati:
+	·       cancellano 1 Stress
+	
+	Condotto Instabile
+	Azione Paura
+	Costo:
+	1 Paura
+	Effetto:
+	Tutte le creature entro Molto Vicino:
+	·       segnano 1 Stress
+	
+APPENDICE S
+	FACCIOLE DELLE FAZIONI
+	Questa appendice mancava completamente.
+	
+	Ashgrove Hollow
+	Guidata da
+	Elira
+	Crede
+	"La Pira deve sopravvivere."
+	
+	Emberbound
+	Guidati da
+	Corvin
+	Credono
+	"La Scintilla deve essere liberata."
+	
+	Pastore del Vespro
+	Guidato da
+	Il Pastore stesso
+	Crede
+	"Bisogna accettare la fine."
+	
+	Ultima Scintilla
+	Vuole
+	Essere ascoltata.
+	Non vuole
+	Essere usata.
+	
+APPENDICE T
+CALENDARIO DELLA SESSIONE
+	Molto utile per GM nuovi.
+	
+	Sessione 1
+	·       Introduzione
+	·       Atto I
+	·       Atto II
+	
+	Sessione 2
+	·       Atto III
+	·       Atto IV
+	
+	Sessione 3
+	·       Atto V
+	·       Finali
+	·       Epilogo
+	
+APPENDICE V
+CHECKLIST DEL GM
+	Prima della sessione:
+	·       Leggere Atto I
+	·       Leggere Atto II
+	·       Preparare il Countdown
+	·       Preparare gli avversari
+	Prima dell'Atto V:
+	·       Mettere il d8 sul tavolo
+	·       Preparare Elira
+	·       Preparare il Pastore
+	·       Preparare i finali
+ 
+APPENDICE H
+MAPPE E AREE D'INCONTRO
+ 
+	Mappa 1
+		Ashgrove Hollow
+		Luoghi Importanti
+		1.       Pira Sacra
+		2.       Santuario di Vaelor
+		3.       Forgia Coalhand
+		4.       Collina delle Ceneri
+		5.       Case dei Villaggi
+		6.       Piazza Centrale
+		Utilizzo
+		·       Atto I
+		·       Atto III
+		·       Atto V
+	
+	Mappa 2
+		Il Convoglio Assalito
+		Elementi
+		·       Carro Rovesciato
+		·       Scorte di Legname
+		·       Alberi Caduti
+		·       Copertura Forestale
+		·       Punto di Agguato
+		Utilizzo
+		Atto II
+	
+	Mappa 3
+		La Vecchia Cava
+		Elementi
+		·       Pareti della cava
+		·       Ingresso nascosto
+		·       Punto panoramico di Lysa
+		·       Porta Antica
+		Utilizzo
+		Atto III
+	
+	Mappa 4
+		Incrocio delle Vie della Brace
+		Elementi
+		·       Accesso alle gallerie
+		·       Campo Emberbound
+		·       Fiume d'Argento
+		·       Sala dei Guardiani
+		·       Camera della Scintilla
+		Utilizzo
+		Atto IV
+	
+	Mappa 5
+		Il Campo Rituale
+		Elementi
+		·       Pira Sacra
+		·       Cerchi Runici
+		·       Posizione di Elira
+		·       Ingresso del Pastore
+		·       Punti di apparizione degli Spettri
+		Utilizzo
+		Atto V
+ 
+APPENDICE J
+EVENTI CASUALI DELLA FORESTA
+	Usa questi eventi durante:
+	·       viaggi
+	·       pause narrative
+	·       ritorni da missione
+	
+	d8
+	1
+	Una lanterna appare tra gli alberi.
+	Quando i personaggi si avvicinano non c'è nessuno.
+	
+	2
+	Una zona completamente silenziosa.
+	Perfino i suoni dei personaggi sembrano attenuati.
+	
+	3
+	Una pioggia di cenere cade per alcuni minuti.
+	
+	4
+	Tracce di una creatura sconosciuta.
+	
+	5
+	Un pellegrino Emberbound perduto.
+	
+	6
+	Una vecchia pietra miliare coperta di simboli.
+	
+	7
+	Un branco di animali in fuga.
+	
+	8
+	Una voce che chiama il nome di uno dei personaggi.
+	
+APPENDICE K
+INCONTRI OPZIONALI
+ 
+	Pellegrino Smarrito
+	Difficoltà
+	13
+	Successo
+	I personaggi apprendono informazioni sugli Emberbound.
+	Fallimento
+	Il GM ottiene 1 Paura.
+	
+	Santuario Crollato
+	Sfida di Gruppo.
+	3 Successi prima di 2 Fallimenti.
+	Ricompensa:
+	1 Speranza a testa.
+	
+	Foschia dell'Umbra
+	L'ombra invade un tratto di sentiero.
+	Se i personaggi falliscono:
+	·       1 Stress
+	·       1 Paura al GM
+	
+APPENDICE M
+MOSSE DEL GM
+	
+	Mostra un Pericolo
+	"Sentite qualcosa muoversi nel buio."
+	
+	Peggiora la Situazione
+	"Le rune iniziano a incrinarsi."
+	
+	Consuma una Risorsa
+	"La lanterna si spegne."
+	
+	Separa il Gruppo
+	"Il passaggio crolla."
+	
+	Rivela una Verità
+	"Corvin non vi ha raccontato tutto."
+	
+	Introduci una Minaccia
+	"Gli Spettri non sono soli."
+	
+	Offri una Scelta Difficile
+	"Potete salvare Elira o completare il rituale."
+	
+APPENDICE N
+HANDOUT PER I GIOCATORI
+	Da consegnare all'inizio della partita.
+	
+	Quello che Sapete di Ashgrove Hollow
+	La Pira Sacra brucia da generazioni.
+	Nessuno sa chi l'abbia accesa.
+	La sua luce protegge il villaggio dall'Umbra.
+	Negli ultimi giorni:
+	·       la fiamma si è indebolita
+	·       gli abitanti sono sempre più spaventati
+	·       sono state viste luci misteriose nella foresta
+	·       alcuni sostengono che la terra stia cambiando
+	Tutti temono che qualcosa di terribile stia per accadere.
+ 
+APPENDICE O
+CONNESSIONI FRA PERSONAGGI
+	Prima dell'inizio della sessione ogni personaggio sceglie almeno una connessione.
+	Mi fido di te con la mia vita.
+	Ti devo un favore.
+	Mi hai salvato una volta.
+	Non siamo mai stati d'accordo.
+	Mi ricordi qualcuno che ho perso.
+	Siamo sopravvissuti alla stessa tragedia.
+	Sto cercando di impressionarti.
+	Non credo che tu abbia ragione.
+	
+  
+APPENDICE C
+INDICE DEGLI AVVERSARI
+ 
+	Razziatore Vincolato alla Cenere
+		Tier 1 - Standard
+		Coltello di Cenere
+		Mischia • 1d8+4 Fisico
+		ATK: +1
+		Difficoltà: 13
+		Soglie: 6 / 12
+		HP: O O O
+		Stress: O O
+		
+		Capacità
+		Bomba Fumogena (Reazione)
+		Quando entra in scena senza essere stato individuato, può diventare Nascosto.
+		
+		Colpo Disperato (Azione)
+		Segna 1 Stress.
+		Ottiene +2 al prossimo attacco effettuato.
+		
+		Tattiche
+		·       Attacca da copertura.
+		·       Cerca bersagli isolati.
+		·       Fugge se la situazione diventa disperata.
+	
+	Capitano Vincolato alla Cenere
+		Tier 1 - Leader
+		Sciabola Carbonizzata
+		Mischia • 2d4+4 Fisico
+		ATK: +3
+		Difficoltà: 14
+		Soglie: 7 / 14
+		HP: O O O O
+		Stress: O O
+		
+		Capacità
+		Raduna i Disperati (Azione)
+		Scegli un alleato entro distanza Vicina.
+		L'alleato:
+		·       Cancella 1 Stress.
+		·       Ottiene +1 ATK fino alla prossima attivazione.
+		
+		Distruggere le Prove (Azione Paura)
+		Spendi 1 Paura
+		Distruggi una risorsa, una cassa o parte del convoglio.
+		
+		Tattiche
+		·       Evita combattimenti lunghi.
+		·       Protegge i propri uomini.
+		·       Cerca di rubare e ritirarsi.
+		
+	Segugio dell'Umbra
+		Tier 1 - Standard
+		Zanne d'Ombra
+		Mischia • 1d6+3 Fisico
+		ATK: +1
+		Difficoltà: 12
+		Soglie: 5 / 10
+		HP: O O O
+		Stress: O
+		
+		Capacità
+		Balzo Predatorio
+		Muoviti da Vicino a Mischia e attacca immediatamente.
+		
+		Nutrirsi della Paura
+		Ottiene vantaggio contro bersagli Vulnerabili.
+		
+		Tattiche
+		·       Attacca il bersaglio più debole.
+		·       Colpisce chi si allontana dal gruppo.
+		·       Non combatte fino alla morte.
+		
+	Guscio Carbonizzato
+		Tier 1 - Standard
+		Presa Ardente
+		Mischia • 1d6+2 Magico
+		ATK: +0
+		Difficoltà: 12
+		Soglie: 7 / Nessuna
+		HP: O O
+		Stress: O
+		
+		Capacità
+		Crollo di Cenere (Reazione)
+		Quando viene sconfitto:
+		Tutte le creature in Mischia segnano 1 Stress.
+		
+		Assalto del Branco (Azione Paura)
+		Spendi 1 Paura
+		Tutti i Gusci entro distanza Vicina effettuano un attacco condiviso.
+		
+		Tattiche
+		·       Ignorano il pericolo.
+		·       Cercano di sopraffare con il numero.
+		·       Attaccano i cerchi rituali.
+		
+	Spettro di Cenere
+		Tier 1 - Bruiser
+		Drenaggio Vitale
+		Lontano • 2d6+8 Magico
+		ATK: +3
+		Difficoltà: 13
+		Soglie: 7 / 14
+		HP: O O O O O O
+		Stress: O O O
+		
+		Capacità
+		Consuma Memoria
+		Attacca un bersaglio entro distanza Vicina.
+		Infligge:
+		3d4+9 Magico
+		Il bersaglio diventa Vulnerabile.
+		Il GM pone al giocatore una domanda su un ricordo importante.
+		
+		Attraversare (Azione Paura)
+		Spendi 1 Paura
+		Lo Spettro attraversa il bersaglio.
+		Il bersaglio diventa Disancorato.
+		Non può agire finché il Countdown non diminuisce.
+		
+		Forma Spettrale (Passiva)
+		Resistenza ai danni fisici.
+		I danni fisici vengono dimezzati (arrotondando per eccesso).
+		
+		Tattiche
+		·       Colpisce chi possiede Speranza.
+		·       Isola gli avversari.
+		·       Mira agli incantatori.
+		
+	Portatore di Lanterna
+		Tier 1 - Leader
+		Bastone-Lanterna
+		Vicino • 2d4+3 Magico
+		ATK: +3
+		Difficoltà: 14
+		Soglie: 7 / 14
+		HP: O O O O
+		Stress: O O
+		
+		Capacità
+		Luce Guida
+		Scegli un alleato.
+		L'alleato:
+		·       Cancella 1 Stress
+		·       Ottiene vantaggio alla prossima prova
+		
+		Lampo Accecante (Azione Paura)
+		Spendi 1 Paura
+		Tutte le creature entro Molto Vicino:
+		·       Segnano 1 Stress
+		
+		Tattiche
+		·       Supporta gli alleati.
+		·       Evita lo scontro diretto.
+		·       Cerca di controllare il campo di battaglia.
+		
+	Predatore dell'Umbra
+		Tier 1 - Bruiser
+		Artigli d'Ombra
+		Mischia • 2d8+6 Fisico
+		ATK: +2
+		Difficoltà: 14
+		Soglie: 8 / 16
+		HP: O O O O O
+		Stress: O O O
+		
+		Capacità
+		Balzo Devastante
+		Muoviti fino a distanza Vicina e attacca.
+		Se l'attacco colpisce:
+		Il bersaglio segna 1 Stress.
+		
+		Passo d'Ombra
+		Può spostarsi ovunque entro distanza Lontana.
+		
+		Cacciatore Oscuro
+		Ottiene vantaggio contro bersagli Vulnerabili.
+		
+		Tattiche
+		·       Colpisce rapidamente.
+		·       Cambia continuamente posizione.
+		·       Cerca bersagli già indeboliti.
+		
+	Cavaliere del Forno
+		Tier 1 - Solo
+		Spadone Fuso
+		Molto Vicino • 2d10+8 Fisico
+		ATK: +4
+		Difficoltà: 15
+		Soglie: 10 / 20
+		HP: O O O O O O O O O
+		Stress: O O O O
+		
+		Capacità
+		Fiamma Guardiana (Passiva)
+		Resistenza ai danni fisici.
+		
+		Carica Ardente
+		Muoviti fino a distanza Lontana.
+		Attacca tutti i bersagli attraversati.
+		
+		Esplosione Magmatica (Azione Paura)
+		Spendi 1 Paura
+		Tutte le creature entro Molto Vicino:
+		·       Segnano 1 Stress
+		
+		Nucleo Incrinato (Reazione)
+		La prima volta che scende sotto metà HP:
+		·       Cancella tutto lo Stress.
+		·       Ottiene +1 ATK.
+		·       Il terreno circostante si incendia.
+		
+		Tattiche
+		·       Difende la Camera della Scintilla.
+		·       Non si ritira.
+		·       Colpisce più bersagli possibile.
+		
+	Il Pastore del Vespro
+		Tier 1 - Solo Leader
+		Bastone della Notte Infinita
+		Lontano • 2d10+10 Magico
+		ATK: +4
+		Difficoltà: 16
+		Soglie: 11 / 22
+		HP: O O O O O O O O O O O
+		Stress: O O O O
+		
+		Capacità
+		Spegnere la Speranza (Azione Paura)
+		Spendi 1 Paura
+		Un bersaglio perde 1 Speranza.
+		Se non possiede Speranza:
+		Segna 1 Stress.
+		
+		Calare la Notte
+		Crea una zona di oscurità.
+		Tutti gli attacchi effettuati all'interno ottengono vantaggio.
+		
+		Comunione d'Ombra
+		Evoca:
+		·       2 Gusci Carbonizzati
+		oppure
+		·       1 Spettro di Cenere
+		
+		Falsa Misericordia
+		Scegli un abitante del villaggio.
+		La paura si diffonde.
+		Aumenta il Countdown di 1.
+		
+		Umbra Ascendente
+		Quando scende sotto metà HP:
+		·       Ottiene Volo
+		·       +1 ATK
+		·       Ignora il terreno
+		·       Crea duplicati d'ombra
+		
+		Tattiche
+		·       Non combatte subito.
+		·       Cerca di corrompere la volontà dei personaggi.
+		·       Colpisce il morale prima dei corpi.
+		·       Usa i rinforzi come distrazione.

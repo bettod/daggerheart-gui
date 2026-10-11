@@ -139,9 +139,126 @@ class DaggerheartViewer(QWidget):
 
             self.section_list.addTopLevelItem(category_item)
 
+        self.add_dying_pyre_adventure_tree()
+
         self.status_label.setText(f"Loaded {catalog['total_documents']} Daggerheart documents across {len(catalog['categories'])} categories.")
         if self.section_list.topLevelItemCount() > 0:
             self.section_list.setCurrentItem(self.section_list.topLevelItem(0))
+
+    def _indent_level(self, raw_line: str) -> int:
+        stripped = raw_line.lstrip(" \t")
+        if stripped == raw_line:
+            return 0
+        leading = raw_line[:len(raw_line) - len(stripped)]
+        level = 0
+        for ch in leading:
+            if ch == "\t":
+                level += 1
+            elif ch == " ":
+                level += 1
+        return level
+
+    def _looks_like_heading(self, text: str) -> bool:
+        if not text or text.startswith(("·", "-", "*", "•")):
+            return False
+        if len(text.split()) > 8:
+            return False
+        if text.endswith((".", ":", ";", "!", "?")):
+            return False
+        return True
+
+    def parse_adventure_text_sections(self, text: str):
+        text = text.lstrip("\ufeff")
+        sections = []
+        current_main = None
+        current_sub = None
+
+        for raw in text.splitlines():
+            stripped = raw.strip()
+            if not stripped:
+                continue
+
+            level = self._indent_level(raw)
+            if level == 0:
+                current_main = {"title": stripped, "text": "", "children": []}
+                sections.append(current_main)
+                current_sub = None
+                continue
+
+            if current_main is None:
+                continue
+
+            if level == 1:
+                current_sub = {"title": stripped, "text": "", "children": []}
+                current_main["children"].append(current_sub)
+                continue
+
+            if current_sub is None:
+                current_sub = {"title": "", "text": "", "children": []}
+                current_main["children"].append(current_sub)
+
+            current_sub["text"] += stripped + "\n"
+
+        for main in sections:
+            parts = []
+            for child in main.get("children", []):
+                if child.get("title"):
+                    parts.append(child["title"])
+                if child.get("text"):
+                    parts.append(child["text"].strip())
+            main["text"] = "\n".join(part for part in parts if part).strip()
+
+        return sections
+
+    def add_dying_pyre_adventure_tree(self):
+        adventure_candidates = [
+            Path(__file__).resolve().parent / "LA PIRA MORENTE.txt",
+            Path(__file__).resolve().parent / "La Pira Morente.txt",
+            Path(__file__).resolve().parent / "Dying Pyre.txt",
+        ]
+        adventure_path = next((path for path in adventure_candidates if path.exists()), None)
+        if adventure_path is None:
+            return
+
+        text = adventure_path.read_text(encoding="utf-8-sig")
+        sections = self.parse_adventure_text_sections(text)
+        if not sections:
+            return
+
+        root_label = "La Pira Morente" if "PIRA" in adventure_path.name.upper() else "Dying Pyre"
+        root = QTreeWidgetItem([root_label])
+        root.setExpanded(False)
+        root.setData(0, Qt.UserRole, {"type": "adventure_root", "title": root_label})
+
+        def add_items(items, parent_item):
+            for section in items:
+                item = QTreeWidgetItem([section["title"]])
+                item.setData(0, Qt.UserRole, {"type": "adventure_section", "title": section["title"], "text": section["text"]})
+                parent_item.addChild(item)
+                if section.get("children"):
+                    add_items(section["children"], item)
+
+        add_items(sections, root)
+        self.section_list.addTopLevelItem(root)
+
+    def render_adventure_section_html(self, title: str, text: str):
+        lines = [ln.rstrip() for ln in text.splitlines()]
+        blocks = []
+        buffer = []
+        for line in lines:
+            if not line.strip():
+                if buffer:
+                    blocks.append(" ".join(part.strip() for part in buffer if part.strip()))
+                    buffer = []
+                continue
+            buffer.append(line)
+        if buffer:
+            blocks.append(" ".join(part.strip() for part in buffer if part.strip()))
+
+        html = [f"<h1>{title}</h1>"]
+        for block in blocks:
+            html.append(f"<p>{self.render_inline(block)}</p>")
+        return "\n".join(html)
 
     def on_category_expanded(self, item: QTreeWidgetItem):
         payload = item.data(0, Qt.UserRole) or {}
@@ -153,6 +270,13 @@ class DaggerheartViewer(QWidget):
     def render_entry_html(self, category_name: str, entry: dict):
         summary = entry.get("summary") or "No summary available."
         markdown = entry.get("markdown")
+
+        if category_name == "domains":
+            if markdown:
+                section_html = self.convert_markdown_to_html(markdown.splitlines())
+                if "<h1" in section_html or "<h2" in section_html:
+                    return f"<h1>{entry['name']}</h1>{section_html}"
+            return f"<h1>{entry['name']}</h1><p>{summary}</p>"
 
         if category_name == "characters" and "class_name" in entry:
             lines = [
@@ -412,6 +536,10 @@ class DaggerheartViewer(QWidget):
             section = payload["section"]
             self.browser.setHtml(section.html)
             self.highlight_matches(section)
+            return
+
+        if payload.get("type") == "adventure_section":
+            self.browser.setHtml(self.render_adventure_section_html(payload["title"], payload["text"]))
             return
 
         section = payload

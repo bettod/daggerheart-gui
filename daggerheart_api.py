@@ -43,7 +43,7 @@ def _category_from_path(path: Path, root: Path) -> str:
 
 def _document_type(category: str) -> str:
     mapping = {
-        "abilities": "ability",
+        "abilities": "domain_card",
         "adversaries": "adversary",
         "ancestries": "ancestry",
         "armor": "armor",
@@ -171,9 +171,12 @@ def build_catalog() -> Dict[str, Any]:
     for document in documents:
         category = document["category"]
         if category not in categories:
+            label = category.replace("_", " ").title()
+            if category == "abilities":
+                label = "Domain Cards"
             categories[category] = {
                 "category": category,
-                "label": category.replace("_", " ").title(),
+                "label": label,
                 "type": _document_type(category),
                 "count": 0,
                 "entries": [],

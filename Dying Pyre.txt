@@ -1,0 +1,2656 @@
+﻿PART 1
+FRONT MATTER
+ 
+THE FADING PYRE
+An Age of Umbra Quickstart Adventure
+For Tier 1 Heroes
+When the last fire dies, what remains is not darkness.
+It is memory.
+ 
+Adventure Summary
+The village of Ashgrove Hollow survives beneath the Sacred Pyre of Vaelor.
+For centuries the flame has protected the settlement from the dangers of the Umbra.
+Now it is failing.
+Strange lantern lights have appeared within the forests surrounding the village. Ancient shrines have been disturbed. Long-forgotten guardians have returned from beneath the earth.
+As the heroes investigate, they discover that the Sacred Pyre has never generated its own power.
+Its light comes from a living spirit hidden below the valley.
+A spirit known as Vaelor's Last Spark.
+And that spirit has begun waking up.
+The heroes must decide whether to save the flame, free the spirit, or choose an entirely new future.
+ 
+Running This Adventure
+The Fading Pyre is designed as a Tier 1 Daggerheart adventure for three to five player characters.
+The adventure is organized into five acts.
+Act
+	Focus
+	Act I
+	Social Interaction
+	Act II
+	Combat
+	Act III
+	Investigation
+	Act IV
+	Exploration
+	Act V
+	Finale & Choice
+	The story gradually introduces new aspects of play.
+Act I introduces social interaction and Hope and Fear.
+Act II introduces combat.
+Acts III and IV emphasize investigation and discovery.
+Act V combines everything learned so far into a climactic encounter and campaign-defining decision.
+ 
+Themes
+The Fading Pyre is built around four central themes.
+Hope
+The Age of Umbra is a world where hope matters because darkness is real.
+The players should frequently encounter situations where courage and kindness are meaningful choices.
+ 
+Community
+Ashgrove Hollow is not a kingdom.
+It is not a city.
+It is a small settlement full of ordinary people trying to survive.
+The players are fighting for their neighbors, not for glory.
+ 
+Memory
+Throughout the adventure, memories appear repeatedly:
+·       Ash Wraiths consume them.
+·       Vaelor's Last Spark preserves them.
+·       The Sacred Pyre is built upon them.
+Memory should feel like a form of power.
+ 
+Sacrifice
+Every major faction believes sacrifices are necessary.
+The adventure asks whether certain sacrifices are justified.
+There is deliberately no perfectly correct answer.
+ 
+Welcome To The Age Of Umbra
+No one remembers true daylight.
+The oldest stories speak of a time when sunlight touched every corner of the world. Whether those stories are true no longer matters.
+What matters is the darkness.
+Across the Age of Umbra, isolated communities survive around fragile sources of light:
+·       Sacred fires
+·       Ancient beacons
+·       Enchanted lanterns
+·       Forgotten miracles
+Every one of them is fading.
+Ashgrove Hollow is no different.
+For generations its people have survived beneath the light of the Sacred Pyre.
+Now that fire weakens.
+And if it dies, something waiting beyond the light may finally be allowed inside.
+ 
+Adventure Overview
+Act I
+The Vigil Fire
+The heroes arrive during a village-wide vigil.
+The Sacred Pyre visibly weakens before their eyes.
+They meet Keeper Elira Ashmantle and begin investigating the disaster.
+ 
+Act II
+Ashbound Raiders
+The emergency emberwood convoy is attacked.
+The heroes encounter desperate survivors from another community whose sacred flame has already died.
+ 
+Act III
+Seeking The Keeper
+The investigation expands.
+The heroes uncover the history of the Emberbound and begin piecing together the truth behind the Pyre.
+ 
+Act IV
+The Emberways
+Ancient tunnels beneath the valley reveal Vaelor's Last Spark and the hidden origins of Ashgrove Hollow's survival.
+ 
+Act V
+Rekindling The Pyre
+The heroes defend a ritual, confront the Gloam Shepherd, and decide the future of Ashgrove Hollow.
+ 
+ACT I
+THE VIGIL FIRE
+Purpose Of The Act
+This act introduces:
+·       Ashgrove Hollow
+·       The Sacred Pyre
+·       Keeper Elira Ashmantle
+·       Hope and Fear
+·       Social encounters
+Expected play time:
+30–45 Minutes
+ 
+Arrival At Ashgrove Hollow
+Read Aloud
+The world does not know true morning.
+Dawn and dusk have become difficult to distinguish.
+Yet even in perpetual twilight, Ashgrove Hollow should be easy to find.
+For generations travelers have followed the light of the Sacred Pyre.
+Tonight that light struggles to reach the road.
+Ahead, hundreds of villagers stand silently around a massive iron brazier.
+No one speaks.
+No one sings.
+No one looks away.
+They are all watching the fire.
+Pause here.
+Allow the players to introduce their characters.
+Ask them how they arrived in Ashgrove Hollow and what first drew their attention.
+ 
+Building The Village Together
+Ask one question to each player.
+Examples:
+Ranger
+What sign visible from outside the village tells you something is wrong?
+Guardian
+What tradition surrounding sacred fires did your people teach you?
+Rogue
+What detail tells you this crowd is frightened?
+Sorcerer
+What about the flame immediately feels unnatural?
+Use every answer.
+Incorporate them directly into Ashgrove Hollow.
+ 
+The Sacred Pyre
+The Sacred Pyre dominates the village square.
+Even weakened, its flames climb nearly thirty feet into the air.
+Silver sparks drift constantly upward and vanish somewhere in the darkness above.
+The fire burns with white-gold light.
+Characters may investigate.
+ 
+Knowledge Roll (Difficulty 13)
+Success:
+The enchantment maintaining the Pyre is incredibly old.
+Older than the village itself.
+Success With Hope
+The character also senses:
+Something appears to be drawing energy away from the flame.
+Success With Fear
+Gain Fear.
+The character hears a faint whisper from inside the fire.
+Only for a moment.
+ 
+Instinct Roll (Difficulty 13)
+Success:
+The crowd is not praying.
+They are waiting.
+This has happened before.
+Critical Success
+The character notices something more disturbing.
+The problem is not fuel.
+The problem is the fire itself.
+ 
+ACT I - PART 2
+The Crying Child
+As the players continue observing the vigil, introduce the first tutorial action roll.
+Read Aloud
+A child near the edge of the crowd suddenly begins to cry.
+His mother kneels beside him, trying desperately to calm him.
+The boy points toward the Sacred Pyre.
+"It's getting smaller."
+The words spread through the crowd.
+Several villagers turn toward the flame.
+Others glance nervously into the surrounding darkness.
+The atmosphere grows noticeably more tense.
+Ask the players:
+What do you do?
+Any reasonable attempt to comfort the child, encourage the crowd, distract attention, or reduce panic should trigger an Action Roll.
+Presence Roll (Difficulty 10)
+ 
+Success
+The child calms.
+The crowd relaxes slightly.
+Success With Hope
+The acting character gains 1 Hope.
+Read aloud:
+The boy slowly stops crying.
+His breathing steadies.
+A few nearby villagers smile weakly.
+The fear remains.
+But for a brief moment, hope feels stronger.
+ 
+Success With Fear
+The acting character succeeds, but a complication emerges.
+Gain 1 Fear.
+Read aloud:
+The child quiets.
+But before looking away from the forest he whispers:
+"Something is watching."
+Nobody else seems to have heard him.
+Yet the feeling lingers.
+ 
+Failure
+The child remains frightened.
+The crowd becomes increasingly uneasy.
+Failure With Hope
+The acting character gains 1 Hope.
+Read aloud:
+The child cannot be calmed.
+Yet the attempt matters.
+The villagers appreciate seeing someone try.
+ 
+Failure With Fear
+Gain 1 Fear.
+The acting character marks 1 Stress.
+Read aloud:
+The child recoils.
+Panic spreads through the gathered crowd.
+For several moments the square fills with frightened whispers.
+ 
+Critical Success
+If both Duality Dice match:
+The child immediately calms.
+The player gains Hope and may clear Stress.
+Read aloud:
+The child's breathing slows.
+He looks up at you.
+Then toward the Sacred Pyre.
+For just a moment the flame burns brighter.
+Several villagers gasp.
+Whether coincidence or miracle, nobody can say.
+ 
+Keeper Elira Ashmantle
+Shortly after this event, a woman steps from the crowd and approaches the party.
+Read Aloud
+Ash stains her robes.
+Silver symbols spiral across her hands and throat.
+She watches the Sacred Pyre for several moments before speaking.
+"You're outsiders."
+Her voice is calm.
+Tired.
+Controlled.
+"Good."
+"Perhaps that means you'll notice what we've stopped seeing."
+ 
+Keeper Elira Ashmantle
+Role
+Primary quest giver.
+Guardian of the Sacred Pyre.
+Appearance
+·       Smoke-dark robes
+·       Silver ritual markings
+·       Ash-covered gloves
+·       Weathered expression
+Personality
+·       Practical
+·       Intelligent
+·       Deeply protective
+·       Quietly exhausted
+Goal
+Save Ashgrove Hollow.
+Fear
+That she has already failed.
+ 
+Conversation With Elira
+Elira quickly determines the heroes appear capable.
+She explains the situation.
+Read Aloud
+"Three nights ago the Pyre weakened."
+"Two nights ago it weakened again."
+"Tonight it nearly died."
+Her eyes never leave the fire.
+"And I don't believe that's a coincidence."
+ 
+Strange Event One
+Hunters report silver lantern lights moving through the surrounding woods.
+Nobody recognizes them.
+The lights vanish whenever approached.
+ 
+Strange Event Two
+Several ancient shrines have been disturbed.
+Protective wards have been damaged.
+No valuables were stolen.
+ 
+Strange Event Three
+The Ash-Seer has begun making unusual predictions.
+She claims:
+"The flame is leaving."
+Elira does not know what that means.
+ 
+Exploring The Vigil
+Before sending the players on their investigation, allow them to freely explore the village square.
+The following encounters can happen in any order.
+ 
+The Worried Hunter
+A hunter named Brenn Sharp-Eye stands near the edge of the crowd.
+Appearance
+·       Thick traveling cloak
+·       Longbow
+·       Missing left ear
+Personality
+·       Practical
+·       Suspicious
+ 
+What Brenn Knows
+If questioned:
+Read Aloud
+"Saw lights three nights ago."
+"Silver lanterns."
+"Moving through the trees."
+"Not animals."
+"Too organized."
+ 
+Instinct Roll (13)
+Success:
+The hunter seems genuinely frightened.
+This is highly unusual.
+ 
+The Old Storyteller
+An elderly villager named Rowan sits beside the Pyre.
+Appearance
+·       Thick blankets
+·       Walking stick
+·       Burn scar across one cheek
+Personality
+·       Friendly
+·       Talkative
+ 
+The Legend Of Vaelor
+If approached:
+Read Aloud
+"They say Saint Vaelor carried a single ember through the darkness."
+"One tiny spark."
+"One impossible light."
+"The Sacred Pyre was born from it."
+Rowan smiles faintly.
+"Or so the story goes."
+ 
+Knowledge Roll (13)
+Success:
+Several details of the story seem inconsistent.
+Almost as though parts of the original tale have been forgotten.
+ 
+Signs Of The Umbra
+As the players continue exploring, subtly demonstrate growing danger.
+Read Aloud
+A flock of birds suddenly erupts from the trees beyond the village.
+Moments later, silence returns.
+The forest remains unnaturally still.
+This should be the first indication that the threat extends beyond the Pyre itself.
+ 
+Keeper Elira's Request
+Once the players have spoken with at least one or two NPCs, Elira finally asks for help.
+Read Aloud
+Elira folds her arms.
+"The village needs answers."
+"And I need people capable of finding them."
+She looks toward the northern road.
+"Start with the emberwood convoy."
+"It should have returned hours ago."
+ 
+The Convoy Problem
+The village stores sacred emberwood several miles away.
+The material is carefully harvested and used to sustain the Sacred Pyre.
+Without it:
+The fire's condition could become much worse.
+If the convoy has failed to return:
+Something has gone wrong.
+ 
+End Of Act I
+Conclude the act with the following scene.
+Read Aloud
+As darkness deepens, villagers continue feeding wood and oil into the Sacred Pyre.
+The flame barely responds.
+Then a horn sounds in the distance.
+Once.
+Twice.
+Three times.
+A warning signal.
+Elira closes her eyes.
+For the first time all evening she looks afraid.
+"No."
+The emberwood convoy is overdue.
+"Please tell me this isn't connected."
+Deep in the forest another horn answers.
+And somewhere beyond the light of Ashgrove Hollow...
+something waits.
+ 
+ACT II
+ASHBOUND RAIDERS
+Purpose Of The Act
+This act introduces:
+·       Combat
+·       Adversaries
+·       Fear Actions
+·       Tactical choices
+·       Moral ambiguity
+Expected play time:
+45-60 Minutes
+Unlike many introductory combats, the Ashbound are not straightforward villains.
+The players should initially assume they are bandits.
+By the end of the act, they should realize the situation is considerably more complicated.
+ 
+The Journey
+The road north winds through dense pine woods.
+Though only a few miles from the village, the atmosphere feels very different.
+Read Aloud
+The road narrows quickly after leaving Ashgrove Hollow.
+Pine trees crowd close to either side of the path.
+Their branches form a dark canopy overhead.
+The further you travel, the quieter the forest becomes.
+No birds sing.
+No insects chatter.
+Even the wind seems reluctant to move through these woods.
+Something has disturbed the wilderness.
+And the wilderness has noticed.
+ 
+Traveler Questions
+As the party travels, ask one or more players:
+Guardian
+What warning did your homeland teach about silent forests?
+Ranger
+What sign tells you the local wildlife has changed its behavior?
+Rogue
+What hidden trail do you notice that others might miss?
+Sorcerer
+What about the atmosphere feels magically wrong?
+Use their answers in future descriptions.
+ 
+The First Signs
+After some roleplay, ask for an Instinct Roll.
+Instinct Roll (Difficulty 13)
+Success
+Read Aloud:
+You notice broken branches beside the road.
+Fresh damage.
+Someone passed through recently.
+And they were in a hurry.
+Further inspection reveals:
+·       Multiple footprints
+·       Signs of a struggle
+·       Drag marks leading off the road
+ 
+Success With Hope
+Additionally reveal:
+The convoy fought back.
+Several attackers were wounded.
+ 
+Success With Fear
+Gain Fear.
+The players discover the evidence.
+But they are not the only ones watching the road.
+ 
+Failure
+The signs remain hidden.
+The players continue forward unaware.
+ 
+Failure With Fear
+Gain Fear.
+A shadow moves briefly among the trees.
+Nobody spots it in time.
+ 
+The Convoy
+Eventually the players reach the convoy.
+Read Aloud
+Around a sharp bend in the road, you finally find it.
+Or rather...
+what remains of it.
+One wagon lies overturned.
+Another has been stripped nearly bare.
+Sacred emberwood litters the ground.
+Crates have been smashed open.
+Nearby, something still smolders.
+The attack happened recently.
+Very recently.
+Allow investigation.
+ 
+Searching The Scene
+Knowledge Roll (Difficulty 12)
+Success
+The attack occurred less than an hour ago.
+ 
+Instinct Roll (Difficulty 14)
+Success
+Someone remains nearby.
+Watching.
+Waiting.
+ 
+Finesse Roll (Difficulty 13)
+Success
+The character recovers evidence:
+·       A blackened knife
+·       Torn cloak fabric
+·       Symbols burned into leather
+The design resembles a stylized flame.
+Save this symbol for later.
+ 
+The Ambush
+Eventually the attackers reveal themselves.
+Whether they gain surprise depends on how the investigation went.
+ 
+Players Spot Them First
+Read Aloud
+You hear movement among the trees.
+A branch snaps.
+Several hooded figures freeze.
+It is immediately obvious:
+They were planning to attack.
+They were simply hoping to choose the moment themselves.
+The players act first.
+ 
+Ambushed
+Read Aloud
+Shapes explode from the undergrowth.
+Hooded figures rush the road.
+Blades flash.
+Voices shout.
+"Take the wood!"
+"Move!"
+"Quickly!"
+The attack begins.
+The enemies act first.
+ 
+Ashbound Marauders
+These are not ordinary bandits.
+The heroes do not know that yet.
+Use:
+3 Ashbound Marauders
+ 
+Ashbound Marauder
+Tier 1 Standard
+Ash Knife
+ Melee - 1d8+4 Physical
+ATK: +1
+Difficulty: 13
+Thresholds: 6 / 12
+HP: OOO
+Stress: OO
+Features
+Smoke Bomb (Reaction)
+When entering a scene unseen, become Hidden.
+Desperate Strike (Action)
+Mark 1 Stress.
+Gain +2 Attack Modifier on the next attack.
+ 
+Ashbound Captain
+Leads the encounter.
+ 
+Ashbound Captain
+Tier 1 Leader
+Charred Saber
+ Melee - 2d4+4 Physical
+ATK: +3
+Difficulty: 14
+Thresholds: 7 / 14
+HP: OOOO
+Stress: OO
+Features
+Rally The Desperate
+Choose an ally.
+That ally gains:
+·       Clear 1 Stress
+·       +1 ATK until next spotlight
+ 
+Burn The Evidence (Fear Action)
+Spend Fear.
+Destroy convoy supplies.
+After this action succeeds three times:
+Act V's Countdown begins one step higher.
+ 
+Running The Encounter
+The Ashbound are not here to kill anyone.
+Their goals are:
+1.      Take emberwood.
+2.      Escape.
+3.      Avoid unnecessary casualties.
+They will fight.
+But survival matters more than victory.
+ 
+Alternative Resolution
+Allow negotiation.
+The players may attempt to de-escalate.
+ 
+Presence Roll (Difficulty 15)
+Success
+The captain pauses.
+Combat temporarily stops.
+Conversation begins.
+ 
+The Truth Of Black Ember
+If negotiation occurs:
+Read Aloud
+The captain lowers his weapon.
+"You think we're thieves?"
+His laugh contains no humor.
+"Our flame died six months ago."
+"Do you know what happens after that?"
+Silence hangs in the air.
+"People freeze."
+"People starve."
+"People disappear."
+He points toward the convoy.
+"What would you steal to save the last people you love?"
+This is the first major moral complication in the adventure.
+ 
+The Lantern-Bearers
+If conversation continues:
+Read Aloud
+"The lantern-bearers warned us."
+The captain spits into the dirt.
+"Told us another flame would fail."
+"Told us the old powers were waking."
+His expression darkens.
+"Brother Corvin believed them."
+Maybe he was right."
+This is the first mention of Brother Corvin.
+ 
+Escalation
+If the fight begins feeling too easy:
+Spend Fear.
+Introduce another threat.
+ 
+Umbra Hound
+Read Aloud
+Something howls deep in the forest.
+Every Ashbound immediately turns toward the sound.
+Several visibly panic.
+Then a black shape erupts from the trees.
+The creature attacks everyone.
+Including the Ashbound.
+ 
+Umbra Hound
+Tier 1 Standard
+Shadow Fangs
+ Melee - 1d6+3 Physical
+ATK: +1
+Difficulty: 12
+Thresholds: 5 / 10
+HP: OOO
+Stress: O
+Features
+Hunter's Leap
+Move from Close to Melee.
+Immediately attack.
+Feed On Fear
+Gain advantage against Vulnerable targets.
+ 
+Ending The Encounter
+The encounter ends when:
+·       The Ashbound are defeated.
+·       The Ashbound flee.
+·       The players negotiate.
+·       The Umbra Hound disrupts the situation enough to break combat.
+Any outcome works.
+ 
+Loot And Clues
+Among the recovered belongings players discover:
+·       Silver lantern fragments
+·       Maps featuring tunnel routes
+·       Emberbound symbols
+·       References to something called:
+The Last Spark
+Nobody knows what that means yet.
+ 
+Return To Ashgrove Hollow
+Read Aloud
+The journey back feels heavier than before.
+The convoy can be recovered.
+The emberwood can be saved.
+Yet none of that feels like the real problem anymore.
+Something larger is happening.
+Something older.
+And whatever it is...
+it has already begun.
+ 
+End Of Act II
+As the heroes return:
+Read Aloud
+Keeper Elira waits beside the Sacred Pyre.
+When she sees the lantern fragments, her face goes pale.
+One slips from her fingers.
+"No."
+She stares at the symbol.
+"The Emberbound."
+Her voice becomes barely a whisper.
+"I thought they were gone."
+The Sacred Pyre crackles weakly behind her.
+Somewhere within the crowd, someone begins praying.
+And for the first time...
+Elira does not join them.
+ 
+ACT III
+SEEKING THE KEEPER
+Purpose Of The Act
+This act transforms the adventure from a straightforward problem into a mystery.
+By the time the heroes begin Act III, they know:
+·       The Sacred Pyre is failing.
+·       The Ashbound are connected to the crisis.
+·       The Emberbound may somehow be involved.
+By the time they finish Act III, they should understand:
+·       The Emberbound still exist.
+·       Ancient wards beneath the valley have been disturbed.
+·       Something beneath Ashgrove Hollow is awakening.
+·       The entrance to the Emberways lies hidden below the Old Quarry.
+Expected play time:
+60-90 Minutes
+ 
+Returning To Ashgrove Hollow
+Read Aloud
+The road home feels different.
+The forest remains silent.
+No birds call.
+No insects sing.
+Even the wind seems reluctant to pass between the trees.
+When Ashgrove Hollow finally comes into view, your relief lasts only a moment.
+The Sacred Pyre burns lower than when you left.
+Villagers carry oil and emberwood into the square.
+Faces once filled with worry now seem haunted.
+Nobody says the words aloud.
+But everyone has begun asking the same question.
+What happens if the fire dies?
+ 
+Elira's Revelation
+Keeper Elira requests an immediate report.
+She examines every recovered clue.
+Particularly the lantern fragments.
+Read Aloud
+Elira turns the fragment over in her hands.
+Once.
+Twice.
+Then her expression changes.
+"I know this symbol."
+Her voice grows quiet.
+"The Emberbound."
+She closes her eyes.
+"I thought they were gone."
+For a long moment she says nothing.
+Then:
+"Perhaps I have been wrong about many things."
+ 
+What Elira Knows
+The Emberbound
+Long before the Age of Umbra reached its present state, an order of guardians known as the Emberbound traveled between sacred sites.
+They maintained ancient roads.
+Protected holy places.
+Guarded sources of sacred fire.
+Over time they disappeared.
+At least, that is what history claims.
+ 
+Concerning Saint Vaelor
+According to local stories:
+Vaelor carried one of the final embers from the age before endless twilight.
+That ember became the Sacred Pyre.
+Whether the story is literally true is unknown.
+ 
+Elira's Doubt
+Read Aloud:
+"For most of my life my duty seemed simple."
+"Protect the flame."
+"Protect the village."
+"Nothing else mattered."
+She stares toward the Sacred Pyre.
+"But if someone suffers because of that flame..."
+Her voice softens.
+"Then perhaps I do not understand my own duty anymore."
+"I love this village too much to save it through a lie."
+ 
+The Investigation Board
+At this point players may freely investigate.
+The act should feel open.
+Allow them to choose their direction.
+The following locations may be visited in any order.
+ 
+LOCATION ONE
+ASH-SEER'S HILL
+A cemetery overlooking the village.
+Stone cairns dot the hillside.
+An ancient twisted tree stands at its center.
+Beneath it waits:
+Maelin The Ash-Seer
+ 
+Read Aloud
+Hundreds of stone markers rise from the field.
+Ash drifts between them like snow.
+At the summit sits an old woman beside a bowl of gray dust.
+Though blind, she somehow turns toward your approach.
+"You're late."
+She smiles faintly.
+"But then..."
+"Everyone is."
+ 
+Maelin The Ash-Seer
+Appearance
+·       Blind
+·       Frail
+·       Permanently dusted with ash
+Personality
+·       Calm
+·       Cryptic
+·       Unsettling
+Motivation
+Prepare people for what is coming.
+Secret
+She has already communicated with Vaelor's Last Spark.
+ 
+Questions And Answers
+Maelin never answers directly.
+ 
+"What is happening to the Sacred Pyre?"
+"The river is flowing backward."
+ 
+"What lies beneath the valley?"
+"A wound that forgot how to heal."
+ 
+"Who are the Emberbound?"
+"Children carrying promises made by ghosts."
+ 
+Knowledge Or Presence Roll (14)
+Success:
+The players realize Maelin is speaking metaphorically about a living source of power.
+ 
+Critical Success
+Read Aloud:
+"The fire isn't dying."
+"The fire is trying to go home."
+ 
+LOCATION TWO
+SHRINE OF SAINT VAELOR
+The oldest structure in the village.
+Its caretaker:
+Brother Harn
+ 
+Brother Harn
+Appearance
+·       Thin
+·       Sleep deprived
+·       Constantly anxious
+Personality
+·       Kind
+·       Devout
+·       Easily overwhelmed
+Motivation
+Maintain faith.
+ 
+The Journal
+Brother Harn keeps a record of disturbances.
+If players gain access, they discover:
+ 
+Eight Days Ago
+During evening prayer the flame below answered the flame above.
+ 
+Six Days Ago
+Ash moved against the wind.
+ 
+Four Days Ago
+Strange lantern lights observed in the woods.
+ 
+Three Days Ago
+Shrine wards weakened.
+ 
+Yesterday
+Whispering heard beneath the floor.
+ 
+Investigation
+Knowledge Roll (14)
+Success:
+The protective wards have not been vandalized.
+They have been opened.
+Purposefully.
+ 
+Important Discovery
+Someone wanted access to whatever lies beneath the valley.
+ 
+LOCATION THREE
+COALHAND FORGE
+The forge burns nearly day and night.
+The owner:
+Tamsin Coalhand
+ 
+Tamsin Coalhand
+Appearance
+·       Burn scars
+·       Muscular build
+·       Iron prosthetic fingers
+Personality
+·       Direct
+·       Honest
+·       Practical
+Motivation
+Protect the village through action rather than faith.
+ 
+What Tamsin Knows
+Hunters and laborers speak to her frequently.
+Recent reports include:
+·       Silver lights near the quarry.
+·       Warm air emerging from cracks in the earth.
+·       Strange tunnel entrances beneath the hills.
+ 
+Quarry Clue
+If shown Emberbound symbols:
+Read Aloud
+Tamsin freezes.
+"I've seen that."
+"Near the old quarry."
+"A few weeks ago."
+Her expression darkens.
+"Nobody believed me."
+ 
+LOCATION FOUR
+THE OLD QUARRY
+Several miles outside the village.
+Abandoned long ago.
+Few people remember why.
+ 
+Read Aloud
+The quarry resembles a wound carved into the hillside.
+Broken stone litters the ground.
+Shadows pool in every corner.
+The air feels strangely warm.
+Beneath the smell of dust hangs another scent.
+Smoke.
+ 
+Finding The Door
+Instinct Roll (13)
+Success:
+Discover fresh tracks.
+ 
+Knowledge Roll (14)
+Success:
+Ancient masonry becomes visible beneath collapsed stone.
+ 
+The Hidden Door
+Read Aloud
+Massive stone doors emerge from the quarry wall.
+Their surface is covered in carvings.
+Flames.
+Stars.
+Darkness.
+Again and again the same image appears:
+A traveler carrying a single flame through an endless night.
+ 
+Lysa Emberwake
+As the heroes investigate:
+Read Aloud
+A silver lantern suddenly ignites behind you.
+A hooded figure watches from the edge of the quarry.
+Silent.
+Motionless.
+Patient.
+"You shouldn't open that."
+Their voice is calm.
+"Not unless you're prepared to learn the truth."
+ 
+Lysa Emberwake
+Appearance
+·       Hooded cloak
+·       Silver lantern
+·       Ash-stained gloves
+Personality
+·       Careful
+·       Honest
+·       Guarded
+Motivation
+Prevent unnecessary conflict.
+ 
+What Lysa Reveals
+The Emberbound still exist.
+They have been watching the Sacred Pyre.
+Something beneath the valley is awakening.
+And Ashgrove Hollow has forgotten an important truth.
+ 
+End Of Act III
+Read Aloud
+The stone door slowly swings open.
+Warm air rushes outward.
+Carrying the scent of smoke.
+Ancient steps descend into darkness.
+Somewhere far below...
+a faint silver light waits.
+The Emberways have opened.
+ 
+ACT IV
+THE EMBERWAYS
+Purpose Of The Act
+Act IV reveals the truth behind the crisis.
+By its conclusion the players should understand:
+·       The Emberbound's purpose.
+·       The origin of the Sacred Pyre.
+·       The existence of Vaelor's Last Spark.
+·       Why every solution carries a cost.
+Expected play time:
+60-90 Minutes
+ 
+Read Aloud
+The staircase descends deeper than seems possible.
+The farther you travel, the more distant the surface becomes.
+Eventually even your own footsteps sound strange.
+As though the darkness is swallowing every noise.
+ 
+Lightless Pockets
+As the party descends deeper into the Emberways, light begins to behave strangely.
+Read Aloud
+Without warning, your lantern flame shrinks.
+Not extinguished.
+Not weakened.
+Simply... smaller.
+The shadows around you immediately lengthen.
+Darkness presses closer from every direction.
+For a moment it feels as though something unseen is leaning toward your light.
+Watching.
+Waiting.
+The deeper sections of the Emberways contain regions known by the Emberbound as Lightless Pockets.
+Inside these locations, illumination feels unnatural and fragile.
+ 
+Instinct Roll (Difficulty 14)
+Success
+The character keeps their composure.
+They realize the whispers are merely manifestations of the Umbra's influence.
+ 
+Failure
+Mark 1 Stress.
+The character hears a disturbing whisper.
+Use one of the following:
+Guardian
+"You failed them."
+Ranger
+"Something is hunting you."
+Rogue
+"Nobody would miss you."
+Sorcerer
+"The fire remembers."
+Warrior
+"You weren't strong enough."
+The whisper vanishes immediately.
+ 
+The Fallen Pilgrims
+Eventually the tunnel system opens into an enormous sanctuary.
+Read Aloud
+The corridor widens.
+Then widens again.
+Before finally opening into a vast underground hall.
+Hundreds of iron lanterns hang from chains suspended high above.
+Most are dark.
+A handful still burn with silver fire.
+Beneath them lie dozens of skeletons wrapped in ceremonial robes.
+Lanterns still rest in their hands.
+Dust covers everything.
+Yet nothing appears disturbed.
+They look as though they simply sat down...
+and never rose again.
+ 
+Knowledge Roll (Difficulty 13)
+Success
+These remains belonged to Emberbound pilgrims.
+None show signs of violence.
+ 
+Critical Success
+The sanctuary was not abandoned suddenly.
+The people here remained willingly.
+Waiting for something.
+Perhaps waiting for a sign that never came.
+ 
+Discovery Table
+While searching this chamber, characters may discover relics from an earlier age.
+Roll or choose:
+1. Emberbound Records
+Ancient journals documenting pilgrimages between sacred fires.
+ 
+2. Route Map
+A faded map showing several sacred flames throughout the region.
+This foreshadows future campaigns.
+ 
+3. Blessed Ash Pouch
+A small cloth bag containing silver ash.
+Once per session, gain advantage on a roll to resist fear.
+ 
+4. Forgotten Hymn
+A fragment of an ancient song honoring the First Dawn.
+ 
+5. Silver Rune Tablet
+A portable relic containing protective symbols.
+ 
+6. Memory Crystal
+A crystal containing one preserved memory.
+Read Aloud
+A light flickers within the crystal.
+Suddenly you witness an ancient scene.
+The Sacred Pyre burns so brightly it can be seen from mountaintops far beyond the valley.
+Thousands stand around it.
+Laughing.
+Singing.
+Hoping.
+Any character viewing the memory gains 1 Hope.
+ 
+The Emberbound Camp
+Beyond the sanctuary lies the hidden refuge of the Emberbound.
+Read Aloud
+One by one, silver lanterns ignite throughout the darkness.
+Figures emerge from hidden doorways and side passages.
+Some watch from balconies carved into stone.
+Others stand openly upon the path ahead.
+None draw weapons.
+Yet no one appears relaxed.
+These people have spent generations hiding from the world above.
+And you are the first outsiders many of them have ever seen.
+ 
+Brother Corvin
+Leader of the Emberbound.
+ 
+Appearance
+·       Burn scars across both forearms.
+·       Silver lantern staff.
+·       Layered ceremonial robes faded with age.
+ 
+Personality
+·       Calm.
+·       Patient.
+·       Intelligent.
+·       Honest.
+ 
+Goal
+Free Vaelor's Last Spark.
+ 
+Fear
+That humanity has become incapable of surviving without exploiting the spirit.
+ 
+Meeting Corvin
+Read Aloud
+The crowd parts.
+A lantern-bearing man steps forward.
+His expression contains neither hostility nor fear.
+Only exhaustion.
+"Welcome," he says.
+"Though I wish circumstances were kinder."
+His lantern illuminates symbols matching those found throughout the village.
+"I am Brother Corvin."
+ 
+The Truth About The Sacred Pyre
+Corvin explains the history hidden from Ashgrove Hollow.
+Read Aloud
+"The Sacred Pyre does not create power."
+The words echo through the chamber.
+Several Emberbound lower their heads.
+"It never has."
+He raises his lantern.
+"Its light comes from a spirit."
+"A spirit we once protected."
+"A spirit your village forgot."
+ 
+Revelation One
+The Pyre is not self-sustaining.
+ 
+Revelation Two
+Its power comes from an ancient entity.
+ 
+Revelation Three
+That entity is:
+Vaelor's Last Spark
+ 
+Revelation Four
+The spirit has begun awakening.
+As it awakens, it instinctively reclaims power that has been draining away for centuries.
+The weakening Pyre is merely a symptom.
+ 
+Corvin's Doubt
+The module should never imply Corvin is obviously correct.
+Read Aloud
+Corvin kneels beside his lantern.
+"Do not mistake me."
+"I believe the spirit deserves freedom."
+"But belief is not certainty."
+His gaze drifts toward the deeper tunnels.
+"I do not know what happens if it awakens."
+"None of us do."
+This moment is important.
+The players should understand that every major faction is operating with incomplete knowledge.
+ 
+The Moral Question
+Corvin will eventually ask:
+Read Aloud
+"Imagine someone tore your heart apart."
+"Then used the pieces to keep strangers alive."
+"For a year."
+"For a century."
+"For a thousand years."
+He leans upon his lantern staff.
+"How long would you accept that suffering?"
+"When would survival stop justifying the cost?"
+Encourage discussion.
+Reward meaningful roleplay with Hope.
+ 
+The Silver River
+Corvin eventually guides the party deeper into the Emberways.
+Read Aloud
+The next chamber contains a river.
+Yet no water flows within it.
+Instead, liquid silver flame moves silently through the darkness.
+The cavern glows with cold light.
+Reflections dance across stone walls.
+Despite being made of fire, nothing burns.
+ 
+Crossing The River
+The route forward requires a group challenge.
+Objective
+Achieve:
+4 Successes Before 3 Failures
+Possible approaches include:
+·       Agility
+·       Finesse
+·       Instinct
+·       Creative solutions
+·       Magic
+ 
+Example Complications
+Failures may result in:
+·       Marking Stress
+·       Becoming separated
+·       Losing equipment
+·       Attracting attention
+The challenge should feel dangerous without becoming lethal.
+ 
+Hall Of Guardians
+After crossing the Silver River, the party reaches enormous bronze doors.
+Read Aloud
+Towering metal doors block the passage ahead.
+Their surface is covered in ancient writing.
+Flames.
+Stars.
+The same symbols repeated endlessly.
+At the center stands a larger inscription:
+"Guardian of the Last Spark."
+"Keeper of Sacred Memory."
+"Defender of the Sleeping Flame."
+ 
+Knowledge Roll (Difficulty 10)
+Success
+The guardian beyond was created to protect Vaelor's Last Spark.
+Not imprison it.
+Protect it.
+ 
+Furnace Knight
+Read Aloud
+The doors open inward.
+A single armored figure waits beyond.
+Motionless.
+Watching.
+Bronze armor covers every inch of its body.
+Molten light glows through cracks between ancient plates.
+A colossal sword slowly rises.
+Deep within its chest, gears begin turning.
+Then it speaks:
+"UNAUTHORIZED ENTRY."
+Combat begins.
+ 
+Furnace Knight
+Use the Furnace Knight stat block from Appendix C.
+The encounter should feel:
+·       Dangerous
+·       Memorable
+·       Slightly tragic
+The Knight is defending something sacred.
+Not merely standing in the way.
+ 
+After The Furnace Knight
+Once the Knight falls:
+Read Aloud
+The enormous guardian collapses.
+The chamber trembles.
+Then silence returns.
+Slowly...
+the great doors beyond begin to open.
+Warm silver light spills into the hall.
+For the first time since entering the Emberways...
+the darkness retreats.
+ 
+The Heart Ember Chamber
+The final chamber is unlike anything the heroes have seen before.
+Read Aloud
+An enormous cavern stretches into the darkness.
+Yet there are no torches.
+No lanterns.
+No fires.
+At the exact center hovers a single silver flame.
+No larger than a candle.
+Yet its light fills the entire chamber.
+Warm.
+Gentle.
+Ancient.
+ 
+Vaelor's Last Spark
+The spirit reveals itself through memory.
+Read Aloud
+Images begin appearing within the flame.
+Faces.
+Villages.
+Battlefields.
+Births.
+Deaths.
+Entire generations preserved inside living fire.
+Every life touched by the Sacred Pyre.
+Every sacrifice.
+Every triumph.
+Every loss.
+ 
+Final Revelation
+As the memories continue, one image remains.
+Read Aloud
+A lone figure stands beside the Sacred Pyre.
+Black robes.
+A charred wooden staff.
+His face cannot be fully seen.
+Yet his smile is unmistakable.
+He watches the fire die.
+And he looks relieved.
+The memory fades.
+A final thought enters your minds:
+He is already there.
+Hurry.
+ 
+End Of Act IV
+The heroes now know:
+·       The truth of the Pyre.
+·       The truth of the Emberbound.
+·       The existence of Vaelor's Last Spark.
+·       The identity of the Gloam Shepherd.
+The race back to Ashgrove Hollow begins.
+ 
+Next Section: Act V - Rekindling The Pyre
+ The final ritual, the Gloam Shepherd, the countdown encounter, and all endings.
+ACT V
+REKINDLING THE PYRE
+Purpose Of The Act
+This act serves as the climax of the adventure.
+Everything the heroes have learned now collides:
+·       The Sacred Pyre is failing.
+·       Vaelor's Last Spark is awakening.
+·       The Emberbound seek freedom.
+·       Keeper Elira seeks preservation.
+·       The Gloam Shepherd seeks acceptance of the coming darkness.
+The heroes must determine not merely how to save Ashgrove Hollow, but what kind of future deserves to survive.
+Expected play time:
+90-120 Minutes
+ 
+The Return To Ashgrove Hollow
+The ascent from the Emberways should feel urgent.
+Allow brief roleplay while the heroes travel.
+Ask each player:
+Guardian
+What responsibility drives you forward despite your exhaustion?
+Ranger
+What sight are you afraid you might see when you reach the village?
+Rogue
+What secret have you learned that changes how you view Ashgrove Hollow?
+Sorcerer
+What part of the Last Spark's memories still haunts you?
+Reward particularly meaningful answers with Hope.
+ 
+Arrival
+Read Aloud
+The first thing you notice is the smoke.
+Thick black smoke rises above the trees.
+Then the bells.
+Dozens of bells.
+Ringing constantly.
+Ashgrove Hollow is in chaos.
+Villagers rush through the streets carrying lanterns, oil, water, and bundles of wood.
+The Sacred Pyre burns lower than ever before.
+White flames barely rise above the rim of the brazier.
+And standing beside the dying fire is a lone figure dressed entirely in black.
+ 
+The Gloam Shepherd
+The heroes finally meet the architect behind the disturbance.
+The Shepherd is not a madman.
+He is not seeking power.
+He is not attempting conquest.
+He believes he is helping.
+That makes him far more dangerous.
+ 
+Appearance
+Read Aloud
+His robes resemble funeral garments darkened by centuries of ash.
+A blackened wooden staff rests in his hands.
+Shadows seem to crawl slowly across its surface.
+He studies the Sacred Pyre quietly.
+Then he turns toward you.
+His expression is calm.
+Almost sympathetic.
+"You found the truth."
+His smile never reaches his eyes.
+"And yet you still came."
+ 
+Personality
+The Shepherd should never sound angry.
+He speaks with:
+·       patience
+·       certainty
+·       sadness
+He genuinely believes resistance only prolongs suffering.
+ 
+The Final Debate
+Allow a lengthy conversation before the ritual begins.
+This may become one of the strongest roleplay scenes in the entire adventure.
+Award Hope frequently.
+The Shepherd should challenge assumptions rather than threaten.
+ 
+On The Sacred Pyre
+"Your village calls the flame sacred."
+He gestures toward the brazier.
+"What would they call it if they knew the cost?"
+ 
+On Hope
+"Hope is beautiful."
+"False hope is monstrous."
+ 
+On Humanity
+"Every generation insists it can defeat the darkness."
+"Every generation eventually learns otherwise."
+ 
+On Vaelor's Last Spark
+"A prison remains a prison."
+"Even when its walls are built from gratitude."
+ 
+Challenging The Heroes
+The Shepherd should directly address individual characters.
+Guardian
+"How many lives would you sacrifice to save the village?"
+ 
+Ranger
+"How many strangers are worth one friend?"
+ 
+Rogue
+"If survival required betrayal, would you refuse?"
+ 
+Sorcerer
+"If your power depended upon another's suffering, would you abandon it?"
+ 
+No answer is wrong.
+The purpose is reflection.
+ 
+Keeper Elira Takes Action
+Eventually the debate must end.
+Read Aloud
+Elira slams her staff into the stones.
+Silver fire erupts across the ground.
+Ancient runes ignite around the Sacred Pyre.
+A powerful wind tears through the village square.
+Embers explode into the sky.
+For a brief moment the Sacred Pyre burns brighter than it has in days.
+Then Elira raises her voice.
+"Enough."
+"The village deserves a future."
+She looks toward the heroes.
+"Help me decide what that future will be."
+ 
+THE RITUAL BEGINS
+The ritual and battle occur simultaneously.
+Keeper Elira cannot protect herself and complete the ritual.
+The heroes must protect her.
+ 
+Ritual Countdown
+Place a D8 on the table.
+Set it to: 8
+This represents the ritual's progress.
+ 
+Decrease The Countdown
+Whenever:
+·       An Ash Wraith is defeated.
+·       A major ritual action succeeds.
+·       The party completes a ritual objective.
+·       A meaningful sacrifice is made.
+ 
+Increase The Countdown
+Whenever:
+·       Elira is struck by an attack.
+·       Ritual circles are damaged.
+·       Major Fear Actions succeed.
+·       Catastrophic failures occur.
+ 
+Countdown Milestones
+Countdown 8-7
+Read Aloud
+Silver sparks begin rising from the Pyre.
+The flame stabilizes slightly.
+ 
+Countdown 6-5
+Read Aloud
+Villagers begin to believe survival may still be possible.
+Each hero gains 1 Hope.
+ 
+Countdown 4
+Read Aloud
+One of the ritual circles cracks.
+The Gloam Shepherd finally moves.
+The Shepherd joins combat.
+ 
+Countdown 3-2
+Read Aloud
+Memories flood the village square.
+Ghostly images appear among the flames.
+Entire generations briefly return.
+Each player witnesses one meaningful memory.
+ 
+Countdown 1
+Read Aloud
+Reality bends.
+Every flame burns white.
+Every shadow stretches farther than it should.
+Time itself feels uncertain.
+Each hero gains 1 Hope.
+The GM gains 1 Fear.
+ 
+Countdown 0
+The ritual concludes immediately.
+Proceed to Ending Resolution.
+ 
+Encounter Setup
+Place:
+Keeper Elira
+At the center of the ritual circle.
+Difficulty 11.
+Elira does not track HP.
+Damage against her instead affects the Countdown.
+ 
+4 Charcoal Husks
+Begin within Very Close range of the ritual.
+ 
+2 Ash Wraiths
+Begin at Far range.
+ 
+The Shepherd initially remains outside combat.
+Observing.
+ 
+CHARCOAL HUSKS
+Use the Charcoal Husk stat block from the Adversary Appendix.
+Behavior
+They:
+·       Attack ritual circles.
+·       Ignore fear.
+·       Focus on disruption.
+They are less concerned with survival than with destruction.
+ 
+ASH WRAITHS
+Use the Ash Wraith stat block from the Adversary Appendix.
+Behavior
+They attack:
+·       Isolated heroes
+·       Characters carrying Hope
+·       Protectors defending Elira
+Whenever an Ash Wraith uses Consume Memory, ask the player a question.
+Examples:
+Guardian
+Who depends on you?
+Ranger
+What are you still searching for?
+Rogue
+What truth are you afraid to face?
+Sorcerer
+What memory do you refuse to lose?
+The Wraith attempts to consume the answer.
+ 
+The Sacred Pyre
+Environment Feature
+Sacred Flame
+While within Close range:
+Players gain advantage against fear and despair.
+ 
+Flare Of Hope
+Once per scene:
+A character may spend 2 Hope.
+The Sacred Pyre erupts.
+All allies:
+·       Clear 1 Stress
+ 
+Unstable Conduit
+Fear Action.
+Spend Fear.
+Silver fire explodes from damaged runes.
+All creatures within Very Close range mark Stress.
+ 
+The Shepherd Enters Combat
+At Countdown 4:
+Read Aloud
+The Shepherd lowers his staff.
+"Then let us discover which future deserves to survive."
+Darkness spills outward.
+Shadows detach from nearby walls.
+The final battle begins.
+ 
+Phase Two
+Umbra Ascendant
+When the Shepherd drops below half Health:
+Read Aloud
+Shadows climb his body.
+Darkness wraps around his robes.
+He slowly rises into the air.
+His voice echoes across the square.
+"You cannot stop the night."
+"You can only decide how to meet it."
+ 
+The Shepherd gains:
+·       Flight
+·       +1 ATK
+·       Ignore terrain
+·       Shadow duplication
+ 
+The Ritual Ends
+When the Countdown reaches zero:
+Immediately stop combat.
+Read Aloud
+Every flame freezes.
+Every shadow stills.
+Every sound vanishes.
+The entire village holds its breath.
+Vaelor's Last Spark descends toward the Sacred Pyre.
+Waiting.
+Listening.
+Hoping.
+For a choice.
+ 
+ENDING ONE
+RENEW THE BOND
+The heroes choose to preserve the existing relationship between the spirit and the Pyre.
+Read Aloud
+Silver fire floods the Sacred Pyre.
+The flame rises.
+Higher.
+Brighter.
+Stronger.
+Once again Ashgrove Hollow stands beneath its light.
+The village survives.
+Consequences
+·       Ashgrove Hollow is saved.
+·       The Pyre is restored.
+·       Vaelor remains bound.
+Campaign Focus
+Protecting sacred fires throughout the Age of Umbra.
+ 
+ENDING TWO
+FREE THE SPARK
+The heroes choose freedom.
+Read Aloud
+The Sacred Pyre dies.
+Darkness swallows the square.
+Several villagers cry out.
+Then thousands of tiny embers rise into the sky.
+They drift across the horizon like stars.
+Hope is no longer located in one place.
+It now belongs to everyone.
+Consequences
+·       The spirit is freed.
+·       The Pyre is gone.
+·       New lights appear throughout the world.
+Campaign Focus
+Travel alongside awakening spirits.
+ 
+ENDING THREE
+LIVING FLAME
+A hero sacrifices part of themselves.
+Read Aloud
+The silver flame enters you.
+Memory.
+Heat.
+Joy.
+Grief.
+Ten thousand lives burn within your soul.
+The Sacred Pyre ignites once more.
+And a piece of it will remain part of you forever.
+Consequences
+·       Village survives.
+·       One hero becomes transformed.
+·       Vaelor remains partially free.
+Campaign Focus
+A chosen-vessel story.
+ 
+ENDING FOUR
+THE LIVING COUNCIL
+Requirements:
+·       Corvin survives.
+·       Elira survives.
+·       Peace is negotiated.
+Read Aloud
+No chains are restored.
+No prison remains.
+No promise is broken.
+Instead, a new covenant is born.
+Consequences
+·       Village and Emberbound unite.
+·       Vaelor remains willingly.
+·       A new generation of guardians emerges.
+Campaign Focus
+Politics, diplomacy, and alliance building.
+ 
+ENDING FIVE
+ASHEN NIGHT
+If the ritual catastrophically fails.
+Read Aloud
+The final connection shatters.
+The Sacred Pyre goes dark.
+This time...
+no flame returns.
+Consequences
+·       Ashgrove Hollow becomes a refugee settlement.
+·       Darkness advances.
+·       Survival becomes paramount.
+Campaign Focus
+Rebuilding hope after catastrophe.
+ 
+EPILOGUE
+Read Aloud
+The Age of Umbra knows no true dawn.
+Yet tonight something has changed.
+Somewhere beyond the valley another sacred fire flickers.
+Another village waits.
+Another story begins.
+And somewhere within the darkness...
+hope continues to burn.
+ 
+Advancement
+Choose one method.
+Standard Advancement
+All heroes reach Level 2.
+ 
+Narrative Advancement
+Each hero gains one Experience (+2).
+Suggested Experiences:
+·       Friend of the Last Spark
+·       Survivor of the Dying Flame
+·       Hope Against Darkness
+·       Ashgrove Defender
+·       Emberways Explorer
+ 
+Next Section: Appendices
+·       GM Reference Sheet
+·       NPC Directory
+·       Adversary Index
+·       Maps
+·       Scaling Rules
+·       Encounter Sidebars
+·       Loot & Rewards
+·       Alternate Outcomes
+·       Campaign Transition Material
+APPENDIX A
+GM REFERENCE SHEET
+ 
+Adventure Flow
+Act I - The Vigil Fire
+Purpose:
+·       Introduce Ashgrove Hollow.
+·       Establish the Sacred Pyre.
+·       Meet Keeper Elira.
+·       Introduce Hope and Fear.
+Major Discovery:
+The flame is not simply dying.
+Something is happening to it.
+ 
+Act II - Ashbound Raiders
+Purpose:
+·       Introduce combat.
+·       Introduce the Ashbound.
+·       Reveal other sacred fires are failing.
+Major Discovery:
+Ashgrove Hollow is not the only community in danger.
+ 
+Act III - Seeking The Keeper
+Purpose:
+·       Investigation.
+·       Discovery.
+·       Clue gathering.
+Major Discovery:
+The Emberbound still exist.
+Something sleeps beneath the valley.
+ 
+Act IV - The Emberways
+Purpose:
+·       Exploration.
+·       Moral conflict.
+·       Major revelation.
+Major Discovery:
+Vaelor's Last Spark powers the Sacred Pyre.
+ 
+Act V - Rekindling The Pyre
+Purpose:
+·       Final battle.
+·       Ritual encounter.
+·       Major choice.
+Major Discovery:
+Every future carries a cost.
+ 
+Difficulty Guide
+Easy
+Difficulty 10
+Moderate
+Difficulty 13-14
+Challenging
+Difficulty 15-16
+Hard
+Difficulty 17-18
+Extreme
+Difficulty 19+
+ 
+Hope Awards
+Grant Hope when players:
+·       Protect innocent people.
+·       Inspire courage.
+·       Preserve relationships.
+·       Make meaningful sacrifices.
+·       Reject despair.
+ 
+Fear Opportunities
+Spend Fear to:
+·       Escalate danger.
+·       Introduce complications.
+·       Reveal new threats.
+·       Power adversary abilities.
+·       Increase pressure during rituals.
+Avoid using Fear purely for damage whenever possible.
+Increase tension, not arithmetic.
+ 
+APPENDIX B
+NPC DIRECTORY
+ 
+Keeper Elira Ashmantle
+Role
+Guardian of the Sacred Pyre.
+Appearance
+·       Soot-dark robes
+·       Silver ritual markings
+·       Exhausted eyes
+Motivation
+Save Ashgrove Hollow.
+Secret
+She increasingly suspects the Pyre should not exist in its current form.
+Voice
+Concise.
+Measured.
+Practical.
+ 
+Maelin The Ash-Seer
+Role
+Prophet.
+Appearance
+·       Blind
+·       Elderly
+·       Ash-covered
+Motivation
+Prepare people for what is coming.
+Secret
+Already spoke with Vaelor's Last Spark.
+Voice
+Symbolic.
+Cryptic.
+Poetic.
+ 
+Brother Harn
+Role
+Caretaker of the Shrine of Saint Vaelor.
+Appearance
+·       Thin
+·       Nervous
+·       Sleep deprived
+Motivation
+Preserve faith.
+Secret
+He fears the gods abandoned the world.
+Voice
+Careful.
+Soft-spoken.
+ 
+Tamsin Coalhand
+Role
+Village blacksmith.
+Appearance
+·       Burn scars
+·       Iron prosthetic fingers
+·       Muscular build
+Motivation
+Keep the village alive through action.
+Secret
+She ignored signs from the quarry months ago.
+Voice
+Direct.
+Blunt.
+Honest.
+ 
+Lysa Emberwake
+Role
+Emberbound scout.
+Appearance
+·       Hooded cloak
+·       Silver lantern
+·       Ash-stained gloves
+Motivation
+Prevent violence.
+Secret
+She is unsure whether Corvin is correct.
+Voice
+Guarded.
+Thoughtful.
+ 
+Brother Corvin
+Role
+Leader of the Emberbound.
+Appearance
+·       Burned forearms
+·       Lantern staff
+·       Worn ceremonial robes
+Motivation
+Free Vaelor's Last Spark.
+Secret
+He genuinely does not know what awakening the spirit will cause.
+Voice
+Patient.
+Reflective.
+ 
+The Gloam Shepherd
+Role
+Primary antagonist.
+Appearance
+·       Black robes
+·       Burned staff
+·       Eyes hidden by shadow
+Motivation
+End humanity's dependence on sacred flames.
+Secret
+He believes he is saving people from future suffering.
+Voice
+Calm.
+Intelligent.
+Certain.
+ 
+Vaelor's Last Spark
+Role
+Ancient spirit.
+Appearance
+·       Small silver flame
+Motivation
+Unknown.
+Secret
+The spirit remembers every life touched by the Sacred Pyre.
+Voice
+Memories rather than words.
+ 
+APPENDIX C
+ADVERSARY INDEX
+ 
+Ashbound Marauder
+Tier 1 Standard
+Ash Knife
+ Melee - 1d8+4 Physical
+ATK +1
+Difficulty 13
+Thresholds 6 / 12
+HP OOO
+Stress OO
+Features
+Smoke Bomb (Reaction)
+Become Hidden when entering unseen.
+Desperate Strike (Action)
+Mark 1 Stress.
+Gain +2 ATK on next attack.
+ 
+Ashbound Captain
+Tier 1 Leader
+Charred Saber
+ Melee - 2d4+4 Physical
+ATK +3
+Difficulty 14
+Thresholds 7 / 14
+HP OOOO
+Stress OO
+Features
+Rally The Desperate
+Target ally clears Stress and gains +1 ATK.
+Burn The Evidence (Fear Action)
+Damage ritual resources or supplies.
+ 
+Umbra Hound
+Tier 1 Standard
+Shadow Fangs
+ Melee - 1d6+3 Physical
+ATK +1
+Difficulty 12
+Thresholds 5 / 10
+HP OOO
+Stress O
+Features
+Hunter's Leap
+Feed On Fear
+ 
+Charcoal Husk
+Tier 1 Standard
+Burning Grasp
+ Melee - 1d6+2 Magic
+ATK +0
+Difficulty 12
+Thresholds 7 / None
+HP OO
+Stress O
+Features
+Ashen Collapse
+Mob Assault
+ 
+Ash Wraith
+Tier 1 Bruiser
+Lifedrain
+ Far - 2d6+8 Magic
+ATK +3
+Difficulty 13
+Thresholds 7 / 14
+HP OOOOOO
+Stress OOO
+Features
+Consume Memory
+Pass Through
+Resistance To Physical Damage
+ 
+Hollow Lantern Bearer
+Tier 1 Leader
+Lantern Staff
+ Close - 2d4+3 Magic
+ATK +3
+Difficulty 14
+Thresholds 7 / 14
+HP OOOO
+Stress OO
+Features
+Guiding Light
+Lantern Flash
+ 
+Umbra Stalker
+Tier 1 Bruiser
+Shadow Claws
+ Melee - 2d8+6 Physical
+ATK +2
+Difficulty 14
+Thresholds 8 / 16
+HP OOOOO
+Stress OOO
+Features
+Pounce
+Shadow Leap
+Dark Hunter
+ 
+Furnace Knight
+Tier 1 Solo
+Molten Greatsword
+ Very Close - 2d10+8 Physical
+ATK +4
+Difficulty 15
+Thresholds 10 / 20
+HP OOOOOOOOO
+Stress OOOO
+Features
+Guardian Flame
+Ember Charge
+Molten Burst
+Cracked Core
+ 
+Gloam Shepherd
+Tier 1 Solo Leader
+Staff Of Endless Night
+ Far - 2d10+10 Magic
+ATK +4
+Difficulty 16
+Thresholds 11 / 22
+HP OOOOOOOOOOO
+Stress OOOO
+Features
+Extinguish Hope
+Nightfall
+Shadow Communion
+Umbra Ascendant
+ 
+APPENDIX D
+RITUAL COUNTDOWN REFERENCE
+Place a D8 showing: 8
+ 
+Countdown 8-7
+The ritual stabilizes.
+Silver embers rise.
+ 
+Countdown 6-5
+Villagers regain hope.
+Every hero gains 1 Hope.
+ 
+Countdown 4
+The Gloam Shepherd enters the battle.
+ 
+Countdown 3-2
+The Last Spark awakens.
+Memories appear throughout the village.
+ 
+Countdown 1
+Reality bends.
+Hope and Fear surge together.
+ 
+Countdown 0
+Resolve the ritual immediately.
+Proceed to the ending.
+ 
+APPENDIX E
+VILLAGE RUMORS
+Roll 1d8 or choose.
+d8
+	Rumor
+	1
+	The Pyre once burned twice as tall.
+	2
+	Silver lanterns move through the woods.
+	3
+	The quarry is haunted.
+	4
+	The Ash-Seer predicted this years ago.
+	5
+	The Emberbound never vanished.
+	6
+	Something beneath the valley is waking.
+	7
+	The darkness seems hungrier lately.
+	8
+	The Sacred Pyre sometimes whispers.
+	 
+APPENDIX F
+STANDEES
+Cut and fold.
+Allies
+·       Keeper Elira
+·       Maelin
+·       Brother Harn
+·       Tamsin Coalhand
+·       Lysa Emberwake
+·       Brother Corvin
+Adversaries
+·       Ashbound Marauder A
+·       Ashbound Marauder B
+·       Ashbound Marauder C
+·       Ashbound Captain
+·       Umbra Hound
+·       Charcoal Husk x4
+·       Ash Wraith x2
+·       Hollow Lantern Bearer
+·       Umbra Stalker
+·       Furnace Knight
+·       Gloam Shepherd
+Terrain
+·       Sacred Pyre
+·       Shrine
+·       Quarry Entrance
+·       Silver River
+·       Ritual Circle
+ 
+APPENDIX G
+MAPS
+Map 1
+Ashgrove Hollow
+Key Locations:
+·       Sacred Pyre
+·       Cemetery
+·       Forge
+·       Shrine
+·       Village Square
+ 
+Map 2
+Convoy Ambush
+Key Locations:
+·       Blocked Road
+·       Convoy
+·       Forest Edge
+ 
+Map 3
+Old Quarry
+Key Locations:
+·       Quarry Floor
+·       Hidden Door
+·       Observation Point
+ 
+Map 4
+Emberways Crossroads
+Key Locations:
+·       Entrance
+·       Emberbound Camp
+·       Silver River
+·       Hall Of Guardians
+ 
+Map 5
+Silver River
+Skill Challenge Area
+ 
+Map 6
+Hall Of Guardians
+Furnace Knight Encounter
+ 
+Map 7
+Heart Ember Chamber
+Vaelor's Last Spark
+ 
+Map 8
+Ritual Battlefield
+Final Encounter
+ 
+Map 9
+Region Of The Dying Fires
+Campaign Continuation Map
+ 
+APPENDIX H
+ENCOUNTER SIDEBARS
+Running Fear
+Use Fear to:
+·       Escalate situations
+·       Introduce complications
+·       Reveal danger
+·       Create pressure
+Do not use Fear solely for damage.
+ 
+Running Brother Corvin
+Corvin should never feel like a villain.
+He asks difficult questions.
+He does not possess definite answers.
+ 
+Running The Shepherd
+The Shepherd believes he is helping.
+Remain calm.
+Never portray him as insane.
+ 
+Memory Questions
+Use with Ash Wraiths.
+Guardian
+Who depends on you?
+Ranger
+What are you still searching for?
+Rogue
+What truth are you afraid to face?
+Sorcerer
+What memory do you refuse to lose?
+ 
+APPENDIX I
+SCALING
+Two Players
+·       Reduce starting Husks to 2
+·       Reduce Ash Wraiths to 1
+·       Furnace Knight HP 7
+ 
+Three Players
+·       Start Countdown at 7
+·       Furnace Knight HP 8
+ 
+Four Players
+Default adventure.
+ 
+Five Players
+Add:
+·       1 Ashbound Marauder
+·       1 Hollow Lantern Bearer
+Furnace Knight HP 11
+ 
+Six Players
+Add:
+·       2 Marauders
+·       1 Umbra Stalker
+·       1 additional Ash Wraith
+Furnace Knight HP 12
+Difficulty +1
+ 
+APPENDIX J
+OPTIONAL TREASURES
+Ashbound Knife
+Once per rest:
+Gain 1 Hope after a successful attack.
+ 
+Lantern Of Embersight
+Reveal hidden magical objects.
+ 
+Silver Flame Fragment
+Once per session:
+Convert a roll with Fear into a roll with Hope.
+ 
+Furnace Knight Core
+Reduce incoming damage by one threshold once per long rest.
+ 
+Emberbound Charm
+Gain advantage in social interactions with Firekeepers and pilgrims.
+ 
+APPENDIX K
+ALTERNATE OUTCOMES
+Side With The Ashbound
+Gain future allies.
+Elira becomes cautious.
+ 
+Join Brother Corvin
+Unlock the Living Council ending more easily.
+ 
+Kill Corvin
+Lysa becomes the Emberbound spokesperson.
+ 
+Attack Vaelor's Last Spark
+Experience one of the spirit's preserved memories.
+Gain Hope and Stress.
+ 
+Refuse The Ritual
+The village must attempt the ritual without the heroes.
+Consequences follow.
+ 
+Ritual Failure
+Unlock the Ashen Night campaign path.
+ 
+APPENDIX L
+CAMPAIGN TRANSITIONS
+Choose the next failing flame.
+d6
+	Location
+	1
+	Frostwatch Beacon
+	2
+	Lanternfall Keep
+	3
+	Emberglass Mine
+	4
+	Hollow Spire
+	5
+	Ashwater Crossing
+	6
+	Dawn's Remnant
+	Each location can serve as the basis for the next full adventure in the campaign.
+ 
+THE END
+Somewhere beyond the valley another fire flickers.
+Another village waits.
+Another story begins.
+ 
+APPENDIX M
+PLAYER HANDOUT
+What Everybody Knows About Ashgrove Hollow
+Give this to the players at the start of the adventure.
+ 
+Ashgrove Hollow is a small settlement located in a narrow valley.
+The village survives beneath the light of the Sacred Pyre of Vaelor.
+Everybody knows the following:
+The Sacred Pyre
+The Pyre has burned for centuries.
+Travelers use it as a beacon.
+Children are blessed before it.
+The dead are cremated within it.
+Most villagers cannot imagine life without it.
+ 
+Saint Vaelor
+Local stories say Vaelor carried a single sacred ember through the darkness.
+The Pyre was born from that ember.
+Whether the story is literally true is unknown.
+ 
+The Umbra
+Every child grows up hearing warnings about the darkness beyond the village.
+Nobody agrees about what the Umbra actually is.
+Everybody agrees it is dangerous.
+ 
+Recent Events
+For the past several days:
+·       The Sacred Pyre has weakened.
+·       Strange lights have appeared in the woods.
+·       The village has become increasingly fearful.
+ 
+APPENDIX N
+RANDOM GM MOVES
+Use if you need inspiration during play.
+1
+An important NPC appears unexpectedly.
+2
+The darkness briefly behaves unnaturally.
+3
+A lantern extinguishes itself.
+4
+Someone reveals an uncomfortable truth.
+5
+A valuable item is lost.
+6
+The Sacred Pyre reacts.
+7
+An old memory resurfaces.
+8
+A distant howl echoes through the forest.
+ 
+APPENDIX O
+FEAR SPENDS FOR THIS ADVENTURE
+Specific Fear options help beginner GMs.
+Act I
+Spend Fear to:
+·       Increase crowd panic.
+·       Introduce an unsettling omen.
+·       Cause the Pyre to weaken visibly.
+Act II
+Spend Fear to:
+·       Alert nearby enemies.
+·       Damage convoy supplies.
+·       Introduce an Umbra Hound.
+Act III
+Spend Fear to:
+·       Create false leads.
+·       Escalate strange phenomena.
+·       Spread unsettling rumors.
+Act IV
+Spend Fear to:
+·       Trigger Lightless Pockets.
+·       Separate characters.
+·       Awaken dormant guardians.
+Act V
+Spend Fear to:
+·       Damage ritual circles.
+·       Summon additional Husks.
+·       Empower the Shepherd.
+ 
+APPENDIX P
+SESSION ZERO QUESTIONS
+Have each player answer one.
+Guardian
+Who in the village reminds you of someone from your past?
+Ranger
+What rumor brought you to Ashgrove Hollow?
+Rogue
+What secret are you hiding from the group?
+Sorcerer
+Why does the Sacred Pyre interest you?
+Warrior
+Why do you refuse to give up when others would?
+These create immediate character investment.
+ 
+APPENDIX Q
+TREASURE CARDS
+Format these as small printable cards.
+Ashbound Knife
+Once per rest, gain 1 Hope after a successful attack.
+ 
+Lantern of Embersight
+Reveal hidden magic.
+ 
+Silver Flame Fragment
+Once per session: Convert Fear to Hope.
+ 
+Furnace Knight Core
+Reduce incoming damage by one threshold once per rest.
+ 
+APPENDIX R
+CAMPAIGN OPENERS
+Use immediately after the adventure.
+The Frostwatch Beacon
+A sacred fire burns blue and cold.
+Its guardian vanished three nights ago.
+ 
+The Hollow Spire
+A lighthouse-like tower still burns.
+Nobody has seen the keeper in months.
+ 
+Dawn's Remnant
+Pilgrims claim a fragment of true sunlight still exists.
+No two maps lead to the same place.
+ 
+FINAL GM NOTE
+I'd also add one final page:
+ 
+THE THEMES OF THE FADING PYRE
+Whenever you're uncertain what should happen next, ask:
+What preserves hope?
+What reveals truth?
+What demands sacrifice?
+What strengthens community?
+If a scene does one of those things, it belongs in this adventure.
+ 
+ 
+ 
+ 
+PREGENERATED CHARACTER 1
+Seren Ashwind
+Loreborne Elf Sorcerer
+Concept
+A scholar obsessed with sacred flames.
+Description
+Seren has spent years searching for surviving sources of First Dawn magic.
+Stories of the Sacred Pyre brought her to Ashgrove Hollow.
+Experiences
+·       Keeper of Ancient Lore +2
+·       Fires Must Not Die +2
+Personality
+Patient. Curious. Intensely focused.
+Question
+What secret about sacred fire are you hoping to prove?
+Weapon
+Dualstaff
+Far
+1d6+3 Magic
+ 
+PREGENERATED CHARACTER 2
+Torren Vale
+Highborne Human Warrior
+Concept
+A retired soldier seeking redemption.
+Description
+Once responsible for protecting trade routes between distant settlements.
+Failed to save one community when its sacred beacon failed.
+Experiences
+·       Veteran Of The Long Watch +2
+·       Never Again +2
+Personality
+Protective. Kind. Burdened.
+Question
+Who did you lose the last time a sacred light went out?
+Weapon
+Longsword
+Melee
+1d8+3 Physical
+ 
+PREGENERATED CHARACTER 3
+Brindle
+Underborne Ribbet Rogue
+Concept
+A smuggler who knows hidden roads.
+Description
+Brindle earns a living moving supplies between isolated communities.
+Recently encountered strange lantern-bearers on an abandoned route.
+Experiences
+·       Knows Every Shortcut +2
+·       They Never See Me Coming +2
+Personality
+Pragmatic. Funny. Suspicious.
+Question
+What valuable item did you once steal but now regret taking?
+Weapon
+Dagger
+Melee
+1d8+1 Physical
+ 
+PREGENERATED CHARACTER 4
+Khora Stoneheart
+Ridgeborne Giant Guardian
+Concept
+A wandering defender.
+Description
+Khora escorts refugees between settlements whose lights have failed.
+She has personally witnessed entire towns disappear.
+Experiences
+·       Last One Standing +2
+·       I Will Protect You +2
+Personality
+Calm. Reliable. Fearless.
+Question
+What community do you still hope survived?
+Weapon
+Battleaxe
+Very Close
+1d10+3 Physical
+ 
+PREGENERATED CHARACTER 5
+Niko Embertrail
+Wildborne Katari Ranger
+Concept
+A hunter of Umbra creatures.
+Description
+Niko tracks monsters that emerge when sacred lights fail.
+Several recent sightings have drawn them toward Ashgrove Hollow.
+Experiences
+·       Monster Tracker +2
+·       Nothing Escapes My Sight +2
+Personality
+Confident. Observant. Impulsive.
+Question
+What creature are you determined to destroy?
+Weapon
+Shortbow
+Far
+1d6+3 Physical
+ 
+PREGENERATED CHARACTER 6
+Sister Vey
+Seaborne Faerie Seraph
+Concept
+A wandering lantern-priest.
+Description
+Vey ministers to remote settlements and performs rites for the dead.
+She believes sacred fires contain fragments of living memory.
+Experiences
+·       Keeper of Lost Souls +2
+·       Every Life Matters +2
+Personality
+Compassionate. Insightful. Resolved.
+Question
+Whose memory are you afraid of losing?
+Weapon
+Blessed Lantern
+Close
+1d8+2 Magic
+Why she's excellent
+The current party lacks a strongly spiritual perspective, and Vey naturally reinforces the themes of:
+·       Memory
+·       Sacrifice
+·       Hope
+ 
+PREGENERATED CHARACTER 7
+Kael Blackforge
+Clank Warrior
+Concept
+An ancient machine from a forgotten firekeeping order.
+Description
+Kael was discovered inactive beneath a ruined beacon tower.
+Fragments of his memory suggest he once guarded sacred flames.
+Experiences
+·       Ancient Firekeeper +2
+·       I Remember Pieces +2
+Personality
+Direct. Literal. Curious.
+Question
+What fragment of your lost memory keeps returning?
+Weapon
+Rune Blade
+Melee
+1d8+3 Physical
+ 
+PARTY RECOMMENDATION
+For a standard group of 5:
+1.      Seren Ashwind (Sorcerer)
+2.      Torren Vale (Warrior)
+3.      Brindle (Rogue)
+4.      Khora Stoneheart (Guardian)
+5.      Niko Embertrail (Ranger)
+For a group of 6:
+Add Sister Vey.
+For a group of 7:
+Add Kael Blackforge.
+ 
+CONNECTIONS
+Before play, each player chooses one:
+I trust you with my life.
+You saved me once.
+We disagree about what should be done.
+I owe you a debt.
+You remind me of someone I lost.
+We survived a failed settlement together.
+These fit the themes of The Fading Pyre much better than generic adventuring-party relationships.
+This gives you a complete quickstart roster with a mix of:
+·       Arcane caster
+·       Frontline warrior
+·       Rogue
+·       Tank guardian
+·       Ranged specialist
+·       Spiritual support
+·       Construct veteran
+and ties every character directly to the central themes of sacred fires, memory, survival, and hope.
