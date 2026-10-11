@@ -2297,312 +2297,311 @@ MOSSE DEL GM
 	·       Il Pastore evoca rinforzi
  
 APPENDICE P
-SCHEDA RAPIDA DEL RITUALE
-	Questa è una pagina da tenere sempre visibile durante l'Atto V.
-	
-	Countdown del Rituale
-	Inizia a: 8
-	Posiziona un d8 sul tavolo.
-	
-	Il Countdown Diminuisce Quando
-	·       Uno Spettro di Cenere viene sconfitto.
-	·       Un obiettivo del rituale viene completato.
-	·       Un personaggio aiuta Elira in modo significativo.
-	·       Una minaccia importante viene superata.
-	·       Un sacrificio narrativo accelera il rituale.
-	
-	Il Countdown Aumenta Quando
-	·       Elira viene colpita.
-	·       Una runa viene danneggiata.
-	·       Il Pastore del Vespro conclude con successo un'Azione Paura.
-	·       Avviene un fallimento grave.
-	
-	Effetti del Countdown
-	8-7
-	La Pira si stabilizza.
-	
-	6-5
-	Gli abitanti recuperano speranza.
-	Tutti ottengono:
-	+1 Speranza
-	
-	4
-	Il Pastore entra in combattimento.
-	
-	3-2
-	Iniziano le visioni della Scintilla.
-	
-	1
-	La realtà si deforma.
-	GM ottiene:
-	+1 Paura
-	Tutti ottengono:
-	+1 Speranza
-	
-	0
-	Il rituale termina immediatamente.
-	Passare alla scelta finale.
+	SCHEDA RAPIDA DEL RITUALE
+		Questa è una pagina da tenere sempre visibile durante l'Atto V.
+		
+		Countdown del Rituale
+		Inizia a: 8
+		Posiziona un d8 sul tavolo.
+		
+		Il Countdown Diminuisce Quando
+		·       Uno Spettro di Cenere viene sconfitto.
+		·       Un obiettivo del rituale viene completato.
+		·       Un personaggio aiuta Elira in modo significativo.
+		·       Una minaccia importante viene superata.
+		·       Un sacrificio narrativo accelera il rituale.
+		
+		Il Countdown Aumenta Quando
+		·       Elira viene colpita.
+		·       Una runa viene danneggiata.
+		·       Il Pastore del Vespro conclude con successo un'Azione Paura.
+		·       Avviene un fallimento grave.
+		
+		Effetti del Countdown
+		8-7
+		La Pira si stabilizza.
+		
+		6-5
+		Gli abitanti recuperano speranza.
+		Tutti ottengono:
+		+1 Speranza
+		
+		4
+		Il Pastore entra in combattimento.
+		
+		3-2
+		Iniziano le visioni della Scintilla.
+		
+		1
+		La realtà si deforma.
+		GM ottiene:
+		+1 Paura
+		Tutti ottengono:
+		+1 Speranza
+		
+		0
+		Il rituale termina immediatamente.
+		Passare alla scelta finale.
 	
 APPENDICE Q
-COMPENDIO DELLA PIAZZA DELLA PIRA
-	Questa sezione aiuta il GM durante la battaglia finale.
-	
-	La Pira Sacra
-	Tipo
-	Ambiente Tier 1
-	
-	Fiamma della Speranza
-	Passiva
-	Tutti gli alleati entro distanza Vicina:
-	·       vantaggio contro paura
-	·       vantaggio contro disperazione
-	
-	Esplosione di Speranza
-	1 volta per scena
-	Costo:
-	2 Speranza
-	Effetto:
-	Tutti gli alleati:
-	·       cancellano 1 Stress
-	
-	Condotto Instabile
-	Azione Paura
-	Costo:
-	1 Paura
-	Effetto:
-	Tutte le creature entro Molto Vicino:
-	·       segnano 1 Stress
+	COMPENDIO DELLA PIAZZA DELLA PIRA
+		Questa sezione aiuta il GM durante la battaglia finale.
+		
+		La Pira Sacra
+		Tipo
+		Ambiente Tier 1
+		
+		Fiamma della Speranza
+		Passiva
+		Tutti gli alleati entro distanza Vicina:
+		·       vantaggio contro paura
+		·       vantaggio contro disperazione
+		
+		Esplosione di Speranza
+		1 volta per scena
+		Costo:
+		2 Speranza
+		Effetto:
+		Tutti gli alleati:
+		·       cancellano 1 Stress
+		
+		Condotto Instabile
+		Azione Paura
+		Costo:
+		1 Paura
+		Effetto:
+		Tutte le creature entro Molto Vicino:
+		·       segnano 1 Stress
 	
 APPENDICE S
 	FACCIOLE DELLE FAZIONI
-	Questa appendice mancava completamente.
 	
-	Ashgrove Hollow
-	Guidata da
-	Elira
-	Crede
-	"La Pira deve sopravvivere."
-	
-	Emberbound
-	Guidati da
-	Corvin
-	Credono
-	"La Scintilla deve essere liberata."
-	
-	Pastore del Vespro
-	Guidato da
-	Il Pastore stesso
-	Crede
-	"Bisogna accettare la fine."
-	
-	Ultima Scintilla
-	Vuole
-	Essere ascoltata.
-	Non vuole
-	Essere usata.
+		Ashgrove Hollow
+		Guidata da
+		Elira
+		Crede
+		"La Pira deve sopravvivere."
+		
+		Emberbound
+		Guidati da
+		Corvin
+		Credono
+		"La Scintilla deve essere liberata."
+		
+		Pastore del Vespro
+		Guidato da
+		Il Pastore stesso
+		Crede
+		"Bisogna accettare la fine."
+		
+		Ultima Scintilla
+		Vuole
+		Essere ascoltata.
+		Non vuole
+		Essere usata.
 	
 APPENDICE T
-CALENDARIO DELLA SESSIONE
-	Molto utile per GM nuovi.
-	
-	Sessione 1
-	·       Introduzione
-	·       Atto I
-	·       Atto II
-	
-	Sessione 2
-	·       Atto III
-	·       Atto IV
-	
-	Sessione 3
-	·       Atto V
-	·       Finali
-	·       Epilogo
+	CALENDARIO DELLA SESSIONE
+		Molto utile per GM nuovi.
+		
+		Sessione 1
+		·       Introduzione
+		·       Atto I
+		·       Atto II
+		
+		Sessione 2
+		·       Atto III
+		·       Atto IV
+		
+		Sessione 3
+		·       Atto V
+		·       Finali
+		·       Epilogo
 	
 APPENDICE V
-CHECKLIST DEL GM
-	Prima della sessione:
-	·       Leggere Atto I
-	·       Leggere Atto II
-	·       Preparare il Countdown
-	·       Preparare gli avversari
-	Prima dell'Atto V:
-	·       Mettere il d8 sul tavolo
-	·       Preparare Elira
-	·       Preparare il Pastore
-	·       Preparare i finali
+	CHECKLIST DEL GM
+		Prima della sessione:
+		·       Leggere Atto I
+		·       Leggere Atto II
+		·       Preparare il Countdown
+		·       Preparare gli avversari
+		Prima dell'Atto V:
+		·       Mettere il d8 sul tavolo
+		·       Preparare Elira
+		·       Preparare il Pastore
+		·       Preparare i finali
  
 APPENDICE H
-MAPPE E AREE D'INCONTRO
+	MAPPE E AREE D'INCONTRO
  
-	Mappa 1
-		Ashgrove Hollow
-		Luoghi Importanti
-		1.       Pira Sacra
-		2.       Santuario di Vaelor
-		3.       Forgia Coalhand
-		4.       Collina delle Ceneri
-		5.       Case dei Villaggi
-		6.       Piazza Centrale
-		Utilizzo
-		·       Atto I
-		·       Atto III
-		·       Atto V
-	
-	Mappa 2
-		Il Convoglio Assalito
-		Elementi
-		·       Carro Rovesciato
-		·       Scorte di Legname
-		·       Alberi Caduti
-		·       Copertura Forestale
-		·       Punto di Agguato
-		Utilizzo
-		Atto II
-	
-	Mappa 3
-		La Vecchia Cava
-		Elementi
-		·       Pareti della cava
-		·       Ingresso nascosto
-		·       Punto panoramico di Lysa
-		·       Porta Antica
-		Utilizzo
-		Atto III
-	
-	Mappa 4
-		Incrocio delle Vie della Brace
-		Elementi
-		·       Accesso alle gallerie
-		·       Campo Emberbound
-		·       Fiume d'Argento
-		·       Sala dei Guardiani
-		·       Camera della Scintilla
-		Utilizzo
-		Atto IV
-	
-	Mappa 5
-		Il Campo Rituale
-		Elementi
-		·       Pira Sacra
-		·       Cerchi Runici
-		·       Posizione di Elira
-		·       Ingresso del Pastore
-		·       Punti di apparizione degli Spettri
-		Utilizzo
-		Atto V
+		Mappa 1
+			Ashgrove Hollow
+			Luoghi Importanti
+			1.       Pira Sacra
+			2.       Santuario di Vaelor
+			3.       Forgia Coalhand
+			4.       Collina delle Ceneri
+			5.       Case dei Villaggi
+			6.       Piazza Centrale
+			Utilizzo
+			·       Atto I
+			·       Atto III
+			·       Atto V
+		
+		Mappa 2
+			Il Convoglio Assalito
+			Elementi
+			·       Carro Rovesciato
+			·       Scorte di Legname
+			·       Alberi Caduti
+			·       Copertura Forestale
+			·       Punto di Agguato
+			Utilizzo
+			Atto II
+		
+		Mappa 3
+			La Vecchia Cava
+			Elementi
+			·       Pareti della cava
+			·       Ingresso nascosto
+			·       Punto panoramico di Lysa
+			·       Porta Antica
+			Utilizzo
+			Atto III
+		
+		Mappa 4
+			Incrocio delle Vie della Brace
+			Elementi
+			·       Accesso alle gallerie
+			·       Campo Emberbound
+			·       Fiume d'Argento
+			·       Sala dei Guardiani
+			·       Camera della Scintilla
+			Utilizzo
+			Atto IV
+		
+		Mappa 5
+			Il Campo Rituale
+			Elementi
+			·       Pira Sacra
+			·       Cerchi Runici
+			·       Posizione di Elira
+			·       Ingresso del Pastore
+			·       Punti di apparizione degli Spettri
+			Utilizzo
+			Atto V
  
 APPENDICE J
-EVENTI CASUALI DELLA FORESTA
-	Usa questi eventi durante:
-	·       viaggi
-	·       pause narrative
-	·       ritorni da missione
-	
-	d8
-	1
-	Una lanterna appare tra gli alberi.
-	Quando i personaggi si avvicinano non c'è nessuno.
-	
-	2
-	Una zona completamente silenziosa.
-	Perfino i suoni dei personaggi sembrano attenuati.
-	
-	3
-	Una pioggia di cenere cade per alcuni minuti.
-	
-	4
-	Tracce di una creatura sconosciuta.
-	
-	5
-	Un pellegrino Emberbound perduto.
-	
-	6
-	Una vecchia pietra miliare coperta di simboli.
-	
-	7
-	Un branco di animali in fuga.
-	
-	8
-	Una voce che chiama il nome di uno dei personaggi.
+	EVENTI CASUALI DELLA FORESTA
+		Usa questi eventi durante:
+		·       viaggi
+		·       pause narrative
+		·       ritorni da missione
+		
+		d8
+		1
+		Una lanterna appare tra gli alberi.
+		Quando i personaggi si avvicinano non c'è nessuno.
+		
+		2
+		Una zona completamente silenziosa.
+		Perfino i suoni dei personaggi sembrano attenuati.
+		
+		3
+		Una pioggia di cenere cade per alcuni minuti.
+		
+		4
+		Tracce di una creatura sconosciuta.
+		
+		5
+		Un pellegrino Emberbound perduto.
+		
+		6
+		Una vecchia pietra miliare coperta di simboli.
+		
+		7
+		Un branco di animali in fuga.
+		
+		8
+		Una voce che chiama il nome di uno dei personaggi.
 	
 APPENDICE K
-INCONTRI OPZIONALI
+	INCONTRI OPZIONALI
  
-	Pellegrino Smarrito
-	Difficoltà
-	13
-	Successo
-	I personaggi apprendono informazioni sugli Emberbound.
-	Fallimento
-	Il GM ottiene 1 Paura.
-	
-	Santuario Crollato
-	Sfida di Gruppo.
-	3 Successi prima di 2 Fallimenti.
-	Ricompensa:
-	1 Speranza a testa.
-	
-	Foschia dell'Umbra
-	L'ombra invade un tratto di sentiero.
-	Se i personaggi falliscono:
-	·       1 Stress
-	·       1 Paura al GM
-	
+		Pellegrino Smarrito
+		Difficoltà
+		13
+		Successo
+		I personaggi apprendono informazioni sugli Emberbound.
+		Fallimento
+		Il GM ottiene 1 Paura.
+		
+		Santuario Crollato
+		Sfida di Gruppo.
+		3 Successi prima di 2 Fallimenti.
+		Ricompensa:
+		1 Speranza a testa.
+		
+		Foschia dell'Umbra
+		L'ombra invade un tratto di sentiero.
+		Se i personaggi falliscono:
+		·       1 Stress
+		·       1 Paura al GM
+		
 APPENDICE M
-MOSSE DEL GM
+	MOSSE DEL GM
 	
-	Mostra un Pericolo
-	"Sentite qualcosa muoversi nel buio."
-	
-	Peggiora la Situazione
-	"Le rune iniziano a incrinarsi."
-	
-	Consuma una Risorsa
-	"La lanterna si spegne."
-	
-	Separa il Gruppo
-	"Il passaggio crolla."
-	
-	Rivela una Verità
-	"Corvin non vi ha raccontato tutto."
-	
-	Introduci una Minaccia
-	"Gli Spettri non sono soli."
-	
-	Offri una Scelta Difficile
-	"Potete salvare Elira o completare il rituale."
-	
+		Mostra un Pericolo
+		"Sentite qualcosa muoversi nel buio."
+		
+		Peggiora la Situazione
+		"Le rune iniziano a incrinarsi."
+		
+		Consuma una Risorsa
+		"La lanterna si spegne."
+		
+		Separa il Gruppo
+		"Il passaggio crolla."
+		
+		Rivela una Verità
+		"Corvin non vi ha raccontato tutto."
+		
+		Introduci una Minaccia
+		"Gli Spettri non sono soli."
+		
+		Offri una Scelta Difficile
+		"Potete salvare Elira o completare il rituale."
+		
 APPENDICE N
-HANDOUT PER I GIOCATORI
-	Da consegnare all'inizio della partita.
-	
-	Quello che Sapete di Ashgrove Hollow
-	La Pira Sacra brucia da generazioni.
-	Nessuno sa chi l'abbia accesa.
-	La sua luce protegge il villaggio dall'Umbra.
-	Negli ultimi giorni:
-	·       la fiamma si è indebolita
-	·       gli abitanti sono sempre più spaventati
-	·       sono state viste luci misteriose nella foresta
-	·       alcuni sostengono che la terra stia cambiando
-	Tutti temono che qualcosa di terribile stia per accadere.
+	HANDOUT PER I GIOCATORI
+		Da consegnare all'inizio della partita.
+		
+		Quello che Sapete di Ashgrove Hollow
+		La Pira Sacra brucia da generazioni.
+		Nessuno sa chi l'abbia accesa.
+		La sua luce protegge il villaggio dall'Umbra.
+		Negli ultimi giorni:
+		·       la fiamma si è indebolita
+		·       gli abitanti sono sempre più spaventati
+		·       sono state viste luci misteriose nella foresta
+		·       alcuni sostengono che la terra stia cambiando
+		Tutti temono che qualcosa di terribile stia per accadere.
  
 APPENDICE O
-CONNESSIONI FRA PERSONAGGI
-	Prima dell'inizio della sessione ogni personaggio sceglie almeno una connessione.
-	Mi fido di te con la mia vita.
-	Ti devo un favore.
-	Mi hai salvato una volta.
-	Non siamo mai stati d'accordo.
-	Mi ricordi qualcuno che ho perso.
-	Siamo sopravvissuti alla stessa tragedia.
-	Sto cercando di impressionarti.
-	Non credo che tu abbia ragione.
+	CONNESSIONI FRA PERSONAGGI
+		Prima dell'inizio della sessione ogni personaggio sceglie almeno una connessione.
+		Mi fido di te con la mia vita.
+		Ti devo un favore.
+		Mi hai salvato una volta.
+		Non siamo mai stati d'accordo.
+		Mi ricordi qualcuno che ho perso.
+		Siamo sopravvissuti alla stessa tragedia.
+		Sto cercando di impressionarti.
+		Non credo che tu abbia ragione.
 	
   
 APPENDICE C
-INDICE DEGLI AVVERSARI
+	INDICE DEGLI AVVERSARI
  
 	Razziatore Vincolato alla Cenere
 		Tier 1 - Standard

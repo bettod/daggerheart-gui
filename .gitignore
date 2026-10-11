@@ -1,3 +1,31 @@
 *.pyc
 *.pyd
 __pycache__/
+.pytest_cache/
+*.log
+*.tmp
+*.bak
+*.swp
+*.orig
+*.rej
+*.coverage
+.coverage*
+htmlcov/
+.DS_Store
+Thumbs.db
+
+# Local/generated data files
+*.pdf
+*.txt
+*.json
+*.csv
+*.xml
+*.db
+*.sqlite3
+
+# Project-specific generated/local docs
+/data/
+/quickstart_pages.txt
+/quickstart_adventure.pdf
+/Dying Pyre.txt
+/LA PIRA MORENTE.txt
