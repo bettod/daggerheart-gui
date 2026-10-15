@@ -40,7 +40,30 @@ ATTO I - PARTE 1 - LA VEGLIA DELLA PIRA
 		Per generazioni, viaggiatori e pellegrini hanno seguito il bagliore della Pira Sacra.
 		Questa sera quel bagliore fatica a raggiungere la strada.
 
-		Cut to primo piano di una spada
+	Narrazione interattiva
+		Cut to primo piano di una spada, THUNF colpisce un coniglio tagliandogli la testa. Un guerriero umano,
+		con l'aria del mercenario veterano, prende il coniglio e gli toglie la pelle in modo esperto.
+		Gli animali nella foresta sono diversi rispetto a quello che erano tempo fa, spesso non e' ovvio ma la corruzione si diffonde.
+		Descrivi questo guerriero.
+		Pochi secondi dopo, senti un rumore dalla foresta, rametti calpestati, passi di qualcuno che si avvicina. I tuoi muscoli si tendono in modo istintivo ma si rilassano quasi immediatamente.
+		La camera si sposta e dalle foreste esce un fungril, una specie di fungo senziente. I fungril hanno una specie di Hive mind e possono comunicare tramite il network micellare con altri organismi della specie.
+		Anche se non sono mai veramente soli, la presenza fisica di compagni e' sempre diverso dalla condivisione micelica.
+		La camera si focalizza sugli occhi di questo Fungril, zoommano fino a che non si vedono solo quelli. C'e' un flicker, e poi la camera si allarga e si vede lo stesso Fungril ma molto piu' giovane, il tessuto di micelio
+		non ancora completamente formato e meno spesso. Si muove veloce nella foresta, paura sul suo volto. Corre, e arriva ad una zona paludosa piu' aperta. Sembra che una mandria di bisonti sia passata e abbia distrutto tutto.
+		"La mia casa" mormora...
+		Cosa fai
+		Dall'altra parte della radura, esce una figura dall'aspetto bovino, ma i vestiti sono chiaramente fatti con materiale che trovi in natura.
+		Non sembra ostile, si avvicina molto lentamente. Dice: "Sussussatore di spore, ho visto cosa e' accaduto. Mi spiace ma la tua colonia e' perduta, le loro spore disperse nel vento. I corrotti dall'Umbra hanno fatto questo."
+		Descrivici il personaggio
+
+		Torniamo al presente.
+		Lentamente, Blandon e Cortyceps si incamminano verso una radura con un falo' in mezzo e qualche ciagiglio attorno.
+		Il falo' era rimasto acceso per la notte e la mattinata ma ora bisogna rimettersi in marcia. Lo sta spegnendo, coprendolo di terra, una Katari dal pelo nero rilucente.
+		Descrivici il tuo personaggio
+		
+
+
+
 
 		Davanti a voi centinaia di persone sono riunite nella piazza del villaggio.
 		Nessuno canta.

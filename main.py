@@ -232,8 +232,9 @@ class DaggerheartViewer(QWidget):
 
         def add_items(items, parent_item):
             for section in items:
+                text = section.get("text") or section.get("title", "")
                 item = QTreeWidgetItem([section["title"]])
-                item.setData(0, Qt.UserRole, {"type": "adventure_section", "title": section["title"], "text": section["text"]})
+                item.setData(0, Qt.UserRole, {"type": "adventure_section", "title": section["title"], "text": text})
                 parent_item.addChild(item)
                 if section.get("children"):
                     add_items(section["children"], item)
@@ -242,22 +243,11 @@ class DaggerheartViewer(QWidget):
         self.section_list.addTopLevelItem(root)
 
     def render_adventure_section_html(self, title: str, text: str):
-        lines = [ln.rstrip() for ln in text.splitlines()]
-        blocks = []
-        buffer = []
-        for line in lines:
-            if not line.strip():
-                if buffer:
-                    blocks.append(" ".join(part.strip() for part in buffer if part.strip()))
-                    buffer = []
-                continue
-            buffer.append(line)
-        if buffer:
-            blocks.append(" ".join(part.strip() for part in buffer if part.strip()))
-
-        html = [f"<h1>{title}</h1>"]
-        for block in blocks:
-            html.append(f"<p>{self.render_inline(block)}</p>")
+        body = (text or title or "").replace("\r\n", "\n").strip()
+        html = [f"<h1>{self.render_inline(title)}</h1>"]
+        if body:
+            formatted = self.render_inline(body)
+            html.append(f"<div style='white-space: pre-line; line-height: 1.6;'>{formatted}</div>")
         return "\n".join(html)
 
     def on_category_expanded(self, item: QTreeWidgetItem):
