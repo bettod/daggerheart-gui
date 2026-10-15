@@ -39,6 +39,9 @@ ATTO I - PARTE 1 - LA VEGLIA DELLA PIRA
 		Eppure, anche nel crepuscolo eterno, Ashgrove Hollow dovrebbe essere facile da trovare.
 		Per generazioni, viaggiatori e pellegrini hanno seguito il bagliore della Pira Sacra.
 		Questa sera quel bagliore fatica a raggiungere la strada.
+
+		Cut to primo piano di una spada
+
 		Davanti a voi centinaia di persone sono riunite nella piazza del villaggio.
 		Nessuno canta.
 		Nessuno ride.
@@ -163,7 +166,7 @@ ATTO I - PARTE 2 - IL BAMBINO CHE PIANGE
 		"Bene."
 		"Forse riuscirete a vedere ciò che noi abbiamo smesso di notare."
 		
-		Elira Ashmantle
+		Elira Ashmantle - Highborne Elf
 		Ruolo
 		Custode della Pira Sacra.
 		Leader spirituale di Ashgrove Hollow.
@@ -281,12 +284,6 @@ ATTO I - PARTE 2 - IL BAMBINO CHE PIANGE
 		"Cominciate dal convoglio di legname consacrato."
 		"Avrebbe dovuto fare ritorno ore fa."
 	
-	IL CONVOGLIO SCOMPARSO
-		Le scorte di legname consacrato vengono conservate in un campo di raccolta distante alcuni chilometri dal villaggio.
-		Quel legname è fondamentale per alimentare la Pira.
-		Se il convoglio non è tornato...
-		qualcosa è andato storto.
-	
 	FINE DELL'ATTO I
 		Leggi ai giocatori
 		La notte si fa più profonda.
@@ -369,6 +366,7 @@ ATTO II
 		
 		Fallimento con Paura
 		Il GM ottiene 1 Paura.
+		Marca uno stress
 		Una figura si muove tra gli alberi.
 		Troppo rapidamente per essere identificata.
 	
@@ -380,7 +378,6 @@ ATTO II
 		Ciò che ne rimane.
 		Un carro giace rovesciato.
 		Un altro è stato quasi completamente svuotato.
-		Tronchi di legname consacrato sono sparsi ovunque.
 		Le casse sono state aperte.
 		I cavalli sono scomparsi.
 		Dal sottobosco si alza ancora un filo di fumo.
@@ -446,7 +443,7 @@ ATTO II
 		Razziatore Vincolato alla Cenere
 		Tier 1 - Standard
 		Coltello di Cenere
-		Mischia - 1d8+4 fisici
+		Mischia - 1d8+5 fisici
 		ATK: +1
 		Difficoltà: 13
 		Soglie: 6 / 12
@@ -477,11 +474,9 @@ ATTO II
 		Stress: OO
 		
 		Capacità
-		Raduna i Disperati
-		Scegli un alleato.
-		Quell'alleato:
-		·       cancella 1 Stress
-		·       ottiene +1 ATK
+		Back off
+		Spendi 1 Paura
+		Attacca tutti in Melee range, 2d6+3 Magic e scaglia tutti in Far Range
 		
 		Distruggere le Prove (Azione Paura)
 		Spendi 1 Paura.
@@ -492,7 +487,7 @@ ATTO II
 	OBIETTIVI DEI RAZZIATORI
 		I Razziatori non sono qui per uccidere.
 		Vogliono:
-		1.       Rubare il legname consacrato.
+		1.       Rubare le provviste
 		2.       Sopravvivere.
 		3.       Fuggire.
 		Combatteranno con ferocia.
@@ -562,6 +557,15 @@ ATTO II
 		Gli occhi brillano di una luce pallida.
 		E la sua ombra sembra muoversi indipendentemente dal corpo.
 		
+		UMBRA BEAR
+		Tier 1 Bruiser
+		A big BEAR with thick fur and powerful Claws
+		Difficulty: 14 | Thresholds: 9/17 | Hp: 7 | Stress: 2 | Atk: +1 | Melee | 2d8+5 phy
+		Features
+		Overwhelming Force - Passive: Targets who mark HP from the Bear’s standard attack are knocked back to Very Close range.
+		Crush - Action: Mark a Stress to make an attack against a target within Melee range. On a success, deal 3d4+10 physical damage and the target is Restrained until they break free with a successful Strength Roll.
+		Momentum - Reaction: When the Bear makes a successful attack against a PC, you gain a Fear.
+		
 		Segugio dell'Umbra
 		Tier 1 - Standard
 		Zanne d'Ombra
@@ -575,7 +579,7 @@ ATTO II
 		Balzo del Predatore
 		Il Segugio può muoversi da Vicino a Mischia e attaccare immediatamente.
 		Nutrirsi della Paura
-		Ottiene vantaggio contro bersagli Vulnerabili.
+		Ottiene vantaggio contro bersagli con 2+ Stess
 		
 		Come Utilizzare il Segugio
 		Il Segugio non è alleato dei Razziatori.
@@ -596,7 +600,7 @@ ATTO II
 	
 	LE CONSEGUENZE
 		Se i Razziatori sono stati sconfitti
-		I personaggi recuperano gran parte del legname consacrato.
+		I personaggi recuperano gran parte delle provviste
 		Gli abitanti del villaggio saranno grati.
 		
 		Se i Razziatori Fuggono
@@ -616,7 +620,7 @@ ATTO II
 		·       simboli sconosciuti
 		·       note scritte a mano
 		Una frase compare più volte:
-		"L'Ultima Scintilla si sta risvegliando."
+		"L'Ultima Scintilla si sta spegnendo."
 		Nessuno dei presenti sa spiegare cosa significhi.
 		Non ancora.
 	
@@ -714,6 +718,7 @@ ATTO III
 		"Credevo ci avreste messo più tempo."
 		
 		MAELIN, L'INDOVINA DELLE CENERI
+		Galapa
 		Aspetto
 		·       anziana
 		·       cieca
@@ -790,6 +795,7 @@ ATTO III
 		Martelli e scintille riempiono l'aria.
 		
 		TAMSIN COALHAND
+		Dwarf
 		Aspetto
 		·       corporatura robusta
 		·       mani ustionate
@@ -838,10 +844,11 @@ ATTO III
 		E la stessa immagine ripetuta ovunque.
 		Una figura che trasporta una singola fiamma attraverso la notte.
 	
-	LYSA EMBERWAKE
+	    EMBERWAKE STATUE
+		Clank
 		Mentre i personaggi esaminano la porta:
 		Leggi ai giocatori
-		Una lanterna si accende dietro di voi.
+		Una lanterna si accende in alto.
 		La sua fiamma è d'argento.
 		Una figura incappucciata osserva dall'alto della cava.
 		"Non dovreste aprirla."
@@ -883,10 +890,7 @@ ATTO IV
 		Leggi ai giocatori
 		La scalinata sembra non avere fine.
 		Passo dopo passo lasciate il mondo di superficie alle vostre spalle.
-		L'aria diventa più calda.
-		Più secca.
-		Più antica.
-		I rumori del villaggio scompaiono.
+		L'aria diventa più calda, più secca, più antica.
 		Perfino il suono dei vostri passi sembra venire assorbito dalle tenebre.
 		Più scendete e più avete l'impressione che questo luogo non sia stato costruito per gli uomini.
 	
@@ -920,6 +924,32 @@ ATTO IV
 		"La fiamma ti ricorda."
 		Guerriero
 		"Non eri abbastanza forte."
+		
+	TRAPPOLE
+		The Chasm Leap (Difficulty 12)
+			The path down abruptly ends at a 6-foot wide fracture in the stone.
+			• The Challenge: They must jump across or rig a rope system in pitch darkness.
+			• The Rolls: Strength (Athletics) to jump, or Finesse to securely anchor a rope.
+			• The Stakes: A failure doesn't mean falling to their death—it means they slip, slam into the far ledge, take minor damage, and the Countdown Die ticks down.
+		
+		The Scree Slope (Difficulty 13)
+			The cave floor turns into a steep, 45-degree slope covered in loose, marble-sized gravel (scree).
+			• The Challenge: Sliding down safely without causing a mini-avalanche that buries the people ahead of them.
+			• The Rolls: Agility to slide gracefully, or Instinct to pick a solid path along the walls.
+			• The Stakes: A failure causes a cascade of rocks, hurting a teammate and ticking the Countdown Die down.
+			
+		The Arrow Trap
+			When the players finish Zone 2, they enter a narrow, smooth-stone corridor.
+			They may notice the pressure plates or the holes in the wall (Instinct Roll, Difficulty 12). 
+			But if the Countdown Die hits 0, someone accidentally steps on the trigger in the dark automatically.
+			The Whistling Volley
+			• The Event: Three mechanical pressure plates trigger a volley of stone-tipped arrows down the narrow hallway.
+			• The Target: Because there are 5 players walking single-file, the arrows fly toward the front, middle, and back of the line.
+			The Arrow-Snatch Moment
+			When the arrows fire, explicitly turn to the player who wants to perform the feat:
+			• "An arrow whistles out of the dark, aimed directly at your ally's throat. Because you are right next to them, you have a split-second to react."
+			• The Roll: Agility Reaction Roll (Difficulty 15).
+			• The Result: On a success, they snatch it cleanly out of the air. On a failure, the ally takes 2d6 physical damage.
 	
 	I PELLEGRINI DIMENTICATI
 		Dopo un lungo tratto di gallerie i personaggi raggiungono un'enorme sala.
@@ -930,17 +960,13 @@ ATTO IV
 		La maggior parte è spenta.
 		Alcune brillano ancora di una tenue luce argentea.
 		Sotto di esse giacciono decine di scheletri avvolti in vesti cerimoniali.
-		Le loro mani stringono ancora le lanterne.
-		Sembra che si siano semplicemente seduti ad aspettare.
-		E che non si siano mai più rialzati.
+		Alcuni morti in combattimento, altri in modo meno chiaro.
 		
 		Tiro di Conoscenza (Difficoltà 13)
 		Successo
 		Gli scheletri appartenevano agli Emberbound.
-		Non mostrano segni di violenza.
 		Successo Critico
-		Queste persone non furono sorprese.
-		Scelsero deliberatamente di restare qui.
+		Queste persone scelsero deliberatamente di sottoporsi ad un qualche tipo di Trial.
 	
 	TESORI DEL SANTUARIO
 		Tira 1d6 oppure scegli.
@@ -983,6 +1009,7 @@ ATTO IV
 		Ma nessuno sembra rilassato.
 		
 		FRATELLO CORVIN
+		Drakona
 		Leader degli Emberbound.
 		
 		Aspetto
@@ -1001,7 +1028,7 @@ ATTO IV
 	L'INCONTRO CON CORVIN
 		Leggi ai giocatori
 		La folla si apre.
-		Un uomo avanza portando una lanterna che diffonde una luce argentea.
+		Un Drakona avanza portando una lanterna che diffonde una luce argentea.
 		"Benvenuti."
 		La sua voce è stanca.
 		"Avrei preferito incontrarvi in tempi migliori."
@@ -1014,17 +1041,15 @@ ATTO IV
 		Nessuno degli Emberbound sembra sorpreso da quelle parole.
 		"Non lo ha mai fatto."
 		Corvin alza la lanterna.
-		"La sua energia proviene da qualcosa che dorme sotto la valle."
+		"La sua energia proviene dal sacrificio di generazioni di eroi."
+		"Il rituale risale all'epoca subito successiva alla scomparsa degli dei."
 		
 		Rivelazione Uno
 		La Pira dipende da una fonte esterna.
 		
 		Rivelazione Due
-		Questa fonte è viva.
-		
-		Rivelazione Tre
-		La sua identità è:
-		L'ULTIMA SCINTILLA DI VAELOR
+		Ogni volta che la pira si stava spegnendo, un nuovo eroe deve sacrificarsi per rinnovare la fiamma.
+		LA SCINTILLA DI VAELOR
 		
 		Rivelazione Quattro
 		Lo spirito si sta risvegliando.
@@ -1035,9 +1060,7 @@ ATTO IV
 		Leggi ai giocatori
 		"Credo che la Scintilla meriti la libertà."
 		Corvin abbassa lo sguardo.
-		"Ma credere non significa sapere."
-		"Non sappiamo cosa accadrà quando si risveglierà."
-		"Nessuno lo sa."
+		"Ma non posso saperlo con certezza. Nessuno ha tutte le risposte perche' non e' mai stato fatt prima."
 	
 	LA DOMANDA MORALE
 		Dopo aver spiegato la situazione Corvin pone una domanda.
@@ -1076,20 +1099,6 @@ ATTO IV
 		·       Oggetti persi
 		·       Percorsi pericolosi
 	
-	LA SALA DEI GUARDIANI
-		Superato il fiume, gigantesche porte bronzee sbarrano il passaggio.
-		Leggi ai giocatori
-		Le porte sono alte quanto una casa.
-		Su tutta la loro superficie sono incise parole antiche.
-		"Guardiano dell'Ultima Scintilla."
-		"Custode della Memoria Sacra."
-		"Difensore della Fiamma Dormiente."
-		
-		Tiro di Conoscenza (10)
-		Successo:
-		Il guardiano oltre quelle porte non è stato creato per imprigionare la Scintilla.
-		È stato creato per proteggerla.
-	
 	IL CAVALIERE DEL FORNO
 		Leggi ai giocatori
 		Le porte si aprono lentamente.
@@ -1097,9 +1106,6 @@ ATTO IV
 		Un'armatura bronzea alta più di tre metri.
 		Luce incandescente filtra dalle crepe del metallo.
 		Un'enorme spada si solleva lentamente.
-		In profondità risuonano ingranaggi antichi.
-		Poi la figura parla.
-		"ACCESSO NON AUTORIZZATO."
 	
 	Cavaliere del Forno
 	Usa il blocco statistiche dell'Appendice C.
@@ -1707,6 +1713,7 @@ APPENDICE B
 	PERSONAGGI NON GIOCANTI
 	
 	Elira Ashmantle
+		Orderborne Elf
 		Ruolo
 		Custode della Pira Sacra.
 		Motivazione
@@ -1715,6 +1722,7 @@ APPENDICE B
 		Scopre gradualmente che salvare la Pira potrebbe significare prolungare la sofferenza della Scintilla.
 	
 	Maelin l'Indovina delle Ceneri
+		Faerie
 		Ruolo
 		Profeta.
 		Motivazione
@@ -1723,6 +1731,7 @@ APPENDICE B
 		Ha già comunicato con l'Ultima Scintilla.
 	
 	Fratello Harn
+		Umano
 		Ruolo
 		Custode del Santuario di Vaelor.
 		Motivazione
@@ -1731,6 +1740,7 @@ APPENDICE B
 		Teme che gli antichi dèi abbiano abbandonato il mondo.
 	
 	Tamsin Coalhand
+		Dwarf
 		Ruolo
 		Fabbra del villaggio.
 		Motivazione
@@ -1739,6 +1749,7 @@ APPENDICE B
 		Aveva notato segni provenienti dalla cava mesi prima ma li ha ignorati.
 	
 	Lysa Emberwake
+		Clank
 		Ruolo
 		Esploratrice Emberbound.
 		Motivazione
@@ -1747,6 +1758,7 @@ APPENDICE B
 		Non è certa che Corvin abbia ragione.
 	
 	Fratello Corvin
+		Dracona
 		Ruolo
 		Leader degli Emberbound.
 		Motivazione
@@ -1861,440 +1873,36 @@ APPENDICE E
 		Fallimento:
 		Tutti segnano 1 Stress.
  
-APPENDICE G
-	PERSONAGGI PREGENERATI
-	COME USARE I PERSONAGGI PREGNERATI
-		Ogni personaggio contiene:
-		·       Concetto
-		·       Background
-		·       Esperienze
-		·       Equipaggiamento principale
-		·       Domanda narrativa
-		·       Motivazione personale
-		Prima di iniziare l'avventura, ogni giocatore dovrebbe:
-		1.       Scegliere un personaggio.
-		2.       Rispondere alla propria domanda.
-		3.       Stabilire almeno una connessione con un altro membro del gruppo.
-	
-	SEREN ASHWIND
-		Elfa Sapiente Stregona
-		Concetto
-		Studiosa delle fiamme sacre.
-		Background
-		Seren ha trascorso gran parte della propria vita inseguendo antichi racconti riguardanti le ultime luci del mondo.
-		Le voci sulla Pira Sacra di Ashgrove Hollow l'hanno condotta fino alla valle.
-		Aspetto
-		·       Lunghi capelli argentei
-		·       Occhi color ambra
-		·       Abiti da viaggiatrice
-		·       Bastone inciso con rune antiche
-		Esperienze
-		Custode della Conoscenza Antica +2
-		Le Fiamme Non Devono Morire +2
-		Equipaggiamento
-		Doppio Bastone
-		·       Gittata: Lontano
-		·       Danno: 1d6+3 Magico
-		Domanda
-		Quale segreto sulle fiamme sacre speri di dimostrare?
-		Connessioni
-		·       Mi fido di te più che di chiunque altro.
-		·       Mi hai salvata durante una spedizione precedente.
-		·       Condividiamo la stessa ossessione.
-		
-	TORREN VALE
-		Umano Nobile Guerriero
-		Concetto
-		Veterano in cerca di redenzione.
-		Background
-		Torren serviva come guardia di frontiera quando una comunità vicina perse il proprio faro sacro.
-		Non è mai riuscito a perdonarsi.
-		Aspetto
-		·       Capelli scuri
-		·       Cicatrice sul mento
-		·       Armatura consumata dal tempo
-		Esperienze
-		Veterano della Lunga Veglia +2
-		Mai Più +2
-		Equipaggiamento
-		Spada Lunga
-		·       Mischia
-		·       1d8+3 Fisico
-		Domanda
-		Chi hai perso quando una fiamma sacra si è spenta?
-		Connessioni
-		·       Ti devo la vita.
-		·       Non sei mai stato d'accordo con me.
-		·       Mi ricordi qualcuno che ho perduto.
-	
-	BRINDLE
-		Ribbet Sotterraneo Ladro
-		Concetto
-		Contrabbandiere e sopravvissuto.
-		Background
-		Brindle trasporta merci tra insediamenti isolati.
-		Conosce sentieri segreti che non compaiono su nessuna mappa.
-		Aspetto
-		·       Occhi prominenti
-		·       Mantello scuro
-		·       Coltelli nascosti ovunque
-		Esperienze
-		Conosco Ogni Scorciatoia +2
-		Non Mi Vedono Mai Arrivare +2
-		Equipaggiamento
-		Pugnale
-		·       Mischia
-		·       1d8+1 Fisico
-		Domanda
-		Quale oggetto rubato continui a rimpiangere?
-		Connessioni
-		·       Mi hai coperto le spalle.
-		·       Ti considero un amico.
-		·       Mi fai paura.
-		
-	KHORA PIETRACUORE
-		Gigante Guardiana delle Creste
-		Concetto
-		Protettrice errante.
-		Background
-		Khora accompagna profughi provenienti da villaggi che hanno perso le proprie fiamme.
-		Ha assistito personalmente al crollo di intere comunità.
-		Aspetto
-		·       Imponente statura
-		·       Ascia enorme
-		·       Armatura rattoppata
-		Esperienze
-		Ti Proteggerò +2
-		Non Ho Paura di Nulla +2
-		Equipaggiamento
-		Ascia da Battaglia
-		·       Molto Vicino
-		·       1d10+3 Fisico
-		Domanda
-		Quale comunità speri sia ancora viva?
-		Connessioni
-		·       Ti considero famiglia.
-		·       Ti sto mettendo alla prova.
-		·       Abbiamo combattuto insieme.
-		
-	NIKO EMBERTRAIL
-		Katari Selvatico Ranger
-		Concetto
-		Cacciatore di creature dell'Umbra.
-		Background
-		Niko segue le tracce delle creature che emergono quando una luce si spegne.
-		Le recenti voci provenienti da Ashgrove Hollow hanno attirato la sua attenzione.
-		Aspetto
-		·       Orecchie feline
-		·       Arco corto
-		·       Mantello da caccia
-		Esperienze
-		Segugio di Mostri +2
-		Occhio Infallibile +2
-		Equipaggiamento
-		Arco Corto
-		·       Lontano
-		·       1d6+3 Fisico
-		Domanda
-		Quale mostro desideri distruggere da anni?
-		Connessioni
-		·       Voglio diventare forte quanto te.
-		·       Ti considero il mio rivale.
-		·       Ci raccontiamo tutto.
-		
-	SORELLA VEY
-		Fata del Mare Serafina
-		Concetto
-		Sacerdotessa itinerante delle lanterne.
-		Background
-		Vey accompagna le anime dei morti e benedice i luoghi in cui la speranza rischia di spegnersi.
-		Aspetto
-		·       Ali luminescenti
-		·       Lanterna consacrata
-		·       Veste bianca e grigia
-		Esperienze
-		Custode delle Anime Perdute +2
-		Ogni Vita Conta +2
-		Equipaggiamento
-		Lanterna Benedetta
-		·       Vicino
-		·       1d8+2 Magico
-		Domanda
-		Di quale persona temi di perdere il ricordo?
-		Connessioni
-		·       Ti considero una persona buona.
-		·       Cerco di aiutarti.
-		·       Non condividiamo le stesse convinzioni.
-		
-	KAEL FORGIANERA
-		Clank Guerriero
-		Concetto
-		Antico guardiano dimenticato.
-		Background
-		Kael è stato ritrovato inattivo all'interno di un vecchio faro in rovina.
-		Le sue memorie sono frammentarie.
-		Ma continua a sognare fiamme.
-		Aspetto
-		·       Corpo metallico annerito
-		·       Rune consumate
-		·       Occhi azzurri luminosi
-		Esperienze
-		Antico Custode del Fuoco +2
-		Ricordo Frammenti +2
-		Equipaggiamento
-		Lama Runica
-		·       Mischia
-		·       1d8+3 Fisico
-		Domanda
-		Quale frammento di memoria continua a tornare nei tuoi sogni?
-		Connessioni
-		·       Mi stai aiutando a comprendere gli umani.
-		·       Ti considero affidabile.
-		·       Non capisco il tuo comportamento.
-		
-	GRUPPO CONSIGLIATO
-		Per una squadra standard di 5 personaggi:
-		·       Seren Ashwind
-		·       Torren Vale
-		·       Brindle
-		·       Khora Pietracuore
-		·       Niko Embertrail
-		Per 6 giocatori:
-		·       aggiungi Sorella Vey
-		Per 7 giocatori:
-		·       aggiungi Kael Forgianera
-
-APPENDICE C
-	BESTIARIO COMPLETO
-	
-	Razziatore Vincolato alla Cenere
-		Tier 1 - Standard
-		Coltello di Cenere
-		Mischia - 1d8+4 Fisico
-		ATK: +1
-		Difficoltà: 13
-		Soglie: 6 / 12
-		HP: OOO
-		Stress: OO
-		Capacità
-		Bomba Fumogena (Reazione)
-		Quando entra in scena senza essere visto può diventare Nascosto.
-		
-		Colpo Disperato (Azione)
-		Segna 1 Stress.
-		Ottiene +2 al prossimo attacco.
-		
-	Capitano Vincolato alla Cenere
-		Tier 1 - Leader
-		Sciabola Carbonizzata
-		Mischia - 2d4+4 Fisico
-		ATK: +3
-		Difficoltà: 14
-		Soglie: 7 / 14
-		HP: OOOO
-		Stress: OO
-		Capacità
-		Raduna i Disperati
-		Un alleato:
-		·       cancella 1 Stress
-		·       ottiene +1 ATK
-		
-		Distruggere le Prove (Azione Paura)
-		Spendi 1 Paura.
-		Distruggi una parte delle risorse del convoglio.
-	
-	Segugio dell'Umbra
-		Tier 1 - Standard
-		Zanne d'Ombra
-		Mischia - 1d6+3 Fisico
-		ATK: +1
-		Difficoltà: 12
-		Soglie: 5 / 10
-		HP: OOO
-		Stress: O
-		Capacità
-		Balzo Predatorio
-		Muoviti da Vicino a Mischia e attacca immediatamente.
-		
-		Nutrirsi della Paura
-		Ottiene vantaggio contro bersagli Vulnerabili.
-	
-	Guscio Carbonizzato
-		Tier 1 - Standard
-		Presa Ardente
-		Mischia - 1d6+2 Magico
-		ATK: +0
-		Difficoltà: 12
-		Soglie: 7 / Nessuna
-		HP: OO
-		Stress: O
-		Capacità
-		Crollo di Cenere
-		Quando viene sconfitto:
-		Tutte le creature in Mischia segnano 1 Stress.
-		
-		Assalto del Branco
-		Azione Paura
-		Spendi 1 Paura.
-		Tutti i Gusci vicini effettuano un attacco condiviso.
-		
-	Spettro di Cenere
-		Tier 1 - Bruiser
-		Drenaggio Vitale
-		Lontano - 2d6+8 Magico
-		ATK: +3
-		Difficoltà: 13
-		Soglie: 7 / 14
-		HP: OOOOOO
-		Stress: OOO
-		Capacità
-		Consuma Memoria
-		Attacca un bersaglio Vicino.
-		Infligge:
-		3d4+9 Magico
-		Il bersaglio diventa Vulnerabile.
-		
-		Attraversare
-		Azione Paura
-		Spendi 1 Paura.
-		Il bersaglio diventa Disancorato.
-		Non può agire finché il Countdown non diminuisce.
-		
-		Forma Spettrale
-		Resistenza ai danni fisici.
-		
-	Portatore di Lanterna
-		Tier 1 - Leader
-		Bastone Lanterna
-		Vicino - 2d4+3 Magico
-		ATK: +3
-		Difficoltà: 14
-		Soglie: 7 / 14
-		HP: OOOO
-		Stress: OO
-		Capacità
-		Luce Guida
-		Un alleato:
-		·       cancella 1 Stress
-		·       ottiene vantaggio
-		
-		Lampo Accecante
-		Azione Paura
-		Spendi 1 Paura.
-		Tutti entro Molto Vicino:
-		·       segnano 1 Stress
-		
-	Predatore dell'Umbra
-		Tier 1 - Bruiser
-		Artigli d'Ombra
-		Mischia - 2d8+6 Fisico
-		ATK: +2
-		Difficoltà: 14
-		Soglie: 8 / 16
-		HP: OOOOO
-		Stress: OOO
-		Capacità
-		Balzo
-		Muovi e attacca.
-		Il bersaglio segna 1 Stress.
-		
-		Passo d'Ombra
-		Può muoversi ovunque entro distanza Lontana.
-		
-		Cacciatore Oscuro
-		Vantaggio contro bersagli Vulnerabili.
-	
-	Cavaliere del Forno
-		Tier 1 - Solo
-		Spadone Fuso
-		Molto Vicino - 2d10+8 Fisico
-		ATK: +4
-		Difficoltà: 15
-		Soglie: 10 / 20
-		HP: OOOOOOOOO
-		Stress: OOOO
-		Capacità
-		Fiamma Guardiana
-		Resistenza ai danni fisici.
-		
-		Carica Ardente
-		Muoviti fino a Lontano.
-		Attacca tutti i bersagli attraversati.
-		
-		Esplosione Magmatica
-		Azione Paura
-		Spendi 1 Paura.
-		Tutti entro Molto Vicino segnano 1 Stress.
-		
-		Nucleo Incrinato
-		Attivazione:
-		sotto metà HP.
-		·       cancella Stress
-		·       +1 ATK
-	
-	Pastore del Vespro
-		Tier 1 - Solo Leader
-		Bastone della Notte Infinita
-		Lontano - 2d10+10 Magico
-		ATK: +4
-		Difficoltà: 16
-		Soglie: 11 / 22
-		HP: OOOOOOOOOOO
-		Stress: OOOO
-		Capacità
-		Spegnere la Speranza
-		Azione Paura
-		Spendi 1 Paura.
-		Il bersaglio perde 1 Speranza.
-		Se non possiede Speranza:
-		segna 1 Stress.
-		
-		Calare la Notte
-		Genera una zona di oscurità.
-		Gli attacchi all'interno ottengono vantaggio.
-		
-		Comunione d'Ombra
-		Evoca:
-		·       2 Gusci Carbonizzati
-		oppure
-		·       1 Spettro di Cenere
-		
-		Umbra Ascendente
-		Sotto metà HP:
-		·       Volo
-		·       +1 ATK
-		·       Dupliche d'Ombra
- 
 APPENDICE N
-MOSSE DEL GM
-	Questa appendice mancava completamente.
-	Mosse Generiche
-	Quando ottieni Paura puoi:
-	Mostrare un pericolo imminente
-	Separare i personaggi
-	Consumare risorse
-	Aumentare la tensione
-	Peggiorare una situazione esistente
-	
-	Mosse Specifiche Dell'Avventura
-	Atto I
-	·       Le fiamme vacillano improvvisamente
-	·       Gli abitanti iniziano a discutere
-	·       Un bambino scompare momentaneamente
-	Atto II
-	·       Arrivano rinforzi
-	·       Le scorte prendono fuoco
-	·       Appare un Segugio dell'Umbra
-	Atto III
-	·       Una falsa pista sembra convincente
-	·       Un PNG omette informazioni importanti
-	Atto IV
-	·       Si attiva una Sacca Senza Luce
-	·       Un passaggio crolla
-	Atto V
-	·       Una runa rituale esplode
-	·       Elira perde la concentrazione
-	·       Il Pastore evoca rinforzi
+	MOSSE DEL GM
+		Questa appendice mancava completamente.
+		Mosse Generiche
+		Quando ottieni Paura puoi:
+		Mostrare un pericolo imminente
+		Separare i personaggi
+		Consumare risorse
+		Aumentare la tensione
+		Peggiorare una situazione esistente
+		
+		Mosse Specifiche Dell'Avventura
+		Atto I
+		·       Le fiamme vacillano improvvisamente
+		·       Gli abitanti iniziano a discutere
+		·       Un bambino scompare momentaneamente
+		Atto II
+		·       Arrivano rinforzi
+		·       Le scorte prendono fuoco
+		·       Appare un Segugio dell'Umbra
+		Atto III
+		·       Una falsa pista sembra convincente
+		·       Un PNG omette informazioni importanti
+		Atto IV
+		·       Si attiva una Sacca Senza Luce
+		·       Un passaggio crolla
+		Atto V
+		·       Una runa rituale esplode
+		·       Elira perde la concentrazione
+		·       Il Pastore evoca rinforzi
  
 APPENDICE P
 	SCHEDA RAPIDA DEL RITUALE
@@ -2606,7 +2214,7 @@ APPENDICE C
 	Razziatore Vincolato alla Cenere
 		Tier 1 - Standard
 		Coltello di Cenere
-		Mischia • 1d8+4 Fisico
+		Mischia • 1d8+5 Fisico
 		ATK: +1
 		Difficoltà: 13
 		Soglie: 6 / 12
@@ -2637,11 +2245,9 @@ APPENDICE C
 		Stress: O O
 		
 		Capacità
-		Raduna i Disperati (Azione)
-		Scegli un alleato entro distanza Vicina.
-		L'alleato:
-		·       Cancella 1 Stress.
-		·       Ottiene +1 ATK fino alla prossima attivazione.
+		Back off
+		Spendi 1 Paura
+		Attacca tutti in Melee range, 2d6+3 Magic e scaglia tutti in Far Range
 		
 		Distruggere le Prove (Azione Paura)
 		Spendi 1 Paura
@@ -2667,12 +2273,27 @@ APPENDICE C
 		Muoviti da Vicino a Mischia e attacca immediatamente.
 		
 		Nutrirsi della Paura
-		Ottiene vantaggio contro bersagli Vulnerabili.
+		Ottiene vantaggio contro bersagli con 2+ Stess
 		
 		Tattiche
 		·       Attacca il bersaglio più debole.
 		·       Colpisce chi si allontana dal gruppo.
 		·       Non combatte fino alla morte.
+		
+	Umbra Bear
+		Tier 1 Bruiser
+		A big BEAR with thick fur and powerful Claws
+		Melee | 2d8+5 phy
+		Atk: +1
+		Difficulty: 14 
+		Thresholds: 9/17
+		Hp: O O O O O O O 
+		Stress: O O
+		
+		Features
+		Overwhelming Force - Passive: Targets who mark HP from the Bear’s standard attack are knocked back to Very Close range.
+		Crush - Action: Mark a Stress to make an attack against a target within Melee range. On a success, deal 3d4+10 physical damage and the target is Restrained until they break free with a successful Strength Roll.
+		Momentum - Reaction: When the Bear makes a successful attack against a PC, you gain a Fear.
 		
 	Guscio Carbonizzato
 		Tier 1 - Standard
