@@ -58,13 +58,22 @@ ATTO I - PARTE 1 - LA VEGLIA DELLA PIRA
 
 		Torniamo al presente.
 		Lentamente, Blandon e Cortyceps si incamminano verso una radura con un falo' in mezzo e qualche ciagiglio attorno.
-		Il falo' era rimasto acceso per la notte e la mattinata ma ora bisogna rimettersi in marcia. Lo sta spegnendo, coprendolo di terra, una Katari dal pelo nero rilucente.
+		Il falo' era rimasto acceso per la notte e la mattinata ma ora bisogna rimettersi in marcia. Un Ribbet lo sta spegnendo con della terra e poi calpestandolo.
 		Descrivici il tuo personaggio
+		Thunf, thunk, THUNF, la scena cambia e' notte e il Ribbet e' per terra e qualcun altro lo sta calpestando. Sono in due, il Ribbet si protegge con le braccia facendo quello che puo'
+		ma sente qualche costola incrinarsi, la cartilagine tra le dita si rompe. Colpa di un furto andato male che ha provocato le ire di questa band locale di ladri. Stanno solo mandando un messaggio.
+		Attende il momento giusto pero' e riesce a balzare in piedi incredibilmente veloce, sorprendendo i suoi aggressori.
+		Tiro su Agility per scappare con un balzo Ribbet.
+		Sa che deve solo arrivare a girare l'angolo per essere salvo. Gira l'angolo ma si schianta contro un energumeno BLAM, praticamente come correre contro un muro. E' un gigante, il bruiser della gilda locale.
+		Pensa: Oh cazz... quando una palla di ghiaccio si materializza come dal nulla e colpisce la nuca del Gigante. Lo tramortisce e puo' continuare a correre.
+		Dai tetti circostanti, vedi una figura felice, una Katari dal pelo nero e fulvo, che corre nella tua stessa direzione in parallelo. Poi salta in strada e ti si affianca, senza smettere di correre.
+		Descrivici il tuo personaggio.
+		Questa volta ne siete usciti senza troppi problemi, magari una costola rotta, ma dovete lasciare la citta' immediatamente.	
 		
 
 
-
-
+		Torniamo nel presente.
+		Disfate l'accampamento e arrivate finalmente senza problemi ad Ashgrove Hollow.
 		Davanti a voi centinaia di persone sono riunite nella piazza del villaggio.
 		Nessuno canta.
 		Nessuno ride.
@@ -1083,7 +1092,7 @@ ATTO IV
 		Leggi ai giocatori
 		"Credo che la Scintilla meriti la libertà."
 		Corvin abbassa lo sguardo.
-		"Ma non posso saperlo con certezza. Nessuno ha tutte le risposte perche' non e' mai stato fatt prima."
+		"Ma non posso saperlo con certezza. Nessuno ha tutte le risposte perche' non e' mai stato fatto prima."
 	
 	LA DOMANDA MORALE
 		Dopo aver spiegato la situazione Corvin pone una domanda.
@@ -1095,6 +1104,8 @@ ATTO IV
 		"Per mille anni."
 		Corvin osserva ciascuno di voi.
 		"Per quanto tempo accettereste quel sacrificio?"
+		"Se volete vedere la Scintilla e magari capire di piu' cosa c'e' in palio, proseguite lungo la caverna.
+		Ma ci sara' un ostacolo, nessuno di noi e' mai riuscito a superare il guardiano."
 	
 	IL FIUME D'ARGENTO
 		Per proseguire occorre attraversare una gigantesca caverna.
@@ -1178,8 +1189,8 @@ ATTO IV
 		E sembra sollevato.
 		La visione svanisce.
 		Un solo pensiero rimane nella vostra mente.
-		"È già lì."
 		"Sbrigatevi."
+		I PG vengono curati/stress curato/hope data in base alla situazione
 	
 	FINE DELL'ATTO IV
 		I personaggi ora conoscono:
@@ -1460,49 +1471,7 @@ I CINQUE FINALI
 		Qualunque decisione prenderanno cambierà per sempre Ashgrove Hollow.
  
 	FINALE I
-		RINNOVARE IL VINCOLO
-		I personaggi scelgono di mantenere il legame tra la Pira Sacra e l'Ultima Scintilla.
-		Leggi ai giocatori
-		La Scintilla argentata discende lentamente verso il cuore della Pira.
-		Per un momento il tempo sembra fermarsi.
-		Poi il villaggio viene investito da un'ondata di luce.
-		Le fiamme esplodono verso il cielo.
-		Più alte.
-		Più luminose.
-		Più vive.
-		La Pira Sacra rinasce.
-		Un boato di gioia attraversa la piazza.
-		Ashgrove Hollow è salva.
- 
-		Conseguenze
-		L'Ultima Scintilla Rimane
-		La creatura continua a nutrire la Pira.
-		Non è stata liberata.
-		Ma nemmeno distrutta.
-		
-		Elira Sopravvive
-		Il Custode rimane alla guida del villaggio.
-		Tuttavia non sarà più la stessa persona.
-		Ha visto la verità.
-		
-		Gli Emberbound
-		Corvin accetta la decisione.
-		Con riluttanza.
-		Gli Emberbound continuano a esistere come osservatori.
-		
-		Ricompensa
-		Tutti i personaggi ottengono il tratto esperienza:
-		Difensore della Pira (+2)
-		Utilizzabile quando:
-		·       proteggete una comunità
-		·       organizzate una difesa
-		·       sostenete la speranza degli altri
-		
-		Campagna Successiva
-		Questo finale conduce naturalmente a una campagna sulla difesa delle altre fiamme sacre.
- 
-	FINALE II
-		LIBERARE LA SCINTILLA
+		ETA' OSCURA
 		I personaggi scelgono di restituire la libertà all'Ultima Scintilla.
 		Leggi ai giocatori
 		La fiamma argentata si solleva lentamente sopra la Pira.
@@ -1546,8 +1515,8 @@ I CINQUE FINALI
 		Campagna Successiva
 		Questo finale porta a una campagna di esplorazione e scoperta.
 		
-	FINALE III
-		FIAMMA VIVENTE
+	FINALE II
+		SACRIFICIO
 		Uno degli eroi offre parte di sé.
 		La Scintilla entra nel mortale.
 		
@@ -1592,47 +1561,7 @@ I CINQUE FINALI
 		Campagna Successiva
 		Questo finale conduce a una campagna incentrata sul personaggio prescelto.
 		
-	FINALE IV
-		IL CONSIGLIO VIVENTE
-		Disponibile se:
-		·       Corvin è vivo
-		·       Elira è viva
-		·       i personaggi hanno favorito il dialogo
-		
-		Leggi ai giocatori
-		Nessuno viene imprigionato.
-		Nessuno viene sacrificato.
-		Nessuno viene dimenticato.
-		Gli Emberbound.
-		Gli abitanti di Ashgrove Hollow.
-		L'Ultima Scintilla.
-		Tutti giungono a un nuovo accordo.
-		Per la prima volta dopo secoli il futuro viene condiviso.
-		
-		Conseguenze
-		Nasce un Nuovo Ordine
-		I Custodi della Brace.
-		Un gruppo formato da:
-		·       abitanti del villaggio
-		·       Emberbound
-		·       pellegrini
-		
-		La Scintilla Rimane
-		Ma non come prigioniera.
-		Come alleata.
-		
-		Ricompensa
-		Tutti ottengono:
-		Mediatore della Fiamma (+2)
-		Utilizzabile quando:
-		·       risolvete conflitti
-		·       costruite alleanze
-		·       convincete fazioni rivali a cooperare
-		
-		Campagna Successiva
-		Si presta a campagne politiche e sociali.
-		
-	FINALE V
+	FINALE III
 		NOTTE DI CENERE
 		Questo finale si verifica se il rituale fallisce completamente.
 		
@@ -1770,15 +1699,6 @@ APPENDICE B
 		Proteggere la comunità con mezzi concreti.
 		Segreto
 		Aveva notato segni provenienti dalla cava mesi prima ma li ha ignorati.
-	
-	Lysa Emberwake
-		Clank
-		Ruolo
-		Esploratrice Emberbound.
-		Motivazione
-		Evitare una guerra tra il villaggio e gli Emberbound.
-		Segreto
-		Non è certa che Corvin abbia ragione.
 	
 	Fratello Corvin
 		Dracona
